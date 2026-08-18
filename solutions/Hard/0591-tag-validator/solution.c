@@ -4,7 +4,7 @@
 // Tags     : String, Stack
 // Link     : https://leetcode.com/problems/tag-validator/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 8428000 (beats 0%)
+// Memory   : 8560000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
@@ -75,9 +75,11 @@ bool isValid(char* code) {
         }
     }
 
+    bool result = (top == -1);
+
     while (top >= 0) {
         free(stack[top--]);
     }
 
-    return top == -1;
+    return result;
 }
