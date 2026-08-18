@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : String, Stack
 // Link     : https://leetcode.com/problems/tag-validator/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8560000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9256000 (beats 100%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
