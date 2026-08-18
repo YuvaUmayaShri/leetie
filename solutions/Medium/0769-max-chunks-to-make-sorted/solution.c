@@ -3,22 +3,25 @@
 // Difficulty: Medium
 // Tags     : Array, Stack, Greedy, Sorting, Monotonic Stack
 // Link     : https://leetcode.com/problems/max-chunks-to-make-sorted/
-// Runtime  : N/A (beats 0%)
-// Memory   : N/A (beats 0%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 8452000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
-#include <stdbool.h>
+int maxChunksToSorted(int* arr, int arrSize) {
+    int max_val = 0;
+    int chunks = 0;
 
-bool isToeplitzMatrix(int** matrix, int matrixSize, int* matrixColSize) {
-    for (int i = 0; i < matrixSize - 1; i++) {
-        for (int j = 0; j < matrixColSize[i] - 1; j++) {
-            if (matrix[i][j] != matrix[i + 1][j + 1]) {
-                return false;
-            }
+    for (int i = 0; i < arrSize; i++) {
+        if (arr[i] > max_val) {
+            max_val = arr[i];
+        }
+        if (max_val == i) {
+            chunks++;
         }
     }
-    return true;
+
+    return chunks;
 }
