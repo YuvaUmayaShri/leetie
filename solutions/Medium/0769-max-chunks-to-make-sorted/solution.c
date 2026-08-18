@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Stack, Greedy, Sorting, Monotonic Stack
 // Link     : https://leetcode.com/problems/max-chunks-to-make-sorted/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8452000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 8420000 (beats 90%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
