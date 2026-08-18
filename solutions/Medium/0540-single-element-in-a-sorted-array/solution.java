@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/single-element-in-a-sorted-array/
-// Runtime  : 0 ms (beats 100%)
-// Memory   : 52456000 (beats 98%)
+// Runtime  : N/A (beats 0%)
+// Memory   : N/A (beats 0%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
