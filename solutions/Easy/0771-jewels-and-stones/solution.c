@@ -3,25 +3,29 @@
 // Difficulty: Easy
 // Tags     : Hash Table, String
 // Link     : https://leetcode.com/problems/jewels-and-stones/
-// Runtime  : N/A (beats 0%)
-// Memory   : N/A (beats 0%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 8364000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
-int maxChunksToSorted(int* arr, int arrSize) {
-    int max_val = 0;
-    int chunks = 0;
+#include <stdbool.h>
+#include <string.h>
 
-    for (int i = 0; i < arrSize; i++) {
-        if (arr[i] > max_val) {
-            max_val = arr[i];
-        }
-        if (max_val == i) {
-            chunks++;
+int numJewelsInStones(char* jewels, char* stones) {
+    bool isJewel[128] = {false};
+    int count = 0;
+
+    for (int i = 0; jewels[i] != '\0'; i++) {
+        isJewel[(unsigned char)jewels[i]] = true;
+    }
+
+    for (int i = 0; stones[i] != '\0'; i++) {
+        if (isJewel[(unsigned char)stones[i]]) {
+            count++;
         }
     }
 
-    return chunks;
+    return count;
 }
