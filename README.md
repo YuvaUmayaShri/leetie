@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 11 Solved
+## Progress Summary: 12 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -16,4 +16,5 @@
 | repeated-string-match | Repeated String Match | Medium | c | [Problem](https://leetcode.com/problems/repeated-string-match/) | [Solution](./solutions/Medium/0686-repeated-string-match/solution.c) |
 | single-element-in-a-sorted-array | Single Element in a Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./solutions/Medium/0540-single-element-in-a-sorted-array/solution.java) |
 | tag-validator | Tag Validator | Hard | c | [Problem](https://leetcode.com/problems/tag-validator/) | [Solution](./solutions/Hard/0591-tag-validator/solution.c) |
+| toeplitz-matrix | Toeplitz Matrix | Easy | c | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.c) |
 | zigzag-conversion | Zigzag Conversion | Medium | python3 | [Problem](https://leetcode.com/problems/zigzag-conversion/) | [Solution](./solutions/Medium/0006-zigzag-conversion/solution.py) |
