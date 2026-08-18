@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 12 Solved
+## Progress Summary: 13 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -10,6 +10,7 @@
 | knight-probability-in-chessboard | Knight Probability in Chessboard | Medium | c | [Problem](https://leetcode.com/problems/knight-probability-in-chessboard/) | [Solution](./solutions/Medium/0688-knight-probability-in-chessboard/solution.c) |
 | longest-palindromic-substring | Longest Palindromic Substring | Medium | java | [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./solutions/Medium/0005-longest-palindromic-substring/solution.java) |
 | longest-word-in-dictionary | Longest Word in Dictionary | Medium | c | [Problem](https://leetcode.com/problems/longest-word-in-dictionary/) | [Solution](./solutions/Medium/0720-longest-word-in-dictionary/solution.c) |
+| max-chunks-to-make-sorted | Max Chunks To Make Sorted | Medium | c | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Solution](./solutions/Medium/0769-max-chunks-to-make-sorted/solution.c) |
 | maximum-sum-of-3-non-overlapping-subarrays | Maximum Sum of 3 Non-Overlapping Subarrays | Hard | c | [Problem](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Solution](./solutions/Hard/0689-maximum-sum-of-3-non-overlapping-subarrays/solution.c) |
 | median-of-two-sorted-arrays | Median of Two Sorted Arrays | Hard | java | [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](./solutions/Hard/0004-median-of-two-sorted-arrays/solution.java) |
 | merge-two-sorted-lists | Merge Two Sorted Lists | Easy | java | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/Easy/0021-merge-two-sorted-lists/solution.java) |
