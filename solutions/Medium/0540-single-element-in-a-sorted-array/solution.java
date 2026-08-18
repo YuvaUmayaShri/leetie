@@ -4,7 +4,7 @@
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/single-element-in-a-sorted-array/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 52640000 (beats 91%)
+// Memory   : 52456000 (beats 98%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
