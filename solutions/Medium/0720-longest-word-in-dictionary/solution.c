@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Trie, Sorting
 // Link     : https://leetcode.com/problems/longest-word-in-dictionary/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8580000 (beats 0%)
+// Runtime  : 12 ms (beats 85%)
+// Memory   : 18500000 (beats 36%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
