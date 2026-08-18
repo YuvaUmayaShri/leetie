@@ -4,7 +4,7 @@
 // Tags     : Dynamic Programming
 // Link     : https://leetcode.com/problems/knight-probability-in-chessboard/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 8928000 (beats 0%)
+// Memory   : 9232000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
@@ -18,7 +18,7 @@ double knightProbability(int n, int k, int row, int column) {
         {1, -2}, {1, 2}, {2, -1}, {2, 1}
     };
 
-    double dp[100][25][25];
+    double dp[101][25][25];
     memset(dp, 0, sizeof(dp));
 
     for (int r = 0; r < n; r++) {
