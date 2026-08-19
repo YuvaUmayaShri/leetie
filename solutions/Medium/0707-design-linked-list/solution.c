@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Linked List, Design
 // Link     : https://leetcode.com/problems/design-linked-list/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8708000 (beats 0%)
+// Runtime  : 21 ms (beats 13%)
+// Memory   : 20284000 (beats 25%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
