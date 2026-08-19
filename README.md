@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 16 Solved
+## Progress Summary: 17 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| design-hashmap | Design HashMap | Easy | c | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.c) |
 | design-hashset | Design HashSet | Easy | c | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.c) |
 | find-peak-element | 162. Find Peak Element | Medium | java | [Problem](https://leetcode.com/problems/find-peak-element/) | [Solution](./solutions/Medium/0162-find-peak-element/solution.java) |
 | jewels-and-stones | Jewels and Stones | Easy | c | [Problem](https://leetcode.com/problems/jewels-and-stones/) | [Solution](./solutions/Easy/0771-jewels-and-stones/solution.c) |
