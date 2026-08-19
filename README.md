@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 19 Solved
+## Progress Summary: 20 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -10,6 +10,7 @@
 | design-hashset | Design HashSet | Easy | c | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.c) |
 | design-linked-list | Design Linked List | Medium | c | [Problem](https://leetcode.com/problems/design-linked-list/) | [Solution](./solutions/Medium/0707-design-linked-list/solution.c) |
 | find-peak-element | 162. Find Peak Element | Medium | java | [Problem](https://leetcode.com/problems/find-peak-element/) | [Solution](./solutions/Medium/0162-find-peak-element/solution.java) |
+| find-pivot-index | Find Pivot Index | Easy | c | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.c) |
 | jewels-and-stones | Jewels and Stones | Easy | c | [Problem](https://leetcode.com/problems/jewels-and-stones/) | [Solution](./solutions/Easy/0771-jewels-and-stones/solution.c) |
 | knight-probability-in-chessboard | Knight Probability in Chessboard | Medium | c | [Problem](https://leetcode.com/problems/knight-probability-in-chessboard/) | [Solution](./solutions/Medium/0688-knight-probability-in-chessboard/solution.c) |
 | kth-largest-element-in-a-stream | Kth Largest Element in a Stream | Easy | c | [Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution](./solutions/Easy/0703-kth-largest-element-in-a-stream/solution.c) |
