@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/koko-eating-bananas/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41996000 (beats 0%)
+// Runtime  : 23 ms (beats 23%)
+// Memory   : 48156000 (beats 25%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
