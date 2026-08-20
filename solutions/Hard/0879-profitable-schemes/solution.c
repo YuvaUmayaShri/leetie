@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming, Knapsack Problem, 0-1 Knapsack
 // Link     : https://leetcode.com/problems/profitable-schemes/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8692000 (beats 0%)
+// Runtime  : 28 ms (beats 67%)
+// Memory   : 9588000 (beats 50%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
