@@ -4,14 +4,13 @@
 // Tags     : Math, Number Theory, Primality Test
 // Link     : https://leetcode.com/problems/prime-palindrome/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 8484000 (beats 0%)
+// Memory   : 8416000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
 #include <stdbool.h>
-#include <math.h>
 
 bool isPrime(int num) {
     if (num < 2) return false;
@@ -21,25 +20,17 @@ bool isPrime(int num) {
     return true;
 }
 
-int reverseNumber(int num) {
-    int rev = 0;
-    while (num > 0) {
-        rev = rev * 10 + num % 10;
-        num /= 10;
-    }
-    return rev;
-}
-
 int primePalindrome(int n) {
     if (8 <= n && n <= 11) {
         return 11;
     }
 
+    // Generate odd-length palindromes from root 1 to 99999
+    // Root 1 -> 1, Root 10 -> 101, Root 100 -> 10001, etc.
     for (int i = 1; i < 100000; i++) {
-        int rev = reverseNumber(i / 10);
         int pal = i;
-        int temp = rev;
-        
+        int temp = i / 10;
+
         while (temp > 0) {
             pal = pal * 10 + temp % 10;
             temp /= 10;
