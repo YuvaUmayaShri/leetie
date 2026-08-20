@@ -3,36 +3,39 @@
 // Difficulty: Easy
 // Tags     : Array, Stack, Simulation
 // Link     : https://leetcode.com/problems/baseball-game/
-// Runtime  : N/A (beats 0%)
-// Memory   : N/A (beats 0%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 8464000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
-void reverse(char* s, int start, int end) {
-    while (start < end) {
-        char temp = s[start];
-        s[start] = s[end];
-        s[end] = temp;
-        start++;
-        end--;
-    }
-}
+#include <stdlib.h>
 
-char* reverseWords(char* s) {
-    int start = 0;
-    int i = 0;
+int calPoints(char** operations, int operationsSize) {
+    int* record = (int*)malloc(operationsSize * sizeof(int));
+    int size = 0;
 
-    while (s[i] != '\0') {
-        if (s[i] == ' ') {
-            reverse(s, start, i - 1);
-            start = i + 1;
+    for (int i = 0; i < operationsSize; i++) {
+        if (operations[i][0] == '+') {
+            record[size] = record[size - 1] + record[size - 2];
+            size++;
+        } else if (operations[i][0] == 'D') {
+            record[size] = 2 * record[size - 1];
+            size++;
+        } else if (operations[i][0] == 'C') {
+            size--;
+        } else {
+            record[size] = atoi(operations[i]);
+            size++;
         }
-        i++;
     }
 
-    reverse(s, start, i - 1);
+    int totalSum = 0;
+    for (int i = 0; i < size; i++) {
+        totalSum += record[i];
+    }
 
-    return s;
+    free(record);
+    return totalSum;
 }
