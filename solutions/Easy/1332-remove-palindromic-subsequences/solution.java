@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Two Pointers, String
 // Link     : https://leetcode.com/problems/remove-palindromic-subsequences/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42676000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42544000 (beats 81%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
