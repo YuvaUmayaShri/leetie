@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Sorting, Bucket Sort, Radix Sort, Pigeonhole Principle
 // Link     : https://leetcode.com/problems/maximum-gap/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8548000 (beats 0%)
+// Runtime  : 3 ms (beats 100%)
+// Memory   : 24160000 (beats 59%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
