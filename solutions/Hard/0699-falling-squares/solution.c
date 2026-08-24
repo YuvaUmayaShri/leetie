@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Segment Tree, Ordered Set
 // Link     : https://leetcode.com/problems/falling-squares/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8448000 (beats 0%)
+// Runtime  : 16 ms (beats 22%)
+// Memory   : 14064000 (beats 89%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
