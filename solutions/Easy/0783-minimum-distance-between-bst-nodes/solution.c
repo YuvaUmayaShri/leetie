@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree
 // Link     : https://leetcode.com/problems/minimum-distance-between-bst-nodes/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8576000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9440000 (beats 81%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
