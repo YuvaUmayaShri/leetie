@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Tree, Depth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/leaf-similar-trees/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8664000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9860000 (beats 96%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
