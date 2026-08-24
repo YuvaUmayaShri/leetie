@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Dynamic Programming
 // Link     : https://leetcode.com/problems/k-inverse-pairs-array/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8356000 (beats 0%)
+// Runtime  : 21 ms (beats 36%)
+// Memory   : 8472000 (beats 100%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
