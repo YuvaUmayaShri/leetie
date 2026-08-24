@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Tree, Depth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/flip-equivalent-binary-trees/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8776000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 10044000 (beats 55%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
