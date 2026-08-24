@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : String
 // Link     : https://leetcode.com/problems/goat-latin/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8404000 (beats 0%)
+// Runtime  : 3 ms (beats 8%)
+// Memory   : 9632000 (beats 20%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
