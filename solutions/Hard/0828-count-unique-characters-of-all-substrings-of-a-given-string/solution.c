@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Hash Table, String, Dynamic Programming
 // Link     : https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8492000 (beats 0%)
+// Runtime  : 3 ms (beats 94%)
+// Memory   : 10268000 (beats 47%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
