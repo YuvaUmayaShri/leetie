@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 39 Solved
+## Progress Summary: 40 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -37,6 +37,7 @@
 | remove-comments | Remove Comments | Medium | c | [Problem](https://leetcode.com/problems/remove-comments/) | [Solution](./solutions/Medium/0722-remove-comments/solution.c) |
 | remove-palindromic-subsequences | Remove Palindromic Subsequences | Easy | java | [Problem](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Solution](./solutions/Easy/1332-remove-palindromic-subsequences/solution.java) |
 | repeated-string-match | Repeated String Match | Medium | c | [Problem](https://leetcode.com/problems/repeated-string-match/) | [Solution](./solutions/Medium/0686-repeated-string-match/solution.c) |
+| reshape-the-matrix | Reshape the Matrix | Easy | c | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.c) |
 | reverse-words-in-a-string-iii | Reverse Words in a String III | Easy | c | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./solutions/Easy/0557-reverse-words-in-a-string-iii/solution.c) |
 | single-element-in-a-sorted-array | Single Element in a Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./solutions/Medium/0540-single-element-in-a-sorted-array/solution.java) |
 | sum-root-to-leaf-numbers | Sum Root to Leaf Numbers | Medium | c | [Problem](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](./solutions/Medium/0129-sum-root-to-leaf-numbers/solution.c) |
