@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Depth-First Search, Breadth-First Search, Matrix
 // Link     : https://leetcode.com/problems/shortest-bridge/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8572000 (beats 0%)
+// Runtime  : 4 ms (beats 36%)
+// Memory   : 12792000 (beats 45%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
