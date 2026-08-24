@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 42 Solved
+## Progress Summary: 43 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -41,6 +41,7 @@
 | reshape-the-matrix | Reshape the Matrix | Easy | c | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.c) |
 | reverse-words-in-a-string-iii | Reverse Words in a String III | Easy | c | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./solutions/Easy/0557-reverse-words-in-a-string-iii/solution.c) |
 | rotate-string | Rotate String | Easy | c | [Problem](https://leetcode.com/problems/rotate-string/) | [Solution](./solutions/Easy/0796-rotate-string/solution.c) |
+| similar-string-groups | Similar String Groups | Hard | c | [Problem](https://leetcode.com/problems/similar-string-groups/) | [Solution](./solutions/Hard/0839-similar-string-groups/solution.c) |
 | single-element-in-a-sorted-array | Single Element in a Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./solutions/Medium/0540-single-element-in-a-sorted-array/solution.java) |
 | sum-root-to-leaf-numbers | Sum Root to Leaf Numbers | Medium | c | [Problem](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](./solutions/Medium/0129-sum-root-to-leaf-numbers/solution.c) |
 | super-washing-machines | Super Washing Machines | Hard | c | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.c) |
