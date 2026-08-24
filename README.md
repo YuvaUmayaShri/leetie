@@ -2,11 +2,12 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 43 Solved
+## Progress Summary: 44 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | arranging-coins | Arranging Coins | Easy | c | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.c) |
+| backspace-string-compare | Backspace String Compare | Easy | c | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](./solutions/Easy/0844-backspace-string-compare/solution.c) |
 | baseball-game | Baseball Game | Easy | c | [Problem](https://leetcode.com/problems/baseball-game/) | [Solution](./solutions/Easy/0682-baseball-game/solution.c) |
 | buddy-strings | Buddy Strings | Easy | c | [Problem](https://leetcode.com/problems/buddy-strings/) | [Solution](./solutions/Easy/0859-buddy-strings/solution.c) |
 | count-unique-characters-of-all-substrings-of-a-given-string | Count Unique Characters of All Substrings of a Given String | Hard | c | [Problem](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [Solution](./solutions/Hard/0828-count-unique-characters-of-all-substrings-of-a-given-string/solution.c) |
