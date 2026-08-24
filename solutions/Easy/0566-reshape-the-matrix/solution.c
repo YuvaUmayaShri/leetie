@@ -3,29 +3,35 @@
 // Difficulty: Easy
 // Tags     : Array, Matrix, Simulation
 // Link     : https://leetcode.com/problems/reshape-the-matrix/
-// Runtime  : N/A (beats 0%)
-// Memory   : N/A (beats 0%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 8592000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
-int arrangeCoins(int n) {
-    long low = 0;
-    long high = n;
+int** matrixReshape(int** mat, int matSize, int* matColSize, int r, int c, int* returnSize, int** returnColumnSizes) {
+    int m = matSize;
+    int n = matColSize[0];
     
-    while (low <= high) {
-        long mid = low + (high - low) / 2;
-        long coinsUsed = mid * (mid + 1) / 2;
-        
-        if (coinsUsed == n) {
-            return (int)mid;
-        } else if (coinsUsed < n) {
-            low = mid + 1;
-        } else {
-            high = mid - 1;
-        }
+    if (m * n != r * c) {
+        *returnSize = matSize;
+        *returnColumnSizes = matColSize;
+        return mat;
     }
     
-    return (int)high;
+    int** result = (int**)malloc(r * sizeof(int*));
+    *returnColumnSizes = (int*)malloc(r * sizeof(int));
+    *returnSize = r;
+    
+    for (int i = 0; i < r; i++) {
+        result[i] = (int*)malloc(c * sizeof(int));
+        (*returnColumnSizes)[i] = c;
+    }
+    
+    for (int i = 0; i < m * n; i++) {
+        result[i / c][i % c] = mat[i / n][i % n];
+    }
+    
+    return result;
 }
