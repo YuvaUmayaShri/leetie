@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Design, Trie
 // Link     : https://leetcode.com/problems/implement-trie-prefix-tree/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8696000 (beats 0%)
+// Runtime  : 22 ms (beats 37%)
+// Memory   : 44440000 (beats 17%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
