@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : String, Stack, Greedy, Queue
 // Link     : https://leetcode.com/problems/stamping-the-sequence/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8616000 (beats 0%)
+// Runtime  : 6 ms (beats 43%)
+// Memory   : 12736000 (beats 29%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
