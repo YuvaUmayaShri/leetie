@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find
 // Link     : https://leetcode.com/problems/similar-string-groups/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8480000 (beats 0%)
+// Runtime  : 5 ms (beats 100%)
+// Memory   : 10012000 (beats 20%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
