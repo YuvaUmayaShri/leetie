@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, String
 // Link     : https://leetcode.com/problems/unique-morse-code-words/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8564000 (beats 0%)
+// Runtime  : 2 ms (beats 22%)
+// Memory   : 9412000 (beats 48%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie

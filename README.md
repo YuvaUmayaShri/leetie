@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 40 Solved
+## Progress Summary: 39 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -45,4 +45,3 @@
 | three-consecutive-odds | Three Consecutive Odds | Easy | c | [Problem](https://leetcode.com/problems/three-consecutive-odds/) | [Solution](./solutions/Easy/1550-three-consecutive-odds/solution.c) |
 | toeplitz-matrix | Toeplitz Matrix | Easy | c | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.c) |
 | unique-morse-code-words | Unique Morse Code Words | Easy | c | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.c) |
-| zigzag-conversion | Zigzag Conversion | Medium | python3 | [Problem](https://leetcode.com/problems/zigzag-conversion/) | [Solution](./solutions/Medium/0006-zigzag-conversion/solution.py) |
