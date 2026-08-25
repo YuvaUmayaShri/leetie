@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming, Prefix Sum
 // Link     : https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8688000 (beats 0%)
+// Runtime  : 44 ms (beats 67%)
+// Memory   : 11544000 (beats 67%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
