@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Two Pointers, String, Binary Search, Rolling Hash, String Matching, Hash Function, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm
 // Link     : https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 8552000 (beats 0%)
+// Runtime  : 24 ms (beats 100%)
+// Memory   : 108204000 (beats 100%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
