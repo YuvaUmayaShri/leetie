@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Math
 // Link     : https://leetcode.com/problems/find-the-sum-of-encrypted-integers/
-// Runtime  : 5 ms (beats 0%)
-// Memory   : 8324000 (beats 0%)
+// Runtime  : 3 ms (beats 75%)
+// Memory   : 9704000 (beats 52%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
