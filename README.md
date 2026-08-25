@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 69 Solved
+## Progress Summary: 70 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -11,6 +11,7 @@
 | bag-of-tokens | Bag of Tokens | Medium | c | [Problem](https://leetcode.com/problems/bag-of-tokens/) | [Solution](./solutions/Medium/0948-bag-of-tokens/solution.c) |
 | baseball-game | 682. Baseball Game | Easy | c | [Problem](https://leetcode.com/problems/baseball-game/) | [Solution](./solutions/Easy/0682-baseball-game/solution.c) |
 | count-good-triplets | Count Good Triplets | Easy | c | [Problem](https://leetcode.com/problems/count-good-triplets/) | [Solution](./solutions/Easy/1534-count-good-triplets/solution.c) |
+| count-submatrices-with-top-left-element-and-sum-less-than-k | Count Submatrices with Top-Left Element and Sum Less Than k | Medium | c | [Problem](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/) | [Solution](./solutions/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/solution.c) |
 | course-schedule-iii | Course Schedule III | Hard | c | [Problem](https://leetcode.com/problems/course-schedule-iii/) | [Solution](./solutions/Hard/0630-course-schedule-iii/solution.c) |
 | design-hashset | 705. Design Hashset | Easy | c | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.c) |
 | design-hashmap | 706. Design Hashmap | Easy | c | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.c) |
@@ -19,7 +20,6 @@
 | find-the-shortest-superstring | Find the Shortest Superstring | Hard | c | [Problem](https://leetcode.com/problems/find-the-shortest-superstring/) | [Solution](./solutions/Hard/0943-find-the-shortest-superstring/solution.c) |
 | flip-equivalent-binary-trees | Flip Equivalent Binary Trees | Medium | c | [Problem](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [Solution](./solutions/Medium/0951-flip-equivalent-binary-trees/solution.c) |
 | guess-number-higher-or-lower | 374. Guess Number Higher Or Lower | Easy | c | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](./solutions/Easy/0374-guess-number-higher-or-lower/solution.c) |
-| find-pivot-index | 724. Find Pivot Index | Easy | c | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.c) |
 | implement-trie-prefix-tree | Implement Trie (Prefix Tree) | Medium | c | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](./solutions/Medium/0208-implement-trie-prefix-tree/solution.c) |
 | jewels-and-stones | 771. Jewels And Stones | Easy | c | [Problem](https://leetcode.com/problems/jewels-and-stones/) | [Solution](./solutions/Easy/0771-jewels-and-stones/solution.c) |
 | k-inverse-pairs-array | K Inverse Pairs Array | Hard | c | [Problem](https://leetcode.com/problems/k-inverse-pairs-array/) | [Solution](./solutions/Hard/0629-k-inverse-pairs-array/solution.c) |
@@ -39,6 +39,7 @@
 | n-repeated-element-in-size-2n-array | N-Repeated Element in Size 2N Array | Easy | c | [Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](./solutions/Easy/0961-n-repeated-element-in-size-2n-array/solution.c) |
 | reshape-the-matrix | 566. Reshape The Matrix | Easy | c | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.c) |
 | n-ary-tree-preorder-traversal | 589. N Ary Tree Preorder Traversal | Easy | c | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.c) |
+| find-pivot-index | 724. Find Pivot Index | Easy | c | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.c) |
 | reveal-cards-in-increasing-order | Reveal Cards In Increasing Order | Medium | c | [Problem](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Solution](./solutions/Medium/0950-reveal-cards-in-increasing-order/solution.c) |
 | super-washing-machines | 517. Super Washing Machines | Hard | c | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.c) |
 | single-element-in-a-sorted-array | 540. Single Element In A Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./solutions/Medium/0540-single-element-in-a-sorted-array/solution.java) |
