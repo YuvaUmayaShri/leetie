@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting
 // Link     : https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 8560000 (beats 0%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 8360000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
