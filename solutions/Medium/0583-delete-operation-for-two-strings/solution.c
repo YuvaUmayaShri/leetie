@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Dynamic Programming, Longest Common Subsequence
 // Link     : https://leetcode.com/problems/delete-operation-for-two-strings/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8512000 (beats 0%)
+// Runtime  : 8 ms (beats 21%)
+// Memory   : 14832000 (beats 7%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
