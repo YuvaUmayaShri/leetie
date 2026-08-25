@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 67 Solved
+## Progress Summary: 68 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -13,9 +13,9 @@
 | count-good-triplets | Count Good Triplets | Easy | c | [Problem](https://leetcode.com/problems/count-good-triplets/) | [Solution](./solutions/Easy/1534-count-good-triplets/solution.c) |
 | course-schedule-iii | Course Schedule III | Hard | c | [Problem](https://leetcode.com/problems/course-schedule-iii/) | [Solution](./solutions/Hard/0630-course-schedule-iii/solution.c) |
 | design-hashset | 705. Design Hashset | Easy | c | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.c) |
+| design-hashmap | 706. Design Hashmap | Easy | c | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.c) |
 | expression-add-operators | Expression Add Operators | Hard | c | [Problem](https://leetcode.com/problems/expression-add-operators/) | [Solution](./solutions/Hard/0282-expression-add-operators/solution.c) |
 | find-beautiful-indices-in-the-given-array-ii | Find Beautiful Indices in the Given Array II | Hard | c | [Problem](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | [Solution](./solutions/Hard/3008-find-beautiful-indices-in-the-given-array-ii/solution.c) |
-| find-pivot-index | 724. Find Pivot Index | Easy | c | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.c) |
 | find-the-shortest-superstring | Find the Shortest Superstring | Hard | c | [Problem](https://leetcode.com/problems/find-the-shortest-superstring/) | [Solution](./solutions/Hard/0943-find-the-shortest-superstring/solution.c) |
 | flip-equivalent-binary-trees | Flip Equivalent Binary Trees | Medium | c | [Problem](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [Solution](./solutions/Medium/0951-flip-equivalent-binary-trees/solution.c) |
 | guess-number-higher-or-lower | 374. Guess Number Higher Or Lower | Easy | c | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](./solutions/Easy/0374-guess-number-higher-or-lower/solution.c) |
@@ -33,23 +33,24 @@
 | find-peak-element | 162. Find Peak Element | Medium | java | [Problem](https://leetcode.com/problems/find-peak-element/) | [Solution](./solutions/Medium/0162-find-peak-element/solution.java) |
 | maximum-gap | 164. Maximum Gap | Medium | c | [Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](./solutions/Medium/0164-maximum-gap/solution.c) |
 | find-right-interval | 436. Find Right Interval | Medium | c | [Problem](https://leetcode.com/problems/find-right-interval/) | [Solution](./solutions/Medium/0436-find-right-interval/solution.c) |
+| minimize-length-of-array-using-operations | Minimize Length of Array Using Operations | Medium | c | [Problem](https://leetcode.com/problems/minimize-length-of-array-using-operations/) | [Solution](./solutions/Medium/3012-minimize-length-of-array-using-operations/solution.c) |
 | n-repeated-element-in-size-2n-array | N-Repeated Element in Size 2N Array | Easy | c | [Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](./solutions/Easy/0961-n-repeated-element-in-size-2n-array/solution.c) |
+| reshape-the-matrix | 566. Reshape The Matrix | Easy | c | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.c) |
+| n-ary-tree-preorder-traversal | 589. N Ary Tree Preorder Traversal | Easy | c | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.c) |
+| minimum-distance-between-bst-nodes | 783. Minimum Distance Between Bst Nodes | Easy | c | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.c) |
 | reveal-cards-in-increasing-order | Reveal Cards In Increasing Order | Medium | c | [Problem](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Solution](./solutions/Medium/0950-reveal-cards-in-increasing-order/solution.c) |
 | super-washing-machines | 517. Super Washing Machines | Hard | c | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.c) |
 | single-element-in-a-sorted-array | 540. Single Element In A Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./solutions/Medium/0540-single-element-in-a-sorted-array/solution.java) |
 | reverse-words-in-a-string-iii | 557. Reverse Words In A String Iii | Easy | c | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./solutions/Easy/0557-reverse-words-in-a-string-iii/solution.c) |
-| reshape-the-matrix | 566. Reshape The Matrix | Easy | c | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.c) |
-| n-ary-tree-preorder-traversal | 589. N Ary Tree Preorder Traversal | Easy | c | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.c) |
 | tag-validator | 591. Tag Validator | Hard | c | [Problem](https://leetcode.com/problems/tag-validator/) | [Solution](./solutions/Hard/0591-tag-validator/solution.c) |
 | repeated-string-match | 686. Repeated String Match | Medium | c | [Problem](https://leetcode.com/problems/repeated-string-match/) | [Solution](./solutions/Medium/0686-repeated-string-match/solution.c) |
 | knight-probability-in-chessboard | 688. Knight Probability In Chessboard | Medium | c | [Problem](https://leetcode.com/problems/knight-probability-in-chessboard/) | [Solution](./solutions/Medium/0688-knight-probability-in-chessboard/solution.c) |
 | maximum-sum-of-3-non-overlapping-subarrays | 689. Maximum Sum Of 3 Non Overlapping Subarrays | Hard | c | [Problem](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Solution](./solutions/Hard/0689-maximum-sum-of-3-non-overlapping-subarrays/solution.c) |
 | falling-squares | 699. Falling Squares | Hard | c | [Problem](https://leetcode.com/problems/falling-squares/) | [Solution](./solutions/Hard/0699-falling-squares/solution.c) |
-| design-hashmap | 706. Design Hashmap | Easy | c | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.c) |
 | design-linked-list | 707. Design Linked List | Medium | c | [Problem](https://leetcode.com/problems/design-linked-list/) | [Solution](./solutions/Medium/0707-design-linked-list/solution.c) |
 | longest-word-in-dictionary | 720. Longest Word In Dictionary | Medium | c | [Problem](https://leetcode.com/problems/longest-word-in-dictionary/) | [Solution](./solutions/Medium/0720-longest-word-in-dictionary/solution.c) |
 | remove-comments | 722. Remove Comments | Medium | c | [Problem](https://leetcode.com/problems/remove-comments/) | [Solution](./solutions/Medium/0722-remove-comments/solution.c) |
-| minimum-distance-between-bst-nodes | 783. Minimum Distance Between Bst Nodes | Easy | c | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.c) |
+| find-pivot-index | 724. Find Pivot Index | Easy | c | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.c) |
 | rotate-string | 796. Rotate String | Easy | c | [Problem](https://leetcode.com/problems/rotate-string/) | [Solution](./solutions/Easy/0796-rotate-string/solution.c) |
 | shortest-bridge | Shortest Bridge | Medium | c | [Problem](https://leetcode.com/problems/shortest-bridge/) | [Solution](./solutions/Medium/0934-shortest-bridge/solution.c) |
 | smallest-rotation-with-highest-score | Smallest Rotation with Highest Score | Hard | c | [Problem](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [Solution](./solutions/Hard/0798-smallest-rotation-with-highest-score/solution.c) |
