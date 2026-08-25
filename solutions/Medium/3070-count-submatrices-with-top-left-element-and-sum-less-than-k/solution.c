@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Matrix, Prefix Sum
 // Link     : https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8560000 (beats 0%)
+// Runtime  : 17 ms (beats 47%)
+// Memory   : 49636000 (beats 68%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
