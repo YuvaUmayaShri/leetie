@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 76 Solved
+## Progress Summary: 77 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -29,18 +29,18 @@
 | maximum-sum-of-3-non-overlapping-subarrays | 689. Maximum Sum Of 3 Non Overlapping Subarrays | Hard | c | [Problem](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Solution](./solutions/Hard/0689-maximum-sum-of-3-non-overlapping-subarrays/solution.c) |
 | falling-squares | 699. Falling Squares | Hard | c | [Problem](https://leetcode.com/problems/falling-squares/) | [Solution](./solutions/Hard/0699-falling-squares/solution.c) |
 | design-hashset | 705. Design Hashset | Easy | c | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.c) |
-| design-hashmap | 706. Design Hashmap | Easy | c | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.c) |
 | design-linked-list | 707. Design Linked List | Medium | c | [Problem](https://leetcode.com/problems/design-linked-list/) | [Solution](./solutions/Medium/0707-design-linked-list/solution.c) |
 | expression-add-operators | Expression Add Operators | Hard | c | [Problem](https://leetcode.com/problems/expression-add-operators/) | [Solution](./solutions/Hard/0282-expression-add-operators/solution.c) |
 | find-beautiful-indices-in-the-given-array-ii | Find Beautiful Indices in the Given Array II | Hard | c | [Problem](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | [Solution](./solutions/Hard/3008-find-beautiful-indices-in-the-given-array-ii/solution.c) |
 | find-the-shortest-superstring | Find the Shortest Superstring | Hard | c | [Problem](https://leetcode.com/problems/find-the-shortest-superstring/) | [Solution](./solutions/Hard/0943-find-the-shortest-superstring/solution.c) |
+| find-the-smallest-divisor-given-a-threshold | Find the Smallest Divisor Given a Threshold | Medium | java | [Problem](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Solution](./solutions/Medium/1283-find-the-smallest-divisor-given-a-threshold/solution.java) |
 | find-the-sum-of-encrypted-integers | Find the Sum of Encrypted Integers | Easy | c | [Problem](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/) | [Solution](./solutions/Easy/3079-find-the-sum-of-encrypted-integers/solution.c) |
 | flip-equivalent-binary-trees | Flip Equivalent Binary Trees | Medium | c | [Problem](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [Solution](./solutions/Medium/0951-flip-equivalent-binary-trees/solution.c) |
 | guess-number-higher-or-lower | 374. Guess Number Higher Or Lower | Easy | c | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](./solutions/Easy/0374-guess-number-higher-or-lower/solution.c) |
 | implement-trie-prefix-tree | Implement Trie (Prefix Tree) | Medium | c | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](./solutions/Medium/0208-implement-trie-prefix-tree/solution.c) |
 | k-inverse-pairs-array | K Inverse Pairs Array | Hard | c | [Problem](https://leetcode.com/problems/k-inverse-pairs-array/) | [Solution](./solutions/Hard/0629-k-inverse-pairs-array/solution.c) |
 | kth-largest-element-in-a-stream | 703. Kth Largest Element In A Stream | Easy | c | [Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution](./solutions/Easy/0703-kth-largest-element-in-a-stream/solution.c) |
-| find-pivot-index | 724. Find Pivot Index | Easy | c | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.c) |
+| design-hashmap | 706. Design Hashmap | Easy | c | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.c) |
 | largest-component-size-by-common-factor | Largest Component Size by Common Factor | Hard | c | [Problem](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Solution](./solutions/Hard/0952-largest-component-size-by-common-factor/solution.c) |
 | leaf-similar-trees | Leaf-Similar Trees | Easy | c | [Problem](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](./solutions/Easy/0872-leaf-similar-trees/solution.c) |
 | longest-word-in-dictionary | 720. Longest Word In Dictionary | Medium | c | [Problem](https://leetcode.com/problems/longest-word-in-dictionary/) | [Solution](./solutions/Medium/0720-longest-word-in-dictionary/solution.c) |
@@ -53,6 +53,7 @@
 | n-ary-tree-preorder-traversal | 589. N Ary Tree Preorder Traversal | Easy | c | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.c) |
 | n-repeated-element-in-size-2n-array | N-Repeated Element in Size 2N Array | Easy | c | [Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](./solutions/Easy/0961-n-repeated-element-in-size-2n-array/solution.c) |
 | remove-comments | 722. Remove Comments | Medium | c | [Problem](https://leetcode.com/problems/remove-comments/) | [Solution](./solutions/Medium/0722-remove-comments/solution.c) |
+| find-pivot-index | 724. Find Pivot Index | Easy | c | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.c) |
 | replace-question-marks-in-string-to-minimize-its-value | Replace Question Marks in String to Minimize Its Value | Medium | c | [Problem](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/) | [Solution](./solutions/Medium/3081-replace-question-marks-in-string-to-minimize-its-value/solution.c) |
 | reshape-the-matrix | 566. Reshape The Matrix | Easy | c | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.c) |
 | reveal-cards-in-increasing-order | Reveal Cards In Increasing Order | Medium | c | [Problem](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Solution](./solutions/Medium/0950-reveal-cards-in-increasing-order/solution.c) |
