@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : String, Rolling Hash, String Matching, Hash Function
 // Link     : https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8536000 (beats 0%)
+// Runtime  : 64 ms (beats 0%)
+// Memory   : 40844000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
