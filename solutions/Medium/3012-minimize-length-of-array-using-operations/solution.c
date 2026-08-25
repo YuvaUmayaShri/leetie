@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Greedy, Number Theory
 // Link     : https://leetcode.com/problems/minimize-length-of-array-using-operations/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8328000 (beats 0%)
+// Runtime  : 5 ms (beats 0%)
+// Memory   : 17764000 (beats 80%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
