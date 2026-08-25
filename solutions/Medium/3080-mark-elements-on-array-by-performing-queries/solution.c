@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Sorting, Heap (Priority Queue), Simulation
 // Link     : https://leetcode.com/problems/mark-elements-on-array-by-performing-queries/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 8600000 (beats 0%)
+// Runtime  : 525 ms (beats 67%)
+// Memory   : 68780000 (beats 100%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
