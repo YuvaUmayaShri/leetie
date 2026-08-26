@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/minimum-depth-of-binary-tree/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42472000 (beats 0%)
+// Runtime  : 5 ms (beats 30%)
+// Memory   : 81648000 (beats 97%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
