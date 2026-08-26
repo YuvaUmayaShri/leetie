@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Bit Manipulation, Depth-First Search, Breadth-First Search
 // Link     : https://leetcode.com/problems/bulb-switcher-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41860000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42256000 (beats 27%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
