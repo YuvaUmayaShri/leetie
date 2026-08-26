@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, String, Stack
 // Link     : https://leetcode.com/problems/basic-calculator-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42600000 (beats 0%)
+// Runtime  : 21 ms (beats 60%)
+// Memory   : 48016000 (beats 68%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
