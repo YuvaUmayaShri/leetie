@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Tree, Depth-First Search, Binary Search Tree, Binary Tree
 // Link     : https://leetcode.com/problems/convert-bst-to-greater-tree/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42692000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 47316000 (beats 63%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
