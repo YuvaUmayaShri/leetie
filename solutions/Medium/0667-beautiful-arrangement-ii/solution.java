@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math
 // Link     : https://leetcode.com/problems/beautiful-arrangement-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41492000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 46880000 (beats 12%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
