@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Tree, Depth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42628000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42692000 (beats 64%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
