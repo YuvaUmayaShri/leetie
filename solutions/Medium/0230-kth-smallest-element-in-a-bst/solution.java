@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Tree, Depth-First Search, Binary Search Tree, Binary Tree
 // Link     : https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42364000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 47092000 (beats 6%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
