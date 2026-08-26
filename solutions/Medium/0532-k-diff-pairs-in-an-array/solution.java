@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Two Pointers, Binary Search, Sorting
 // Link     : https://leetcode.com/problems/k-diff-pairs-in-an-array/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42640000 (beats 0%)
+// Runtime  : 12 ms (beats 41%)
+// Memory   : 46356000 (beats 76%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
