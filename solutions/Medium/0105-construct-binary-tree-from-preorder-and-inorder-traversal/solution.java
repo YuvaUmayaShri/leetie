@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Divide and Conquer, Tree, Binary Tree
 // Link     : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42924000 (beats 0%)
+// Runtime  : 2 ms (beats 64%)
+// Memory   : 46464000 (beats 38%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
