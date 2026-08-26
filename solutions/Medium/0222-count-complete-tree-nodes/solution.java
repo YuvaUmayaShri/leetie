@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Binary Search, Bit Manipulation, Tree, Binary Tree
 // Link     : https://leetcode.com/problems/count-complete-tree-nodes/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42332000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 49108000 (beats 94%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
