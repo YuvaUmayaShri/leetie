@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Minimax, Heap (Priority Queue), Matrix, Dijkstra's Algorithm
 // Link     : https://leetcode.com/problems/swim-in-rising-water/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8856000 (beats 0%)
+// Runtime  : 1 ms (beats 92%)
+// Memory   : 14052000 (beats 43%)
 // Language : cpp
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
