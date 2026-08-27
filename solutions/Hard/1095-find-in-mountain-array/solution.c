@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Binary Search, Interactive, Ternary Search
 // Link     : https://leetcode.com/problems/find-in-mountain-array/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 8624000 (beats 0%)
+// Runtime  : 2 ms (beats 93%)
+// Memory   : 9316000 (beats 36%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
