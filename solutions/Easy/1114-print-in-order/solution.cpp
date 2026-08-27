@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Concurrency
 // Link     : https://leetcode.com/problems/print-in-order/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 8804000 (beats 0%)
+// Runtime  : 9 ms (beats 36%)
+// Memory   : 9584000 (beats 46%)
 // Language : cpp
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
