@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Breadth-First Search, Graph Theory, Shortest Path, Dijkstra's Algorithm, K Shortest Path
 // Link     : https://leetcode.com/problems/second-minimum-time-to-reach-destination/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8592000 (beats 0%)
+// Runtime  : 220 ms (beats 0%)
+// Memory   : 86696000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
