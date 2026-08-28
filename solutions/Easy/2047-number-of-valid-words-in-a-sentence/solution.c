@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : String
 // Link     : https://leetcode.com/problems/number-of-valid-words-in-a-sentence/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8608000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 8984000 (beats 91%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
