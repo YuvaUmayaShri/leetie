@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, Binary Search, Prefix Sum
 // Link     : https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8468000 (beats 0%)
+// Runtime  : 38 ms (beats 67%)
+// Memory   : 22916000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
