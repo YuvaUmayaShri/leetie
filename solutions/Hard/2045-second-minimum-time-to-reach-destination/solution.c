@@ -4,7 +4,7 @@
 // Tags     : Breadth-First Search, Graph Theory, Shortest Path, Dijkstra's Algorithm, K Shortest Path
 // Link     : https://leetcode.com/problems/second-minimum-time-to-reach-destination/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 8744000 (beats 0%)
+// Memory   : 8592000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
@@ -36,25 +36,33 @@ int secondMinimum(int n, int** edges, int edgesSize, int* edgesColSize, int time
         dist2[i] = -1;
     }
 
-    int* queue = (int*)malloc((n * 2 + 10) * sizeof(int));
+    int* queueNode = (int*)malloc((n * 10) * sizeof(int));
+    int* queueDist = (int*)malloc((n * 10) * sizeof(int));
     int head = 0, tail = 0;
 
     dist1[1] = 0;
-    queue[tail++] = 1;
+    queueNode[tail] = 1;
+    queueDist[tail] = 0;
+    tail++;
 
     while (head < tail) {
-        int u = queue[head++];
-        int d = (dist1[u] != -1 && (dist2[u] == -1 || d == dist1[u])) ? dist1[u] : dist2[u];
-        
+        int u = queueNode[head];
+        int d = queueDist[head];
+        head++;
+
         Node* curr = adj[u];
         while (curr != NULL) {
             int v = curr->val;
             if (dist1[v] == -1) {
                 dist1[v] = d + 1;
-                queue[tail++] = v;
+                queueNode[tail] = v;
+                queueDist[tail] = d + 1;
+                tail++;
             } else if (dist2[v] == -1 && dist1[v] != d + 1) {
                 dist2[v] = d + 1;
-                queue[tail++] = v;
+                queueNode[tail] = v;
+                queueDist[tail] = d + 1;
+                tail++;
             }
             curr = curr->next;
         }
@@ -81,7 +89,8 @@ int secondMinimum(int n, int** edges, int edgesSize, int* edgesColSize, int time
     free(adj);
     free(dist1);
     free(dist2);
-    free(queue);
+    free(queueNode);
+    free(queueDist);
 
     return currentTime;
 }
