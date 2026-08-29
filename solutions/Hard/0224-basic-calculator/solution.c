@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, String, Stack, Recursion
 // Link     : https://leetcode.com/problems/basic-calculator/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 9720000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 11288000 (beats 38%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
