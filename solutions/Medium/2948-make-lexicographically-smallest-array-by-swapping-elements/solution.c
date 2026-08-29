@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Union-Find, Sorting
 // Link     : https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/
-// Runtime  : 80 ms (beats 100%)
-// Memory   : 110864000 (beats 40%)
+// Runtime  : 112 ms (beats 80%)
+// Memory   : 119812000 (beats 40%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
@@ -14,54 +14,53 @@
 
 typedef struct {
     int val;
-    int idx;
-} Element;
+    int index;
+} Pair;
 
-int compareElements(const void* a, const void* b) {
-    return ((Element*)a)->val - ((Element*)b)->val;
+int comparePairs(const void *a, const void *b) {
+    return ((Pair *)a)->val - ((Pair *)b)->val;
 }
 
-int compareInts(const void* a, const void* b) {
-    return *(int*)a - *(int*)b;
+int compareInts(const void *a, const void *b) {
+    return *(int *)a - *(int *)b;
 }
 
 int* lexicographicallySmallestArray(int* nums, int numsSize, int limit, int* returnSize) {
     *returnSize = numsSize;
-    
-    Element* sorted = (Element*)malloc(numsSize * sizeof(Element));
+    int* result = (int*)malloc(numsSize * sizeof(int));
+    Pair* sorted_nums = (Pair*)malloc(numsSize * sizeof(Pair));
+
     for (int i = 0; i < numsSize; i++) {
-        sorted[i].val = nums[i];
-        sorted[i].idx = i;
+        sorted_nums[i].val = nums[i];
+        sorted_nums[i].index = i;
     }
 
-    qsort(sorted, numsSize, sizeof(Element), compareElements);
-
-    int* res = (int*)malloc(numsSize * sizeof(int));
-    int* groupIndices = (int*)malloc(numsSize * sizeof(int));
+    qsort(sorted_nums, numsSize, sizeof(Pair), comparePairs);
 
     int i = 0;
     while (i < numsSize) {
         int j = i;
-        while (j + 1 < numsSize && sorted[j + 1].val - sorted[j].val <= limit) {
+        while (j + 1 < numsSize && sorted_nums[j + 1].val - sorted_nums[j].val <= limit) {
             j++;
         }
 
         int groupSize = j - i + 1;
-        for (int k = 0; k < groupSize; k++) {
-            groupIndices[k] = sorted[i + k].idx;
-        }
-
-        qsort(groupIndices, groupSize, sizeof(int), compareInts);
+        int* indices = (int*)malloc(groupSize * sizeof(int));
 
         for (int k = 0; k < groupSize; k++) {
-            res[groupIndices[k]] = sorted[i + k].val;
+            indices[k] = sorted_nums[i + k].index;
         }
 
+        qsort(indices, groupSize, sizeof(int), compareInts);
+
+        for (int k = 0; k < groupSize; k++) {
+            result[indices[k]] = sorted_nums[i + k].val;
+        }
+
+        free(indices);
         i = j + 1;
     }
 
-    free(sorted);
-    free(groupIndices);
-
-    return res;
+    free(sorted_nums);
+    return result;
 }
