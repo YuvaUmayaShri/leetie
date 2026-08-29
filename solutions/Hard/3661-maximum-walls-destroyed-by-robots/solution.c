@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Binary Search, Dynamic Programming, Sorting
 // Link     : https://leetcode.com/problems/maximum-walls-destroyed-by-robots/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8596000 (beats 0%)
+// Runtime  : 215 ms (beats 89%)
+// Memory   : 31320000 (beats 100%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
