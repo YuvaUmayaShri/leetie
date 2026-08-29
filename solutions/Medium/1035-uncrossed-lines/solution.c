@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Longest Common Subsequence
 // Link     : https://leetcode.com/problems/uncrossed-lines/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8556000 (beats 0%)
+// Runtime  : 4 ms (beats 55%)
+// Memory   : 9080000 (beats 35%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
