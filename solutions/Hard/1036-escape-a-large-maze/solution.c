@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, Depth-First Search, Breadth-First Search, Bidirectional Search
 // Link     : https://leetcode.com/problems/escape-a-large-maze/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8976000 (beats 0%)
+// Runtime  : 65 ms (beats 100%)
+// Memory   : 39532000 (beats 100%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
