@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Divide and Conquer, Simulation, Prefix Sum
 // Link     : https://leetcode.com/problems/xor-after-range-multiplication-queries-i/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8604000 (beats 0%)
+// Runtime  : 67 ms (beats 47%)
+// Memory   : 25604000 (beats 13%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
