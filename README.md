@@ -2,11 +2,12 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 142 Solved
+## Progress Summary: 143 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | actors-and-directors-who-cooperated-at-least-three-times | Actors and Directors Who Cooperated At Least Three Times | Easy | mysql | [Problem](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [Solution](./solutions/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/solution.sql) |
+| add-strings | Add Strings | Easy | c | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.c) |
 | basic-calculator | Basic Calculator | Hard | c | [Problem](https://leetcode.com/problems/basic-calculator/) | [Solution](./solutions/Hard/0224-basic-calculator/solution.c) |
 | escape-a-large-maze | Escape a Large Maze | Hard | c | [Problem](https://leetcode.com/problems/escape-a-large-maze/) | [Solution](./solutions/Hard/1036-escape-a-large-maze/solution.c) |
 | grumpy-bookstore-owner | Grumpy Bookstore Owner | Medium | c | [Problem](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Solution](./solutions/Medium/1052-grumpy-bookstore-owner/solution.c) |
@@ -64,23 +65,23 @@
 | falling-squares | 699. Falling Squares | Hard | c | [Problem](https://leetcode.com/problems/falling-squares/) | [Solution](./solutions/Hard/0699-falling-squares/solution.c) |
 | kth-largest-element-in-a-stream | 703. Kth Largest Element In A Stream | Easy | c | [Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution](./solutions/Easy/0703-kth-largest-element-in-a-stream/solution.c) |
 | design-hashset | 705. Design Hashset | Easy | c | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.c) |
-| design-hashmap | 706. Design Hashmap | Easy | c | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.c) |
 | design-linked-list | 707. Design Linked List | Medium | c | [Problem](https://leetcode.com/problems/design-linked-list/) | [Solution](./solutions/Medium/0707-design-linked-list/solution.c) |
 | longest-word-in-dictionary | 720. Longest Word In Dictionary | Medium | c | [Problem](https://leetcode.com/problems/longest-word-in-dictionary/) | [Solution](./solutions/Medium/0720-longest-word-in-dictionary/solution.c) |
 | remove-comments | 722. Remove Comments | Medium | c | [Problem](https://leetcode.com/problems/remove-comments/) | [Solution](./solutions/Medium/0722-remove-comments/solution.c) |
+| find-pivot-index | 724. Find Pivot Index | Easy | c | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.c) |
 | my-calendar-ii | 731. My Calendar Ii | Medium | cpp | [Problem](https://leetcode.com/problems/my-calendar-ii/) | [Solution](./solutions/Medium/0731-my-calendar-ii/solution.cpp) |
 | max-chunks-to-make-sorted | 769. Max Chunks To Make Sorted | Medium | c | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Solution](./solutions/Medium/0769-max-chunks-to-make-sorted/solution.c) |
-| swim-in-rising-water | 778. Swim In Rising Water | Hard | cpp | [Problem](https://leetcode.com/problems/swim-in-rising-water/) | [Solution](./solutions/Hard/0778-swim-in-rising-water/solution.cpp) |
 | domino-and-tromino-tiling | 790. Domino And Tromino Tiling | Medium | c | [Problem](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Solution](./solutions/Medium/0790-domino-and-tromino-tiling/solution.c) |
-| preimage-size-of-factorial-zeroes-function | 793. Preimage Size Of Factorial Zeroes Function | Hard | c | [Problem](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) | [Solution](./solutions/Hard/0793-preimage-size-of-factorial-zeroes-function/solution.c) |
-| smallest-rotation-with-highest-score | 798. Smallest Rotation With Highest Score | Hard | c | [Problem](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [Solution](./solutions/Hard/0798-smallest-rotation-with-highest-score/solution.c) |
-| count-unique-characters-of-all-substrings-of-a-given-string | 828. Count Unique Characters Of All Substrings Of A Given String | Hard | c | [Problem](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [Solution](./solutions/Hard/0828-count-unique-characters-of-all-substrings-of-a-given-string/solution.c) |
-| flipping-an-image | 832. Flipping An Image | Easy | cpp | [Problem](https://leetcode.com/problems/flipping-an-image/) | [Solution](./solutions/Easy/0832-flipping-an-image/solution.cpp) |
 | number-of-enclaves | Number of Enclaves | Medium | c | [Problem](https://leetcode.com/problems/number-of-enclaves/) | [Solution](./solutions/Medium/1020-number-of-enclaves/solution.c) |
 | previous-permutation-with-one-swap | Previous Permutation With One Swap | Medium | c | [Problem](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [Solution](./solutions/Medium/1053-previous-permutation-with-one-swap/solution.c) |
 | reverse-words-in-a-string-iii | 557. Reverse Words In A String Iii | Easy | c | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./solutions/Easy/0557-reverse-words-in-a-string-iii/solution.c) |
 | reshape-the-matrix | 566. Reshape The Matrix | Easy | c | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.c) |
+| swim-in-rising-water | 778. Swim In Rising Water | Hard | cpp | [Problem](https://leetcode.com/problems/swim-in-rising-water/) | [Solution](./solutions/Hard/0778-swim-in-rising-water/solution.cpp) |
+| preimage-size-of-factorial-zeroes-function | 793. Preimage Size Of Factorial Zeroes Function | Hard | c | [Problem](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) | [Solution](./solutions/Hard/0793-preimage-size-of-factorial-zeroes-function/solution.c) |
+| smallest-rotation-with-highest-score | 798. Smallest Rotation With Highest Score | Hard | c | [Problem](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [Solution](./solutions/Hard/0798-smallest-rotation-with-highest-score/solution.c) |
 | goat-latin | 824. Goat Latin | Easy | c | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.c) |
+| count-unique-characters-of-all-substrings-of-a-given-string | 828. Count Unique Characters Of All Substrings Of A Given String | Hard | c | [Problem](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [Solution](./solutions/Hard/0828-count-unique-characters-of-all-substrings-of-a-given-string/solution.c) |
+| flipping-an-image | 832. Flipping An Image | Easy | cpp | [Problem](https://leetcode.com/problems/flipping-an-image/) | [Solution](./solutions/Easy/0832-flipping-an-image/solution.cpp) |
 | rectangle-overlap | 836. Rectangle Overlap | Easy | c | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.c) |
 | similar-string-groups | 839. Similar String Groups | Hard | c | [Problem](https://leetcode.com/problems/similar-string-groups/) | [Solution](./solutions/Hard/0839-similar-string-groups/solution.c) |
 | backspace-string-compare | 844. Backspace String Compare | Easy | c | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](./solutions/Easy/0844-backspace-string-compare/solution.c) |
@@ -110,7 +111,7 @@
 | find-the-smallest-divisor-given-a-threshold | 1283. Find The Smallest Divisor Given A Threshold | Medium | java | [Problem](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Solution](./solutions/Medium/1283-find-the-smallest-divisor-given-a-threshold/solution.java) |
 | satisfiability-of-equality-equations | Satisfiability of Equality Equations | Medium | c | [Problem](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Solution](./solutions/Medium/0990-satisfiability-of-equality-equations/solution.c) |
 | second-minimum-node-in-a-binary-tree | 671. Second Minimum Node In A Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Solution](./solutions/Easy/0671-second-minimum-node-in-a-binary-tree/solution.java) |
-| find-pivot-index | 724. Find Pivot Index | Easy | c | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.c) |
+| design-hashmap | 706. Design Hashmap | Easy | c | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.c) |
 | sum-of-even-numbers-after-queries | Sum of Even Numbers After Queries | Medium | cpp | [Problem](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Solution](./solutions/Medium/0985-sum-of-even-numbers-after-queries/solution.cpp) |
 | time-based-key-value-store | Time Based Key-Value Store | Medium | cpp | [Problem](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./solutions/Medium/0981-time-based-key-value-store/solution.cpp) |
 | toeplitz-matrix | 766. Toeplitz Matrix | Easy | c | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.c) |
