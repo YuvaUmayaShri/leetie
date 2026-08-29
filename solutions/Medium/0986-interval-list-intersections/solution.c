@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, Sweep Line
 // Link     : https://leetcode.com/problems/interval-list-intersections/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8592000 (beats 0%)
+// Runtime  : 3 ms (beats 18%)
+// Memory   : 18840000 (beats 36%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
