@@ -4,7 +4,7 @@
 // Tags     : Array, Binary Search, Dynamic Programming, Sorting
 // Link     : https://leetcode.com/problems/maximum-walls-destroyed-by-robots/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 8704000 (beats 0%)
+// Memory   : 8596000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
@@ -76,19 +76,22 @@ int maxWalls(int* robots, int robotsSize, int* distance, int distanceSize, int* 
     int dp_right = 0;
 
     for (int i = 0; i < robotsSize; i++) {
+        // Shooting Left
         int left_bound = bot[i].pos - bot[i].dist;
         if (i > 0 && left_bound < bot[i - 1].pos + 1) {
             left_bound = bot[i - 1].pos + 1;
         }
         int walls_left = countWallsInRange(walls, wallsSize, left_bound, bot[i].pos);
 
+        // Shooting Right
         int right_bound = bot[i].pos + bot[i].dist;
         if (i + 1 < robotsSize && right_bound > bot[i + 1].pos - 1) {
             right_bound = bot[i + 1].pos - 1;
         }
         int walls_right = countWallsInRange(walls, wallsSize, bot[i].pos, right_bound);
 
-        int new_dp_left = max(dp_left + walls_left, dp_right + walls_left);
+        // Handle transitions cleanly without overlap double-counting
+        int new_dp_left = max(dp_left + walls_left, dp_right + countWallsInRange(walls, wallsSize, max(left_bound, (i > 0 ? bot[i-1].pos + bot[i-1].dist + 1 : left_bound)), bot[i].pos));
         int new_dp_right = max(dp_left + walls_right, dp_right + walls_right);
 
         dp_left = new_dp_left;
