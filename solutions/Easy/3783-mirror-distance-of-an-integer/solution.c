@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math
 // Link     : https://leetcode.com/problems/mirror-distance-of-an-integer/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8584000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9308000 (beats 4%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
