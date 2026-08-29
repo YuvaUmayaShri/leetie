@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix
 // Link     : https://leetcode.com/problems/number-of-enclaves/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8512000 (beats 0%)
+// Runtime  : 4 ms (beats 69%)
+// Memory   : 18584000 (beats 64%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
