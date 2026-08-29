@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math, String, Simulation
 // Link     : https://leetcode.com/problems/add-strings/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8652000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9000000 (beats 43%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
