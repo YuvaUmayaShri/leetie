@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Heap (Priority Queue)
 // Link     : https://leetcode.com/problems/last-stone-weight/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8756000 (beats 0%)
+// Runtime  : 3 ms (beats 4%)
+// Memory   : 8468000 (beats 97%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
