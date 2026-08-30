@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Greedy, Sorting, Counting Sort
 // Link     : https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8480000 (beats 0%)
+// Runtime  : 3 ms (beats 29%)
+// Memory   : 9456000 (beats 22%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
