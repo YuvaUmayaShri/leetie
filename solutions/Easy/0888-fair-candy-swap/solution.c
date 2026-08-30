@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Binary Search, Sorting
 // Link     : https://leetcode.com/problems/fair-candy-swap/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8772000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 11176000 (beats 31%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
