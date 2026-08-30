@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Sorting
 // Link     : https://leetcode.com/problems/sort-even-and-odd-indices-independently/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8572000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 12332000 (beats 27%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
