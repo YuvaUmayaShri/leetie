@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Sliding Window, Sorting
 // Link     : https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8460000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9808000 (beats 21%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
