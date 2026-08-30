@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 169 Solved
+## Progress Summary: 170 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -23,6 +23,7 @@
 | last-stone-weight | Last Stone Weight | Easy | c | [Problem](https://leetcode.com/problems/last-stone-weight/) | [Solution](./solutions/Easy/1046-last-stone-weight/solution.c) |
 | longest-palindromic-substring | 5. Longest Palindromic Substring | Medium | java | [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./solutions/Medium/0005-longest-palindromic-substring/solution.java) |
 | longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | c | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.c) |
+| longest-valid-parentheses | Longest Valid Parentheses | Hard | c | [Problem](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](./solutions/Hard/0032-longest-valid-parentheses/solution.c) |
 | make-lexicographically-smallest-array-by-swapping-elements | Make Lexicographically Smallest Array by Swapping Elements | Medium | c | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.c) |
 | max-chunks-to-make-sorted-ii | Max Chunks To Make Sorted II | Hard | c | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [Solution](./solutions/Hard/0768-max-chunks-to-make-sorted-ii/solution.c) |
 | maximum-consecutive-floors-without-special-floors | Maximum Consecutive Floors Without Special Floors | Medium | c | [Problem](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [Solution](./solutions/Medium/2274-maximum-consecutive-floors-without-special-floors/solution.c) |
@@ -31,10 +32,12 @@
 | median-of-two-sorted-arrays | 4. Median Of Two Sorted Arrays | Hard | java | [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](./solutions/Hard/0004-median-of-two-sorted-arrays/solution.java) |
 | zigzag-conversion | 6. Zigzag Conversion | Medium | python3 | [Problem](https://leetcode.com/problems/zigzag-conversion/) | [Solution](./solutions/Medium/0006-zigzag-conversion/solution.py) |
 | merge-two-sorted-lists | 21. Merge Two Sorted Lists | Easy | java | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/Easy/0021-merge-two-sorted-lists/solution.java) |
+| minimum-common-value | Minimum Common Value | Easy | c | [Problem](https://leetcode.com/problems/minimum-common-value/) | [Solution](./solutions/Easy/2540-minimum-common-value/solution.c) |
 | spiral-matrix | 54. Spiral Matrix | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix/) | [Solution](./solutions/Medium/0054-spiral-matrix/solution.java) |
 | unique-paths-ii | 63. Unique Paths Ii | Medium | java | [Problem](https://leetcode.com/problems/unique-paths-ii/) | [Solution](./solutions/Medium/0063-unique-paths-ii/solution.java) |
 | construct-binary-tree-from-preorder-and-inorder-traversal | 105. Construct Binary Tree From Preorder And Inorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./solutions/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/solution.java) |
 | construct-binary-tree-from-inorder-and-postorder-traversal | 106. Construct Binary Tree From Inorder And Postorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./solutions/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/solution.java) |
+| minimum-depth-of-binary-tree | 111. Minimum Depth Of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0111-minimum-depth-of-binary-tree/solution.java) |
 | sum-root-to-leaf-numbers | 129. Sum Root To Leaf Numbers | Medium | c | [Problem](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](./solutions/Medium/0129-sum-root-to-leaf-numbers/solution.c) |
 | find-minimum-in-rotated-sorted-array-ii | 154. Find Minimum In Rotated Sorted Array Ii | Hard | c | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.c) |
 | find-peak-element | 162. Find Peak Element | Medium | java | [Problem](https://leetcode.com/problems/find-peak-element/) | [Solution](./solutions/Medium/0162-find-peak-element/solution.java) |
@@ -60,8 +63,6 @@
 | encode-and-decode-tinyurl | 535. Encode And Decode Tinyurl | Medium | java | [Problem](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Solution](./solutions/Medium/0535-encode-and-decode-tinyurl/solution.java) |
 | complex-number-multiplication | 537. Complex Number Multiplication | Medium | java | [Problem](https://leetcode.com/problems/complex-number-multiplication/) | [Solution](./solutions/Medium/0537-complex-number-multiplication/solution.java) |
 | convert-bst-to-greater-tree | 538. Convert Bst To Greater Tree | Medium | java | [Problem](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](./solutions/Medium/0538-convert-bst-to-greater-tree/solution.java) |
-| minimum-common-value | Minimum Common Value | Easy | c | [Problem](https://leetcode.com/problems/minimum-common-value/) | [Solution](./solutions/Easy/2540-minimum-common-value/solution.c) |
-| minimum-depth-of-binary-tree | 111. Minimum Depth Of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0111-minimum-depth-of-binary-tree/solution.java) |
 | minimum-difference-between-highest-and-lowest-of-k-scores | Minimum Difference Between Highest and Lowest of K Scores | Easy | c | [Problem](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [Solution](./solutions/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/solution.c) |
 | minimum-number-of-moves-to-seat-everyone | Minimum Number of Moves to Seat Everyone | Easy | c | [Problem](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Solution](./solutions/Easy/2037-minimum-number-of-moves-to-seat-everyone/solution.c) |
 | minimum-time-difference | 539. Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
