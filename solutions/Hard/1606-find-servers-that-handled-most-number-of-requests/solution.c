@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Heap (Priority Queue), Simulation, Ordered Set
 // Link     : https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/
-// Runtime  : 2 ms (beats 0%)
-// Memory   : 8672000 (beats 0%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 8744000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
@@ -61,88 +61,58 @@ BusyNode popBusy(BusyHeap* heap) {
     return top;
 }
 
-typedef struct {
-    int* data;
-    int size;
-} MinHeap;
-
-MinHeap* createMinHeap(int capacity) {
-    MinHeap* heap = (MinHeap*)malloc(sizeof(MinHeap));
-    heap->data = (int*)malloc((capacity + 1) * sizeof(int));
-    heap->size = 0;
-    return heap;
+// Tree structure for O(log k) range minimum query of available servers
+void updateTree(int* tree, int node, int start, int end, int idx, int val) {
+    if (start == end) {
+        tree[node] = val;
+        return;
+    }
+    int mid = start + (end - start) / 2;
+    if (idx <= mid) updateTree(tree, 2 * node, start, mid, idx, val);
+    else updateTree(tree, 2 * node + 1, mid + 1, end, idx, val);
+    tree[node] = (tree[2 * node] != -1) ? tree[2 * node] : tree[2 * node + 1];
 }
 
-void pushMin(MinHeap* heap, int val) {
-    heap->size++;
-    int i = heap->size;
-    heap->data[i] = val;
-    while (i > 1 && heap->data[i] < heap->data[i / 2]) {
-        int temp = heap->data[i];
-        heap->data[i] = heap->data[i / 2];
-        heap->data[i / 2] = temp;
-        i /= 2;
-    }
-}
-
-int popMin(MinHeap* heap) {
-    int top = heap->data[1];
-    heap->data[1] = heap->data[heap->size--];
-    int i = 1;
-    while (i * 2 <= heap->size) {
-        int smallest = i * 2;
-        if (smallest + 1 <= heap->size && heap->data[smallest + 1] < heap->data[smallest]) {
-            smallest++;
-        }
-        if (heap->data[i] <= heap->data[smallest]) break;
-        int temp = heap->data[i];
-        heap->data[i] = heap->data[smallest];
-        heap->data[smallest] = temp;
-        i = smallest;
-    }
-    return top;
+int queryTree(int* tree, int node, int start, int end, int l, int r) {
+    if (r < start || end < l || tree[node] == -1) return -1;
+    if (l <= start && end <= r) return tree[node];
+    int mid = start + (end - start) / 2;
+    int left_ans = queryTree(tree, 2 * node, start, mid, l, r);
+    if (left_ans != -1) return left_ans;
+    return queryTree(tree, 2 * node + 1, mid + 1, end, l, r);
 }
 
 int* busiestServers(int k, int* arrival, int arrivalSize, int* load, int loadSize, int* returnSize) {
     BusyHeap* busy = createBusyHeap(k);
-    MinHeap* avail_after = createMinHeap(k);
-    MinHeap* avail_before = createMinHeap(k);
+    int* tree = (int*)malloc(4 * k * sizeof(int));
     int* count = (int*)calloc(k, sizeof(int));
 
-    for (int i = 0; i < k; i++) {
-        pushMin(avail_after, i);
-    }
+    for (int i = 0; i < 4 * k; i++) tree[i] = -1;
+    for (int i = 0; i < k; i++) updateTree(tree, 1, 0, k - 1, i, i);
 
     for (int i = 0; i < arrivalSize; i++) {
         long long curr_time = arrival[i];
         long long duration = load[i];
         int target_start = i % k;
 
-        // Release servers finishing before or at curr_time
+        // Free completed servers
         while (busy->size > 0 && busy->data[1].free_time <= curr_time) {
             BusyNode node = popBusy(busy);
-            if (node.server_id >= target_start) {
-                pushMin(avail_after, node.server_id);
-            } else {
-                pushMin(avail_before, node.server_id);
-            }
+            updateTree(tree, 1, 0, k - 1, node.server_id, node.server_id);
         }
 
-        // Shift servers < target_start from avail_after to avail_before
-        while (avail_after->size > 0 && avail_after->data[1] < target_start) {
-            pushMin(avail_before, popMin(avail_after));
+        // Query available server in range [target_start, k - 1]
+        int selected = queryTree(tree, 1, 0, k - 1, target_start, k - 1);
+        
+        // Wrap around to range [0, target_start - 1] if needed
+        if (selected == -1 && target_start > 0) {
+            selected = queryTree(tree, 1, 0, k - 1, 0, target_start - 1);
         }
 
-        int selected_server = -1;
-        if (avail_after->size > 0) {
-            selected_server = popMin(avail_after);
-        } else if (avail_before->size > 0) {
-            selected_server = popMin(avail_before);
-        }
-
-        if (selected_server != -1) {
-            count[selected_server]++;
-            pushBusy(busy, curr_time + duration, selected_server);
+        if (selected != -1) {
+            count[selected]++;
+            updateTree(tree, 1, 0, k - 1, selected, -1);
+            pushBusy(busy, curr_time + duration, selected);
         }
     }
 
@@ -165,8 +135,7 @@ int* busiestServers(int k, int* arrival, int arrivalSize, int* load, int loadSiz
     *returnSize = result_count;
 
     free(busy->data); free(busy);
-    free(avail_after->data); free(avail_after);
-    free(avail_before->data); free(avail_before);
+    free(tree);
     free(count);
 
     return result;
