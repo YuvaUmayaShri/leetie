@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, String
 // Link     : https://leetcode.com/problems/number-of-lines-to-write-string/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8468000 (beats 0%)
+// Runtime  : 3 ms (beats 57%)
+// Memory   : 8620000 (beats 35%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
