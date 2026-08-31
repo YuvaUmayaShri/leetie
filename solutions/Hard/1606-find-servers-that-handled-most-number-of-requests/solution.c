@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Heap (Priority Queue), Simulation, Ordered Set
 // Link     : https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8652000 (beats 0%)
+// Runtime  : 2 ms (beats 0%)
+// Memory   : 8672000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
@@ -64,16 +64,16 @@ BusyNode popBusy(BusyHeap* heap) {
 typedef struct {
     int* data;
     int size;
-} IntHeap;
+} MinHeap;
 
-IntHeap* createIntHeap(int capacity) {
-    IntHeap* heap = (IntHeap*)malloc(sizeof(IntHeap));
+MinHeap* createMinHeap(int capacity) {
+    MinHeap* heap = (MinHeap*)malloc(sizeof(MinHeap));
     heap->data = (int*)malloc((capacity + 1) * sizeof(int));
     heap->size = 0;
     return heap;
 }
 
-void pushInt(IntHeap* heap, int val) {
+void pushMin(MinHeap* heap, int val) {
     heap->size++;
     int i = heap->size;
     heap->data[i] = val;
@@ -85,7 +85,7 @@ void pushInt(IntHeap* heap, int val) {
     }
 }
 
-int popInt(IntHeap* heap) {
+int popMin(MinHeap* heap) {
     int top = heap->data[1];
     heap->data[1] = heap->data[heap->size--];
     int i = 1;
@@ -105,12 +105,12 @@ int popInt(IntHeap* heap) {
 
 int* busiestServers(int k, int* arrival, int arrivalSize, int* load, int loadSize, int* returnSize) {
     BusyHeap* busy = createBusyHeap(k);
-    IntHeap* avail_after = createIntHeap(k);
-    IntHeap* avail_before = createIntHeap(k);
+    MinHeap* avail_after = createMinHeap(k);
+    MinHeap* avail_before = createMinHeap(k);
     int* count = (int*)calloc(k, sizeof(int));
 
     for (int i = 0; i < k; i++) {
-        pushInt(avail_after, i);
+        pushMin(avail_after, i);
     }
 
     for (int i = 0; i < arrivalSize; i++) {
@@ -118,32 +118,31 @@ int* busiestServers(int k, int* arrival, int arrivalSize, int* load, int loadSiz
         long long duration = load[i];
         int target_start = i % k;
 
-        // Move newly freed servers back to available heaps
+        // Release servers finishing before or at curr_time
         while (busy->size > 0 && busy->data[1].free_time <= curr_time) {
             BusyNode node = popBusy(busy);
             if (node.server_id >= target_start) {
-                pushInt(avail_after, node.server_id);
+                pushMin(avail_after, node.server_id);
             } else {
-                pushInt(avail_before, node.server_id);
+                pushMin(avail_before, node.server_id);
             }
         }
 
-        // Shift servers from avail_after to avail_before as target_start moves forward
+        // Shift servers < target_start from avail_after to avail_before
         while (avail_after->size > 0 && avail_after->data[1] < target_start) {
-            pushInt(avail_before, popInt(avail_after));
+            pushMin(avail_before, popMin(avail_after));
         }
 
-        // If avail_after is empty, transfer all back to avail_after for cycle wrap-around
-        if (avail_after->size == 0 && avail_before->size > 0) {
-            IntHeap* temp = avail_after;
-            avail_after = avail_before;
-            avail_before = temp;
-        }
-
+        int selected_server = -1;
         if (avail_after->size > 0) {
-            int server = popInt(avail_after);
-            count[server]++;
-            pushBusy(busy, curr_time + duration, server);
+            selected_server = popMin(avail_after);
+        } else if (avail_before->size > 0) {
+            selected_server = popMin(avail_before);
+        }
+
+        if (selected_server != -1) {
+            count[selected_server]++;
+            pushBusy(busy, curr_time + duration, selected_server);
         }
     }
 
