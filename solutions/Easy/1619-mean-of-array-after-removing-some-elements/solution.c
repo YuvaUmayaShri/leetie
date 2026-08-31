@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Sorting
 // Link     : https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8700000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9220000 (beats 13%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
