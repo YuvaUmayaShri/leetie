@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming, Bit Manipulation, Matrix, Bitmask, Bipartite Graph, Successive Shortest Path Algorithm, Matching (Graph), Minimum-Cost Flow, Flow Network
 // Link     : https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8672000 (beats 0%)
+// Runtime  : 7 ms (beats 100%)
+// Memory   : 10852000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
