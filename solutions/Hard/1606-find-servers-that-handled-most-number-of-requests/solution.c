@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Heap (Priority Queue), Simulation, Ordered Set
 // Link     : https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8744000 (beats 0%)
+// Runtime  : 107 ms (beats 0%)
+// Memory   : 30080000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
