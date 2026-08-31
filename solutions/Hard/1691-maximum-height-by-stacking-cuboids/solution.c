@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming, Sorting
 // Link     : https://leetcode.com/problems/maximum-height-by-stacking-cuboids/
-// Runtime  : 4 ms (beats 0%)
-// Memory   : 8672000 (beats 0%)
+// Runtime  : 10 ms (beats 0%)
+// Memory   : 10260000 (beats 75%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
