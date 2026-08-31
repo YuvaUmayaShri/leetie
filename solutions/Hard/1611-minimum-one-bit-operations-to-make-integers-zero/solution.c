@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, Dynamic Programming, Bit Manipulation, Recursion, Memoization
 // Link     : https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8520000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 8892000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
