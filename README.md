@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 183 Solved
+## Progress Summary: 184 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,6 +14,7 @@
 | count-binary-substrings | Count Binary Substrings | Easy | c | [Problem](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./solutions/Easy/0696-count-binary-substrings/solution.c) |
 | escape-a-large-maze | Escape a Large Maze | Hard | c | [Problem](https://leetcode.com/problems/escape-a-large-maze/) | [Solution](./solutions/Hard/1036-escape-a-large-maze/solution.c) |
 | fair-candy-swap | Fair Candy Swap | Easy | c | [Problem](https://leetcode.com/problems/fair-candy-swap/) | [Solution](./solutions/Easy/0888-fair-candy-swap/solution.c) |
+| find-servers-that-handled-most-number-of-requests | Find Servers That Handled Most Number of Requests | Hard | c | [Problem](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [Solution](./solutions/Hard/1606-find-servers-that-handled-most-number-of-requests/solution.c) |
 | find-smallest-letter-greater-than-target | Find Smallest Letter Greater Than Target | Easy | c | [Problem](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](./solutions/Easy/0744-find-smallest-letter-greater-than-target/solution.c) |
 | find-target-indices-after-sorting-array | Find Target Indices After Sorting Array | Easy | c | [Problem](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Solution](./solutions/Easy/2089-find-target-indices-after-sorting-array/solution.c) |
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | c | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.c) |
