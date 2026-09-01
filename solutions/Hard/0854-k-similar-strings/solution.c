@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Hash Table, String, Breadth-First Search
 // Link     : https://leetcode.com/problems/k-similar-strings/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8820000 (beats 0%)
+// Runtime  : 244 ms (beats 50%)
+// Memory   : 73040000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
