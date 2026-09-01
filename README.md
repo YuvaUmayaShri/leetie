@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 191 Solved
+## Progress Summary: 192 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -118,6 +118,7 @@
 | maximum-walls-destroyed-by-robots | Maximum Walls Destroyed by Robots | Hard | c | [Problem](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [Solution](./solutions/Hard/3661-maximum-walls-destroyed-by-robots/solution.c) |
 | mean-of-array-after-removing-some-elements | Mean of Array After Removing Some Elements | Easy | c | [Problem](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [Solution](./solutions/Easy/1619-mean-of-array-after-removing-some-elements/solution.c) |
 | merge-two-sorted-lists | 21. Merge Two Sorted Lists | Easy | java | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/Easy/0021-merge-two-sorted-lists/solution.java) |
+| minimum-ascii-delete-sum-for-two-strings | Minimum ASCII Delete Sum for Two Strings | Medium | c | [Problem](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Solution](./solutions/Medium/0712-minimum-ascii-delete-sum-for-two-strings/solution.c) |
 | minimum-common-value | Minimum Common Value | Easy | c | [Problem](https://leetcode.com/problems/minimum-common-value/) | [Solution](./solutions/Easy/2540-minimum-common-value/solution.c) |
 | minimum-cost-to-connect-two-groups-of-points | Minimum Cost to Connect Two Groups of Points | Hard | c | [Problem](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | [Solution](./solutions/Hard/1595-minimum-cost-to-connect-two-groups-of-points/solution.c) |
 | minimum-depth-of-binary-tree | 111. Minimum Depth Of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0111-minimum-depth-of-binary-tree/solution.java) |
