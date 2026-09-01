@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 195 Solved
+## Progress Summary: 196 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -162,6 +162,7 @@
 | rectangle-overlap | 836. Rectangle Overlap | Easy | c | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.c) |
 | lemonade-change | 860. Lemonade Change | Easy | c | [Problem](https://leetcode.com/problems/lemonade-change/) | [Solution](./solutions/Easy/0860-lemonade-change/solution.c) |
 | projection-area-of-3d-shapes | 883. Projection Area Of 3d Shapes | Easy | c | [Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Solution](./solutions/Easy/0883-projection-area-of-3d-shapes/solution.c) |
+| shortest-completing-word | Shortest Completing Word | Easy | c | [Problem](https://leetcode.com/problems/shortest-completing-word/) | [Solution](./solutions/Easy/0748-shortest-completing-word/solution.c) |
 | shortest-distance-to-target-string-in-a-circular-array | Shortest Distance to Target String in a Circular Array | Easy | c | [Problem](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Solution](./solutions/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/solution.c) |
 | shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | c | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.c) |
 | smallest-value-of-the-rearranged-number | Smallest Value of the Rearranged Number | Medium | c | [Problem](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Solution](./solutions/Medium/2165-smallest-value-of-the-rearranged-number/solution.c) |
@@ -171,13 +172,13 @@
 | sum-of-even-numbers-after-queries | Sum of Even Numbers After Queries | Medium | cpp | [Problem](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Solution](./solutions/Medium/0985-sum-of-even-numbers-after-queries/solution.cpp) |
 | time-based-key-value-store | Time Based Key-Value Store | Medium | cpp | [Problem](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./solutions/Medium/0981-time-based-key-value-store/solution.cpp) |
 | toeplitz-matrix | 766. Toeplitz Matrix | Easy | c | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.c) |
+| three-consecutive-odds | 1550. Three Consecutive Odds | Easy | c | [Problem](https://leetcode.com/problems/three-consecutive-odds/) | [Solution](./solutions/Easy/1550-three-consecutive-odds/solution.c) |
 | two-city-scheduling | Two City Scheduling | Medium | c | [Problem](https://leetcode.com/problems/two-city-scheduling/) | [Solution](./solutions/Medium/1029-two-city-scheduling/solution.c) |
 | uncrossed-lines | Uncrossed Lines | Medium | c | [Problem](https://leetcode.com/problems/uncrossed-lines/) | [Solution](./solutions/Medium/1035-uncrossed-lines/solution.c) |
 | unique-morse-code-words | 804. Unique Morse Code Words | Easy | c | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.c) |
 | goat-latin | 824. Goat Latin | Easy | c | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.c) |
 | flipping-an-image | 832. Flipping An Image | Easy | cpp | [Problem](https://leetcode.com/problems/flipping-an-image/) | [Solution](./solutions/Easy/0832-flipping-an-image/solution.cpp) |
 | univalued-binary-tree | 965. Univalued Binary Tree | Easy | c | [Problem](https://leetcode.com/problems/univalued-binary-tree/) | [Solution](./solutions/Easy/0965-univalued-binary-tree/solution.c) |
-| three-consecutive-odds | 1550. Three Consecutive Odds | Easy | c | [Problem](https://leetcode.com/problems/three-consecutive-odds/) | [Solution](./solutions/Easy/1550-three-consecutive-odds/solution.c) |
 | valid-anagram | Valid Anagram | Easy | c | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.c) |
 | vertical-order-traversal-of-a-binary-tree | Vertical Order Traversal of a Binary Tree | Hard | c | [Problem](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution](./solutions/Hard/0987-vertical-order-traversal-of-a-binary-tree/solution.c) |
 | ways-to-split-array-into-three-subarrays | 1712. Ways To Split Array Into Three Subarrays | Medium | c | [Problem](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [Solution](./solutions/Medium/1712-ways-to-split-array-into-three-subarrays/solution.c) |
