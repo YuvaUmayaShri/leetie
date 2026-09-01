@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Dynamic Programming
 // Link     : https://leetcode.com/problems/champagne-tower/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 8560000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 8816000 (beats 8%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
