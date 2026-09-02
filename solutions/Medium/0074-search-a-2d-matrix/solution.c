@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search, Matrix
 // Link     : https://leetcode.com/problems/search-a-2d-matrix/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8636000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9508000 (beats 56%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
