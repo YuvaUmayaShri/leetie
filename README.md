@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 215 Solved
+## Progress Summary: 216 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -219,5 +219,6 @@
 | find-the-sum-of-encrypted-integers | 3079. Find The Sum Of Encrypted Integers | Easy | c | [Problem](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/) | [Solution](./solutions/Easy/3079-find-the-sum-of-encrypted-integers/solution.c) |
 | mark-elements-on-array-by-performing-queries | 3080. Mark Elements On Array By Performing Queries | Medium | c | [Problem](https://leetcode.com/problems/mark-elements-on-array-by-performing-queries/) | [Solution](./solutions/Medium/3080-mark-elements-on-array-by-performing-queries/solution.c) |
 | replace-question-marks-in-string-to-minimize-its-value | 3081. Replace Question Marks In String To Minimize Its Value | Medium | c | [Problem](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/) | [Solution](./solutions/Medium/3081-replace-question-marks-in-string-to-minimize-its-value/solution.c) |
+| word-ladder | Word Ladder | Hard | c | [Problem](https://leetcode.com/problems/word-ladder/) | [Solution](./solutions/Hard/0127-word-ladder/solution.c) |
 | word-ladder-ii | Word Ladder II | Hard | c | [Problem](https://leetcode.com/problems/word-ladder-ii/) | [Solution](./solutions/Hard/0126-word-ladder-ii/solution.c) |
 | xor-after-range-multiplication-queries-i | XOR After Range Multiplication Queries I | Medium | c | [Problem](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | [Solution](./solutions/Medium/3653-xor-after-range-multiplication-queries-i/solution.c) |
