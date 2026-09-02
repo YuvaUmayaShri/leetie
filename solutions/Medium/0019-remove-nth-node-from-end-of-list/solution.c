@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Linked List, Two Pointers
 // Link     : https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8604000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 10208000 (beats 44%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
