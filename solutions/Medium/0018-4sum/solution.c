@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, Sorting
 // Link     : https://leetcode.com/problems/4sum/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8672000 (beats 0%)
+// Runtime  : 27 ms (beats 38%)
+// Memory   : 16316000 (beats 23%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
