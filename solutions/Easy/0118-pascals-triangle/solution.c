@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Dynamic Programming
 // Link     : https://leetcode.com/problems/pascals-triangle/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8636000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 11508000 (beats 70%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
