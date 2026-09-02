@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : String, Dynamic Programming
 // Link     : https://leetcode.com/problems/scramble-string/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8508000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9576000 (beats 85%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
