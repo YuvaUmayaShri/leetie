@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 223 Solved
+## Progress Summary: 224 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -131,6 +131,7 @@
 | previous-permutation-with-one-swap | Previous Permutation With One Swap | Medium | c | [Problem](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [Solution](./solutions/Medium/1053-previous-permutation-with-one-swap/solution.c) |
 | push-dominoes | Push Dominoes | Medium | c | [Problem](https://leetcode.com/problems/push-dominoes/) | [Solution](./solutions/Medium/0838-push-dominoes/solution.c) |
 | race-car | Race Car | Hard | c | [Problem](https://leetcode.com/problems/race-car/) | [Solution](./solutions/Hard/0818-race-car/solution.c) |
+| rank-transform-of-a-matrix | Rank Transform of a Matrix | Hard | c | [Problem](https://leetcode.com/problems/rank-transform-of-a-matrix/) | [Solution](./solutions/Hard/1632-rank-transform-of-a-matrix/solution.c) |
 | rectangle-area-ii | Rectangle Area II | Hard | c | [Problem](https://leetcode.com/problems/rectangle-area-ii/) | [Solution](./solutions/Hard/0850-rectangle-area-ii/solution.c) |
 | remove-nth-node-from-end-of-list | Remove Nth Node From End of List | Medium | c | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solutions/Medium/0019-remove-nth-node-from-end-of-list/solution.c) |
 | removing-minimum-and-maximum-from-array | Removing Minimum and Maximum From Array | Medium | c | [Problem](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Solution](./solutions/Medium/2091-removing-minimum-and-maximum-from-array/solution.c) |
@@ -154,6 +155,9 @@
 | student-attendance-record-ii | Student Attendance Record II | Hard | c | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.c) |
 | sum-of-even-numbers-after-queries | Sum of Even Numbers After Queries | Medium | cpp | [Problem](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Solution](./solutions/Medium/0985-sum-of-even-numbers-after-queries/solution.cpp) |
 | swap-nodes-in-pairs | Swap Nodes in Pairs | Medium | c | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.c) |
+| the-skyline-problem | The Skyline Problem | Hard | c | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.c) |
+| time-based-key-value-store | Time Based Key-Value Store | Medium | cpp | [Problem](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./solutions/Medium/0981-time-based-key-value-store/solution.cpp) |
+| toeplitz-matrix | 766. Toeplitz Matrix | Easy | c | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.c) |
 | swim-in-rising-water | 778. Swim In Rising Water | Hard | cpp | [Problem](https://leetcode.com/problems/swim-in-rising-water/) | [Solution](./solutions/Hard/0778-swim-in-rising-water/solution.cpp) |
 | minimum-distance-between-bst-nodes | 783. Minimum Distance Between Bst Nodes | Easy | c | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.c) |
 | domino-and-tromino-tiling | 790. Domino And Tromino Tiling | Medium | c | [Problem](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Solution](./solutions/Medium/0790-domino-and-tromino-tiling/solution.c) |
@@ -219,9 +223,6 @@
 | find-the-sum-of-encrypted-integers | 3079. Find The Sum Of Encrypted Integers | Easy | c | [Problem](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/) | [Solution](./solutions/Easy/3079-find-the-sum-of-encrypted-integers/solution.c) |
 | mark-elements-on-array-by-performing-queries | 3080. Mark Elements On Array By Performing Queries | Medium | c | [Problem](https://leetcode.com/problems/mark-elements-on-array-by-performing-queries/) | [Solution](./solutions/Medium/3080-mark-elements-on-array-by-performing-queries/solution.c) |
 | replace-question-marks-in-string-to-minimize-its-value | 3081. Replace Question Marks In String To Minimize Its Value | Medium | c | [Problem](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/) | [Solution](./solutions/Medium/3081-replace-question-marks-in-string-to-minimize-its-value/solution.c) |
-| the-skyline-problem | The Skyline Problem | Hard | c | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.c) |
-| time-based-key-value-store | Time Based Key-Value Store | Medium | cpp | [Problem](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./solutions/Medium/0981-time-based-key-value-store/solution.cpp) |
-| toeplitz-matrix | 766. Toeplitz Matrix | Easy | c | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.c) |
 | two-city-scheduling | Two City Scheduling | Medium | c | [Problem](https://leetcode.com/problems/two-city-scheduling/) | [Solution](./solutions/Medium/1029-two-city-scheduling/solution.c) |
 | uncrossed-lines | Uncrossed Lines | Medium | c | [Problem](https://leetcode.com/problems/uncrossed-lines/) | [Solution](./solutions/Medium/1035-uncrossed-lines/solution.c) |
 | valid-anagram | Valid Anagram | Easy | c | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.c) |
