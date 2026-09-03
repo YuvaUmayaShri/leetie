@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Sorting
 // Link     : https://leetcode.com/problems/arithmetic-subarrays/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8752000 (beats 0%)
+// Runtime  : 39 ms (beats 0%)
+// Memory   : 17792000 (beats 14%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
