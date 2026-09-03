@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Sweep Line, Sorting, Heap (Priority Queue), Ordered Set
 // Link     : https://leetcode.com/problems/the-skyline-problem/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8776000 (beats 0%)
+// Runtime  : 12 ms (beats 72%)
+// Memory   : 24876000 (beats 71%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
