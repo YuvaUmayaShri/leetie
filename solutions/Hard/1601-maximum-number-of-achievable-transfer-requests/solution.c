@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Backtracking, Bit Manipulation, Enumeration
 // Link     : https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8588000 (beats 0%)
+// Runtime  : 23 ms (beats 100%)
+// Memory   : 9348000 (beats 100%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
