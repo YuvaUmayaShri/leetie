@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 229 Solved
+## Progress Summary: 230 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -34,6 +34,7 @@
 | insert-delete-getrandom-o1-duplicates-allowed | 381. Insert Delete Getrandom O1 Duplicates Allowed | Hard | cpp | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Solution](./solutions/Hard/0381-insert-delete-getrandom-o1-duplicates-allowed/solution.cpp) |
 | split-array-largest-sum | 410. Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
 | find-right-interval | 436. Find Right Interval | Medium | c | [Problem](https://leetcode.com/problems/find-right-interval/) | [Solution](./solutions/Medium/0436-find-right-interval/solution.c) |
+| arranging-coins | 441. Arranging Coins | Easy | c | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.c) |
 | freedom-trail | 514. Freedom Trail | Hard | c | [Problem](https://leetcode.com/problems/freedom-trail/) | [Solution](./solutions/Hard/0514-freedom-trail/solution.c) |
 | super-washing-machines | 517. Super Washing Machines | Hard | c | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.c) |
 | random-pick-with-weight | 528. Random Pick With Weight | Medium | java | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.java) |
@@ -54,12 +55,14 @@
 | baseball-game | 682. Baseball Game | Easy | c | [Problem](https://leetcode.com/problems/baseball-game/) | [Solution](./solutions/Easy/0682-baseball-game/solution.c) |
 | basic-calculator | Basic Calculator | Hard | c | [Problem](https://leetcode.com/problems/basic-calculator/) | [Solution](./solutions/Hard/0224-basic-calculator/solution.c) |
 | binary-tree-preorder-traversal | Binary Tree Preorder Traversal | Easy | c | [Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0144-binary-tree-preorder-traversal/solution.c) |
+| brace-expansion-ii | Brace Expansion II | Hard | c | [Problem](https://leetcode.com/problems/brace-expansion-ii/) | [Solution](./solutions/Hard/1096-brace-expansion-ii/solution.c) |
 | champagne-tower | Champagne Tower | Medium | c | [Problem](https://leetcode.com/problems/champagne-tower/) | [Solution](./solutions/Medium/0799-champagne-tower/solution.c) |
 | construct-uniform-parity-array-i | Construct Uniform Parity Array I | Easy | c | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Solution](./solutions/Easy/3875-construct-uniform-parity-array-i/solution.c) |
 | construct-uniform-parity-array-ii | Construct Uniform Parity Array II | Medium | c | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.c) |
 | contains-duplicate | Contains Duplicate | Easy | c | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](./solutions/Easy/0217-contains-duplicate/solution.c) |
 | count-binary-substrings | Count Binary Substrings | Easy | c | [Problem](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./solutions/Easy/0696-count-binary-substrings/solution.c) |
 | delete-and-earn | Delete and Earn | Medium | c | [Problem](https://leetcode.com/problems/delete-and-earn/) | [Solution](./solutions/Medium/0740-delete-and-earn/solution.c) |
+| design-hashset | 705. Design Hashset | Easy | c | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.c) |
 | escape-a-large-maze | Escape a Large Maze | Hard | c | [Problem](https://leetcode.com/problems/escape-a-large-maze/) | [Solution](./solutions/Hard/1036-escape-a-large-maze/solution.c) |
 | fair-candy-swap | Fair Candy Swap | Easy | c | [Problem](https://leetcode.com/problems/fair-candy-swap/) | [Solution](./solutions/Easy/0888-fair-candy-swap/solution.c) |
 | find-largest-value-in-each-tree-row | Find Largest Value in Each Tree Row | Medium | c | [Problem](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Solution](./solutions/Medium/0515-find-largest-value-in-each-tree-row/solution.c) |
@@ -72,8 +75,6 @@
 | grumpy-bookstore-owner | Grumpy Bookstore Owner | Medium | c | [Problem](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Solution](./solutions/Medium/1052-grumpy-bookstore-owner/solution.c) |
 | happy-number | 202. Happy Number | Easy | cpp | [Problem](https://leetcode.com/problems/happy-number/) | [Solution](./solutions/Easy/0202-happy-number/solution.cpp) |
 | guess-number-higher-or-lower | 374. Guess Number Higher Or Lower | Easy | c | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](./solutions/Easy/0374-guess-number-higher-or-lower/solution.c) |
-| arranging-coins | 441. Arranging Coins | Easy | c | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.c) |
-| design-hashset | 705. Design Hashset | Easy | c | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.c) |
 | design-hashmap | 706. Design Hashmap | Easy | c | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.c) |
 | interval-list-intersections | Interval List Intersections | Medium | c | [Problem](https://leetcode.com/problems/interval-list-intersections/) | [Solution](./solutions/Medium/0986-interval-list-intersections/solution.c) |
 | jump-game-vii | Jump Game VII | Medium | c | [Problem](https://leetcode.com/problems/jump-game-vii/) | [Solution](./solutions/Medium/1871-jump-game-vii/solution.c) |
