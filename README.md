@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 239 Solved
+## Progress Summary: 240 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -59,6 +59,7 @@
 | maximum-number-of-achievable-transfer-requests | Maximum Number of Achievable Transfer Requests | Hard | c | [Problem](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [Solution](./solutions/Hard/1601-maximum-number-of-achievable-transfer-requests/solution.c) |
 | maximum-product-difference-between-two-pairs | Maximum Product Difference Between Two Pairs | Easy | c | [Problem](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Solution](./solutions/Easy/1913-maximum-product-difference-between-two-pairs/solution.c) |
 | maximum-split-of-positive-even-integers | Maximum Split of Positive Even Integers | Medium | c | [Problem](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [Solution](./solutions/Medium/2178-maximum-split-of-positive-even-integers/solution.c) |
+| maximum-twin-sum-of-a-linked-list | Maximum Twin Sum of a Linked List | Medium | c | [Problem](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Solution](./solutions/Medium/2130-maximum-twin-sum-of-a-linked-list/solution.c) |
 | maximum-units-on-a-truck | Maximum Units on a Truck | Easy | c | [Problem](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Solution](./solutions/Easy/1710-maximum-units-on-a-truck/solution.c) |
 | maximum-walls-destroyed-by-robots | Maximum Walls Destroyed by Robots | Hard | c | [Problem](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [Solution](./solutions/Hard/3661-maximum-walls-destroyed-by-robots/solution.c) |
 | mean-of-array-after-removing-some-elements | Mean of Array After Removing Some Elements | Easy | c | [Problem](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [Solution](./solutions/Easy/1619-mean-of-array-after-removing-some-elements/solution.c) |
