@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, String, Sorting
 // Link     : https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8528000 (beats 0%)
+// Runtime  : 7 ms (beats 78%)
+// Memory   : 12984000 (beats 90%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
