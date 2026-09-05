@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, Binary Search, Greedy, Sorting
 // Link     : https://leetcode.com/problems/valid-triangle-number/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8564000 (beats 0%)
+// Runtime  : 31 ms (beats 93%)
+// Memory   : 9220000 (beats 1%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
