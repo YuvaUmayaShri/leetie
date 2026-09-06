@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 255 Solved
+## Progress Summary: 256 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -52,6 +52,7 @@
 | last-stone-weight | Last Stone Weight | Easy | c | [Problem](https://leetcode.com/problems/last-stone-weight/) | [Solution](./solutions/Easy/1046-last-stone-weight/solution.c) |
 | linked-list-cycle | Linked List Cycle | Easy | c | [Problem](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./solutions/Easy/0141-linked-list-cycle/solution.c) |
 | longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium | c | [Problem](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Solution](./solutions/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/solution.c) |
+| longest-nice-substring | Longest Nice Substring | Easy | c | [Problem](https://leetcode.com/problems/longest-nice-substring/) | [Solution](./solutions/Easy/1763-longest-nice-substring/solution.c) |
 | longest-non-decreasing-subarray-from-two-arrays | Longest Non-decreasing Subarray From Two Arrays | Medium | c | [Problem](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | [Solution](./solutions/Medium/2771-longest-non-decreasing-subarray-from-two-arrays/solution.c) |
 | longest-repeating-character-replacement | Longest Repeating Character Replacement | Medium | c | [Problem](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](./solutions/Medium/0424-longest-repeating-character-replacement/solution.c) |
 | longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | c | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.c) |
