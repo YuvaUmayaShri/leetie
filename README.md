@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 257 Solved
+## Progress Summary: 258 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -66,6 +66,7 @@
 | maximum-height-by-stacking-cuboids | Maximum Height by Stacking Cuboids | Hard | c | [Problem](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [Solution](./solutions/Hard/1691-maximum-height-by-stacking-cuboids/solution.c) |
 | maximum-length-of-a-concatenated-string-with-unique-characters | Maximum Length of a Concatenated String with Unique Characters | Medium | c | [Problem](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Solution](./solutions/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters/solution.c) |
 | maximum-number-of-achievable-transfer-requests | Maximum Number of Achievable Transfer Requests | Hard | c | [Problem](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [Solution](./solutions/Hard/1601-maximum-number-of-achievable-transfer-requests/solution.c) |
+| maximum-number-of-balloons | Maximum Number of Balloons | Easy | c | [Problem](https://leetcode.com/problems/maximum-number-of-balloons/) | [Solution](./solutions/Easy/1189-maximum-number-of-balloons/solution.c) |
 | maximum-product-difference-between-two-pairs | Maximum Product Difference Between Two Pairs | Easy | c | [Problem](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Solution](./solutions/Easy/1913-maximum-product-difference-between-two-pairs/solution.c) |
 | maximum-split-of-positive-even-integers | Maximum Split of Positive Even Integers | Medium | c | [Problem](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [Solution](./solutions/Medium/2178-maximum-split-of-positive-even-integers/solution.c) |
 | maximum-twin-sum-of-a-linked-list | Maximum Twin Sum of a Linked List | Medium | c | [Problem](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Solution](./solutions/Medium/2130-maximum-twin-sum-of-a-linked-list/solution.c) |
