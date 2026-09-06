@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Binary Search, Dynamic Programming, Sliding Window
 // Link     : https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8736000 (beats 0%)
+// Runtime  : 11 ms (beats 25%)
+// Memory   : 19320000 (beats 25%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
