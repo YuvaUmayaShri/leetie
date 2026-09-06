@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue
 // Link     : https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8508000 (beats 0%)
+// Runtime  : 24 ms (beats 7%)
+// Memory   : 17360000 (beats 60%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
