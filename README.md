@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 263 Solved
+## Progress Summary: 264 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -137,6 +137,7 @@
 | valid-triangle-number | Valid Triangle Number | Medium | c | [Problem](https://leetcode.com/problems/valid-triangle-number/) | [Solution](./solutions/Medium/0611-valid-triangle-number/solution.c) |
 | vertical-order-traversal-of-a-binary-tree | Vertical Order Traversal of a Binary Tree | Hard | c | [Problem](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution](./solutions/Hard/0987-vertical-order-traversal-of-a-binary-tree/solution.c) |
 | widest-vertical-area-between-two-points-containing-no-points | Widest Vertical Area Between Two Points Containing No Points | Easy | c | [Problem](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Solution](./solutions/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/solution.c) |
+| wiggle-subsequence | Wiggle Subsequence | Medium | c | [Problem](https://leetcode.com/problems/wiggle-subsequence/) | [Solution](./solutions/Medium/0376-wiggle-subsequence/solution.c) |
 | word-ladder | Word Ladder | Hard | c | [Problem](https://leetcode.com/problems/word-ladder/) | [Solution](./solutions/Hard/0127-word-ladder/solution.c) |
 | word-ladder-ii | Word Ladder II | Hard | c | [Problem](https://leetcode.com/problems/word-ladder-ii/) | [Solution](./solutions/Hard/0126-word-ladder-ii/solution.c) |
 | xor-after-range-multiplication-queries-i | XOR After Range Multiplication Queries I | Medium | c | [Problem](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | [Solution](./solutions/Medium/3653-xor-after-range-multiplication-queries-i/solution.c) |
