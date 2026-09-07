@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 259 Solved
+## Progress Summary: 260 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -86,6 +86,7 @@
 | minimum-number-of-days-to-make-m-bouquets | Minimum Number of Days to Make m Bouquets | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Solution](./solutions/Medium/1482-minimum-number-of-days-to-make-m-bouquets/solution.java) |
 | minimum-number-of-moves-to-seat-everyone | Minimum Number of Moves to Seat Everyone | Easy | c | [Problem](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Solution](./solutions/Easy/2037-minimum-number-of-moves-to-seat-everyone/solution.c) |
 | minimum-one-bit-operations-to-make-integers-zero | Minimum One Bit Operations to Make Integers Zero | Hard | c | [Problem](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [Solution](./solutions/Hard/1611-minimum-one-bit-operations-to-make-integers-zero/solution.c) |
+| minimum-size-subarray-sum | Minimum Size Subarray Sum | Medium | c | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](./solutions/Medium/0209-minimum-size-subarray-sum/solution.c) |
 | mirror-distance-of-an-integer | Mirror Distance of an Integer | Easy | c | [Problem](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Solution](./solutions/Easy/3783-mirror-distance-of-an-integer/solution.c) |
 | n-queens-ii | N-Queens II | Hard | c | [Problem](https://leetcode.com/problems/n-queens-ii/) | [Solution](./solutions/Hard/0052-n-queens-ii/solution.c) |
 | number-of-enclaves | Number of Enclaves | Medium | c | [Problem](https://leetcode.com/problems/number-of-enclaves/) | [Solution](./solutions/Medium/1020-number-of-enclaves/solution.c) |
