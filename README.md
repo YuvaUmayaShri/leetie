@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 261 Solved
+## Progress Summary: 262 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -59,6 +59,7 @@
 | longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | c | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.c) |
 | longest-valid-parentheses | Longest Valid Parentheses | Hard | c | [Problem](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](./solutions/Hard/0032-longest-valid-parentheses/solution.c) |
 | longest-word-in-dictionary-through-deleting | Longest Word in Dictionary through Deleting | Medium | c | [Problem](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Solution](./solutions/Medium/0524-longest-word-in-dictionary-through-deleting/solution.c) |
+| majority-element-ii | Majority Element II | Medium | c | [Problem](https://leetcode.com/problems/majority-element-ii/) | [Solution](./solutions/Medium/0229-majority-element-ii/solution.c) |
 | make-lexicographically-smallest-array-by-swapping-elements | Make Lexicographically Smallest Array by Swapping Elements | Medium | c | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.c) |
 | max-chunks-to-make-sorted-ii | Max Chunks To Make Sorted II | Hard | c | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [Solution](./solutions/Hard/0768-max-chunks-to-make-sorted-ii/solution.c) |
 | maximal-square | Maximal Square | Medium | c | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.c) |
@@ -219,7 +220,6 @@
 | tallest-billboard | 956. Tallest Billboard | Hard | c | [Problem](https://leetcode.com/problems/tallest-billboard/) | [Solution](./solutions/Hard/0956-tallest-billboard/solution.c) |
 | n-repeated-element-in-size-2n-array | 961. N Repeated Element In Size 2n Array | Easy | c | [Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](./solutions/Easy/0961-n-repeated-element-in-size-2n-array/solution.c) |
 | pancake-sorting | 969. Pancake Sorting | Medium | c | [Problem](https://leetcode.com/problems/pancake-sorting/) | [Solution](./solutions/Medium/0969-pancake-sorting/solution.c) |
-| find-the-town-judge | 997. Find The Town Judge | Easy | c | [Problem](https://leetcode.com/problems/find-the-town-judge/) | [Solution](./solutions/Easy/0997-find-the-town-judge/solution.c) |
 | capacity-to-ship-packages-within-d-days | 1011. Capacity To Ship Packages Within D Days | Medium | java | [Problem](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Solution](./solutions/Medium/1011-capacity-to-ship-packages-within-d-days/solution.java) |
 | car-pooling | 1094. Car Pooling | Medium | c | [Problem](https://leetcode.com/problems/car-pooling/) | [Solution](./solutions/Medium/1094-car-pooling/solution.c) |
 | find-in-mountain-array | 1095. Find In Mountain Array | Hard | c | [Problem](https://leetcode.com/problems/find-in-mountain-array/) | [Solution](./solutions/Hard/1095-find-in-mountain-array/solution.c) |
@@ -241,6 +241,7 @@
 | stamping-the-sequence | 936. Stamping The Sequence | Hard | c | [Problem](https://leetcode.com/problems/stamping-the-sequence/) | [Solution](./solutions/Hard/0936-stamping-the-sequence/solution.c) |
 | find-the-shortest-superstring | 943. Find The Shortest Superstring | Hard | c | [Problem](https://leetcode.com/problems/find-the-shortest-superstring/) | [Solution](./solutions/Hard/0943-find-the-shortest-superstring/solution.c) |
 | univalued-binary-tree | 965. Univalued Binary Tree | Easy | c | [Problem](https://leetcode.com/problems/univalued-binary-tree/) | [Solution](./solutions/Easy/0965-univalued-binary-tree/solution.c) |
+| find-the-town-judge | 997. Find The Town Judge | Easy | c | [Problem](https://leetcode.com/problems/find-the-town-judge/) | [Solution](./solutions/Easy/0997-find-the-town-judge/solution.c) |
 | complement-of-base-10-integer | 1009. Complement Of Base 10 Integer | Easy | c | [Problem](https://leetcode.com/problems/complement-of-base-10-integer/) | [Solution](./solutions/Easy/1009-complement-of-base-10-integer/solution.c) |
 | print-in-order | 1114. Print In Order | Easy | cpp | [Problem](https://leetcode.com/problems/print-in-order/) | [Solution](./solutions/Easy/1114-print-in-order/solution.cpp) |
 | remove-palindromic-subsequences | 1332. Remove Palindromic Subsequences | Easy | java | [Problem](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Solution](./solutions/Easy/1332-remove-palindromic-subsequences/solution.java) |
