@@ -4,7 +4,7 @@
 // Tags     : Array, Binary Search, Matrix
 // Link     : https://leetcode.com/problems/search-a-2d-matrix/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 43792000 (beats 80%)
+// Memory   : 44088000 (beats 24%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
