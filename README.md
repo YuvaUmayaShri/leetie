@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 265 Solved
+## Progress Summary: 266 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -23,6 +23,7 @@
 | construct-uniform-parity-array-ii | Construct Uniform Parity Array II | Medium | c | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.c) |
 | contains-duplicate | Contains Duplicate | Easy | c | [Problem](https://leetcode.com/problems/contains-duplicate/) | [Solution](./solutions/Easy/0217-contains-duplicate/solution.c) |
 | count-binary-substrings | Count Binary Substrings | Easy | c | [Problem](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./solutions/Easy/0696-count-binary-substrings/solution.c) |
+| decode-ways | Decode Ways | Medium | c | [Problem](https://leetcode.com/problems/decode-ways/) | [Solution](./solutions/Medium/0091-decode-ways/solution.c) |
 | defuse-the-bomb | Defuse the Bomb | Easy | c | [Problem](https://leetcode.com/problems/defuse-the-bomb/) | [Solution](./solutions/Easy/1652-defuse-the-bomb/solution.c) |
 | delete-and-earn | Delete and Earn | Medium | c | [Problem](https://leetcode.com/problems/delete-and-earn/) | [Solution](./solutions/Medium/0740-delete-and-earn/solution.c) |
 | delete-nodes-from-linked-list-present-in-array | Delete Nodes From Linked List Present in Array | Medium | c | [Problem](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [Solution](./solutions/Medium/3217-delete-nodes-from-linked-list-present-in-array/solution.c) |
