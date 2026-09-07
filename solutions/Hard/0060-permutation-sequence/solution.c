@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, Recursion
 // Link     : https://leetcode.com/problems/permutation-sequence/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8492000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 8416000 (beats 82%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
