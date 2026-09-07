@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 267 Solved
+## Progress Summary: 268 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -102,6 +102,7 @@
 | pascals-triangle-ii | Pascal's Triangle II | Easy | c | [Problem](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution](./solutions/Easy/0119-pascals-triangle-ii/solution.c) |
 | path-crossing | Path Crossing | Easy | c | [Problem](https://leetcode.com/problems/path-crossing/) | [Solution](./solutions/Easy/1496-path-crossing/solution.c) |
 | path-with-maximum-gold | Path with Maximum Gold | Medium | c | [Problem](https://leetcode.com/problems/path-with-maximum-gold/) | [Solution](./solutions/Medium/1219-path-with-maximum-gold/solution.c) |
+| permutation-sequence | Permutation Sequence | Hard | c | [Problem](https://leetcode.com/problems/permutation-sequence/) | [Solution](./solutions/Hard/0060-permutation-sequence/solution.c) |
 | permutations-ii | Permutations II | Medium | c | [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution](./solutions/Medium/0047-permutations-ii/solution.c) |
 | positions-of-large-groups | Positions of Large Groups | Easy | c | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.c) |
 | prefix-and-suffix-search | Prefix and Suffix Search | Hard | c | [Problem](https://leetcode.com/problems/prefix-and-suffix-search/) | [Solution](./solutions/Hard/0745-prefix-and-suffix-search/solution.c) |
