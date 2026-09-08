@@ -21,7 +21,7 @@ class Solution {
             }
 
         }
-        return index;
+        return index; // returning the index of the row which is max in that particular col
     }
     public int[] findPeakGrid(int[][] mat) {
         int n=mat.length;
@@ -33,7 +33,7 @@ class Solution {
         while(low<=high){
             mid=(low+high)/2;
             int row=maximum(mat,mid,n);
-            int left=mid-1>=0 ? mat[row][mid-1]:-1;
+            int left=mid-1>=0 ? mat[row][mid-1]:-1; //to check whether left and right side la element eruka if no -1
             int right=mid+1<m?mat[row][mid+1]:-1;
             if(mat[row][mid]>left && mat[row][mid]>right){
                 ans[0]=row;
