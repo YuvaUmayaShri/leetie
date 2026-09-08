@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 277 Solved
+## Progress Summary: 278 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -143,6 +143,7 @@
 | the-skyline-problem | The Skyline Problem | Hard | c | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.c) |
 | transpose-matrix | Transpose Matrix | Easy | c | [Problem](https://leetcode.com/problems/transpose-matrix/) | [Solution](./solutions/Easy/0867-transpose-matrix/solution.c) |
 | two-city-scheduling | Two City Scheduling | Medium | c | [Problem](https://leetcode.com/problems/two-city-scheduling/) | [Solution](./solutions/Medium/1029-two-city-scheduling/solution.c) |
+| uncommon-words-from-two-sentences | Uncommon Words from Two Sentences | Easy | c | [Problem](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Solution](./solutions/Easy/0884-uncommon-words-from-two-sentences/solution.c) |
 | valid-anagram | Valid Anagram | Easy | c | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.c) |
 | valid-palindrome-ii | Valid Palindrome II | Easy | c | [Problem](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](./solutions/Easy/0680-valid-palindrome-ii/solution.c) |
 | valid-triangle-number | Valid Triangle Number | Medium | c | [Problem](https://leetcode.com/problems/valid-triangle-number/) | [Solution](./solutions/Medium/0611-valid-triangle-number/solution.c) |
