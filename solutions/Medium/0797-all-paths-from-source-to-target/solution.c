@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Backtracking, Depth-First Search, Breadth-First Search, Graph Theory, Directed Acyclic Graph
 // Link     : https://leetcode.com/problems/all-paths-from-source-to-target/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8564000 (beats 0%)
+// Runtime  : 8 ms (beats 11%)
+// Memory   : 20768000 (beats 57%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
