@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, Dynamic Programming, Combinatorics
 // Link     : https://leetcode.com/problems/number-of-music-playlists/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8372000 (beats 0%)
+// Runtime  : 1 ms (beats 50%)
+// Memory   : 8700000 (beats 63%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
