@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Dynamic Programming, Tree, Depth-First Search, Graph Theory, DP on Trees
 // Link     : https://leetcode.com/problems/sum-of-distances-in-tree/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8688000 (beats 0%)
+// Runtime  : 84 ms (beats 23%)
+// Memory   : 65776000 (beats 15%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
