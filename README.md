@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 273 Solved
+## Progress Summary: 274 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -134,6 +134,7 @@
 | split-array-with-same-average | Split Array With Same Average | Hard | c | [Problem](https://leetcode.com/problems/split-array-with-same-average/) | [Solution](./solutions/Hard/0805-split-array-with-same-average/solution.c) |
 | student-attendance-record-ii | Student Attendance Record II | Hard | c | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.c) |
 | sum-of-all-subset-xor-totals | Sum of All Subset XOR Totals | Easy | c | [Problem](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Solution](./solutions/Easy/1863-sum-of-all-subset-xor-totals/solution.c) |
+| sum-of-distances-in-tree | Sum of Distances in Tree | Hard | c | [Problem](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution](./solutions/Hard/0834-sum-of-distances-in-tree/solution.c) |
 | summary-ranges | Summary Ranges | Easy | c | [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution](./solutions/Easy/0228-summary-ranges/solution.c) |
 | swap-nodes-in-pairs | Swap Nodes in Pairs | Medium | c | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.c) |
 | the-skyline-problem | The Skyline Problem | Hard | c | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.c) |
