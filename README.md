@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 279 Solved
+## Progress Summary: 280 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -16,6 +16,7 @@
 | arithmetic-subarrays | Arithmetic Subarrays | Medium | c | [Problem](https://leetcode.com/problems/arithmetic-subarrays/) | [Solution](./solutions/Medium/1630-arithmetic-subarrays/solution.c) |
 | basic-calculator | Basic Calculator | Hard | c | [Problem](https://leetcode.com/problems/basic-calculator/) | [Solution](./solutions/Hard/0224-basic-calculator/solution.c) |
 | binary-tree-preorder-traversal | Binary Tree Preorder Traversal | Easy | c | [Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0144-binary-tree-preorder-traversal/solution.c) |
+| bitwise-ors-of-subarrays | Bitwise ORs of Subarrays | Medium | c | [Problem](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | [Solution](./solutions/Medium/0898-bitwise-ors-of-subarrays/solution.c) |
 | brace-expansion-ii | Brace Expansion II | Hard | c | [Problem](https://leetcode.com/problems/brace-expansion-ii/) | [Solution](./solutions/Hard/1096-brace-expansion-ii/solution.c) |
 | champagne-tower | Champagne Tower | Medium | c | [Problem](https://leetcode.com/problems/champagne-tower/) | [Solution](./solutions/Medium/0799-champagne-tower/solution.c) |
 | circular-permutation-in-binary-representation | Circular Permutation in Binary Representation | Medium | c | [Problem](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | [Solution](./solutions/Medium/1238-circular-permutation-in-binary-representation/solution.c) |
