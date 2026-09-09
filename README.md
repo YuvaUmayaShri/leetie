@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 283 Solved
+## Progress Summary: 284 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -143,6 +143,7 @@
 | summary-ranges | Summary Ranges | Easy | c | [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution](./solutions/Easy/0228-summary-ranges/solution.c) |
 | super-egg-drop | Super Egg Drop | Hard | c | [Problem](https://leetcode.com/problems/super-egg-drop/) | [Solution](./solutions/Hard/0887-super-egg-drop/solution.c) |
 | swap-nodes-in-pairs | Swap Nodes in Pairs | Medium | c | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.c) |
+| swapping-nodes-in-a-linked-list | Swapping Nodes in a Linked List | Medium | c | [Problem](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Solution](./solutions/Medium/1721-swapping-nodes-in-a-linked-list/solution.c) |
 | the-skyline-problem | The Skyline Problem | Hard | c | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.c) |
 | transpose-matrix | Transpose Matrix | Easy | c | [Problem](https://leetcode.com/problems/transpose-matrix/) | [Solution](./solutions/Easy/0867-transpose-matrix/solution.c) |
 | two-city-scheduling | Two City Scheduling | Medium | c | [Problem](https://leetcode.com/problems/two-city-scheduling/) | [Solution](./solutions/Medium/1029-two-city-scheduling/solution.c) |
