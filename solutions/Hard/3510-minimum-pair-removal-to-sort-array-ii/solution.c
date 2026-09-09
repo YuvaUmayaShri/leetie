@@ -4,7 +4,7 @@
 // Tags     : Array, Hash Table, Linked List, Heap (Priority Queue), Simulation, Doubly-Linked List, Ordered Set
 // Link     : https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 8520000 (beats 0%)
+// Memory   : 8780000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
@@ -78,6 +78,15 @@ Pair popHeap(MinHeap* h) {
     return top;
 }
 
+bool isSorted(Node* head) {
+    Node* curr = head;
+    while (curr && curr->next) {
+        if (curr->val > curr->next->val) return false;
+        curr = curr->next;
+    }
+    return true;
+}
+
 int minimumPairRemoval(int* nums, int numsSize) {
     if (numsSize <= 1) return 0;
 
@@ -89,19 +98,16 @@ int minimumPairRemoval(int* nums, int numsSize) {
         nodes[i].next = (i < numsSize - 1) ? &nodes[i + 1] : NULL;
     }
 
-    MinHeap* heap = createHeap(numsSize * 3);
-    int decreases = 0;
+    MinHeap* heap = createHeap(numsSize * 4);
 
     for (int i = 0; i < numsSize - 1; i++) {
         pushHeap(heap, nodes[i].val + nodes[i + 1].val, nodes[i].id, &nodes[i]);
-        if (nodes[i].val > nodes[i + 1].val) {
-            decreases++;
-        }
     }
 
     int ops = 0;
+    Node* head = &nodes[0];
 
-    while (decreases > 0) {
+    while (!isSorted(head)) {
         Pair p = popHeap(heap);
         Node* u = p.left_node;
         Node* v = u->next;
@@ -113,16 +119,9 @@ int minimumPairRemoval(int* nums, int numsSize) {
         Node* prev = u->prev;
         Node* next = v->next;
 
-        if (prev && prev->val > u->val) decreases--;
-        if (u->val > v->val) decreases--;
-        if (next && v->val > next->val) decreases--;
-
         u->val = p.sum;
         u->next = next;
         if (next) next->prev = u;
-
-        if (prev && prev->val > u->val) decreases++;
-        if (next && u->val > next->val) decreases++;
 
         if (prev) {
             pushHeap(heap, prev->val + u->val, prev->id, prev);
