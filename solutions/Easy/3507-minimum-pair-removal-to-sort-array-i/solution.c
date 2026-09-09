@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Linked List, Heap (Priority Queue), Simulation, Doubly-Linked List, Ordered Set
 // Link     : https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8468000 (beats 0%)
+// Runtime  : 2 ms (beats 17%)
+// Memory   : 9832000 (beats 6%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
