@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 287 Solved
+## Progress Summary: 288 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -120,6 +120,7 @@
 | remove-nth-node-from-end-of-list | Remove Nth Node From End of List | Medium | c | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solutions/Medium/0019-remove-nth-node-from-end-of-list/solution.c) |
 | removing-minimum-and-maximum-from-array | Removing Minimum and Maximum From Array | Medium | c | [Problem](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Solution](./solutions/Medium/2091-removing-minimum-and-maximum-from-array/solution.c) |
 | replace-elements-with-greatest-element-on-right-side | Replace Elements with Greatest Element on Right Side | Easy | c | [Problem](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Solution](./solutions/Easy/1299-replace-elements-with-greatest-element-on-right-side/solution.c) |
+| reverse-linked-list-ii | Reverse Linked List II | Medium | c | [Problem](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](./solutions/Medium/0092-reverse-linked-list-ii/solution.c) |
 | reverse-nodes-in-k-group | Reverse Nodes in k-Group | Hard | c | [Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./solutions/Hard/0025-reverse-nodes-in-k-group/solution.c) |
 | scramble-string | Scramble String | Hard | c | [Problem](https://leetcode.com/problems/scramble-string/) | [Solution](./solutions/Hard/0087-scramble-string/solution.c) |
 | search-a-2d-matrix | Search a 2D Matrix | Medium | c | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./solutions/Medium/0074-search-a-2d-matrix/solution.c) |
