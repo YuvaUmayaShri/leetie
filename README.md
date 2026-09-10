@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 291 Solved
+## Progress Summary: 292 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -29,6 +29,7 @@
 | count-binary-substrings | Count Binary Substrings | Easy | c | [Problem](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./solutions/Easy/0696-count-binary-substrings/solution.c) |
 | count-commas-in-range | Count Commas in Range | Easy | c | [Problem](https://leetcode.com/problems/count-commas-in-range/) | [Solution](./solutions/Easy/3870-count-commas-in-range/solution.c) |
 | count-commas-in-range-ii | Count Commas in Range II | Medium | c | [Problem](https://leetcode.com/problems/count-commas-in-range-ii/) | [Solution](./solutions/Medium/3871-count-commas-in-range-ii/solution.c) |
+| count-nodes-equal-to-average-of-subtree | Count Nodes Equal to Average of Subtree | Medium | c | [Problem](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution](./solutions/Medium/2265-count-nodes-equal-to-average-of-subtree/solution.c) |
 | decode-ways | Decode Ways | Medium | c | [Problem](https://leetcode.com/problems/decode-ways/) | [Solution](./solutions/Medium/0091-decode-ways/solution.c) |
 | defuse-the-bomb | Defuse the Bomb | Easy | c | [Problem](https://leetcode.com/problems/defuse-the-bomb/) | [Solution](./solutions/Easy/1652-defuse-the-bomb/solution.c) |
 | delete-and-earn | Delete and Earn | Medium | c | [Problem](https://leetcode.com/problems/delete-and-earn/) | [Solution](./solutions/Medium/0740-delete-and-earn/solution.c) |
