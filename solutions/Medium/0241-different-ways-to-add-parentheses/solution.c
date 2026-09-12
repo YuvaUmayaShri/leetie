@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, String, Dynamic Programming, Recursion, Memoization, Bracket Sequences
 // Link     : https://leetcode.com/problems/different-ways-to-add-parentheses/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 9304000 (beats 0%)
+// Runtime  : 38 ms (beats 22%)
+// Memory   : 107924000 (beats 17%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
