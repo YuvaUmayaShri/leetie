@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 299 Solved
+## Progress Summary: 300 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -116,6 +116,7 @@
 | number-of-valid-move-combinations-on-chessboard | Number of Valid Move Combinations On Chessboard | Hard | c | [Problem](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/) | [Solution](./solutions/Hard/2056-number-of-valid-move-combinations-on-chessboard/solution.c) |
 | number-of-valid-words-for-each-puzzle | Number of Valid Words for Each Puzzle | Hard | c | [Problem](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [Solution](./solutions/Hard/1178-number-of-valid-words-for-each-puzzle/solution.c) |
 | palindrome-partitioning | Palindrome Partitioning | Medium | c | [Problem](https://leetcode.com/problems/palindrome-partitioning/) | [Solution](./solutions/Medium/0131-palindrome-partitioning/solution.c) |
+| palindrome-partitioning-ii | Palindrome Partitioning II | Hard | c | [Problem](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Solution](./solutions/Hard/0132-palindrome-partitioning-ii/solution.c) |
 | pascals-triangle | Pascal's Triangle | Easy | c | [Problem](https://leetcode.com/problems/pascals-triangle/) | [Solution](./solutions/Easy/0118-pascals-triangle/solution.c) |
 | pascals-triangle-ii | Pascal's Triangle II | Easy | c | [Problem](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution](./solutions/Easy/0119-pascals-triangle-ii/solution.c) |
 | path-crossing | Path Crossing | Easy | c | [Problem](https://leetcode.com/problems/path-crossing/) | [Solution](./solutions/Easy/1496-path-crossing/solution.c) |
