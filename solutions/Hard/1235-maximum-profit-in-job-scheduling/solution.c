@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Binary Search, Dynamic Programming, Sorting
 // Link     : https://leetcode.com/problems/maximum-profit-in-job-scheduling/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8664000 (beats 0%)
+// Runtime  : 30 ms (beats 33%)
+// Memory   : 19744000 (beats 17%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
