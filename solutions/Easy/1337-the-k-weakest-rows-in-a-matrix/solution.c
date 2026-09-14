@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Binary Search, Sorting, Heap (Priority Queue), Matrix
 // Link     : https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8664000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 11148000 (beats 4%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
