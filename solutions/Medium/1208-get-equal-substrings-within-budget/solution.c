@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Binary Search, Sliding Window, Prefix Sum
 // Link     : https://leetcode.com/problems/get-equal-substrings-within-budget/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8596000 (beats 0%)
+// Runtime  : 4 ms (beats 14%)
+// Memory   : 9056000 (beats 93%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
