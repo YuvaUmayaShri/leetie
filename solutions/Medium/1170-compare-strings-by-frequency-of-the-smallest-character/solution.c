@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Binary Search, Sorting
 // Link     : https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8620000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 12752000 (beats 86%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
