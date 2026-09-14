@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, Binary Search, Greedy, Sorting
 // Link     : https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8588000 (beats 0%)
+// Runtime  : 68 ms (beats 17%)
+// Memory   : 17900000 (beats 50%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
