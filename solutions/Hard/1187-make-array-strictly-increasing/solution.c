@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Binary Search, Dynamic Programming, Sorting, Longest Increasing Subsequence
 // Link     : https://leetcode.com/problems/make-array-strictly-increasing/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8612000 (beats 0%)
+// Runtime  : 35 ms (beats 32%)
+// Memory   : 65512000 (beats 8%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
