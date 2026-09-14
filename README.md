@@ -14,6 +14,7 @@
 | add-strings | Add Strings | Easy | c | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.c) |
 | all-paths-from-source-to-target | All Paths From Source to Target | Medium | c | [Problem](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution](./solutions/Medium/0797-all-paths-from-source-to-target/solution.c) |
 | arithmetic-subarrays | Arithmetic Subarrays | Medium | c | [Problem](https://leetcode.com/problems/arithmetic-subarrays/) | [Solution](./solutions/Medium/1630-arithmetic-subarrays/solution.c) |
+| basic-calculator | Basic Calculator | Hard | c | [Problem](https://leetcode.com/problems/basic-calculator/) | [Solution](./solutions/Hard/0224-basic-calculator/solution.c) |
 | binary-search | Binary Search | Easy | java | [Problem](https://leetcode.com/problems/binary-search/) | [Solution](./solutions/Easy/0704-binary-search/solution.java) |
 | binary-tree-level-order-traversal-ii | Binary Tree Level Order Traversal II | Medium | c | [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution](./solutions/Medium/0107-binary-tree-level-order-traversal-ii/solution.c) |
 | binary-tree-maximum-path-sum | Binary Tree Maximum Path Sum | Hard | c | [Problem](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./solutions/Hard/0124-binary-tree-maximum-path-sum/solution.c) |
@@ -40,6 +41,7 @@
 | different-ways-to-add-parentheses | Different Ways to Add Parentheses | Medium | c | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.c) |
 | distinct-subsequences | Distinct Subsequences | Hard | cpp | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.cpp) |
 | distinct-subsequences-ii | Distinct Subsequences II | Hard | c | [Problem](https://leetcode.com/problems/distinct-subsequences-ii/) | [Solution](./solutions/Hard/0940-distinct-subsequences-ii/solution.c) |
+| escape-a-large-maze | Escape a Large Maze | Hard | c | [Problem](https://leetcode.com/problems/escape-a-large-maze/) | [Solution](./solutions/Hard/1036-escape-a-large-maze/solution.c) |
 | fair-candy-swap | Fair Candy Swap | Easy | c | [Problem](https://leetcode.com/problems/fair-candy-swap/) | [Solution](./solutions/Easy/0888-fair-candy-swap/solution.c) |
 | find-a-peak-element-ii | Find a Peak Element II | Medium | java | [Problem](https://leetcode.com/problems/find-a-peak-element-ii/) | [Solution](./solutions/Medium/1901-find-a-peak-element-ii/solution.java) |
 | find-all-anagrams-in-a-string | Find All Anagrams in a String | Medium | c | [Problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](./solutions/Medium/0438-find-all-anagrams-in-a-string/solution.c) |
@@ -53,6 +55,7 @@
 | flatten-nested-list-iterator | Flatten Nested List Iterator | Medium | c | [Problem](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](./solutions/Medium/0341-flatten-nested-list-iterator/solution.c) |
 | fraction-to-recurring-decimal | Fraction to Recurring Decimal | Medium | c | [Problem](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./solutions/Medium/0166-fraction-to-recurring-decimal/solution.c) |
 | generate-parentheses | Generate Parentheses | Medium | c | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.c) |
+| grumpy-bookstore-owner | Grumpy Bookstore Owner | Medium | c | [Problem](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Solution](./solutions/Medium/1052-grumpy-bookstore-owner/solution.c) |
 | image-overlap | Image Overlap | Medium | c | [Problem](https://leetcode.com/problems/image-overlap/) | [Solution](./solutions/Medium/0835-image-overlap/solution.c) |
 | insert-delete-getrandom-o1 | Insert Delete GetRandom O(1) | Medium | c | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./solutions/Medium/0380-insert-delete-getrandom-o1/solution.c) |
 | insert-interval | Insert Interval | Medium | c | [Problem](https://leetcode.com/problems/insert-interval/) | [Solution](./solutions/Medium/0057-insert-interval/solution.c) |
@@ -116,7 +119,6 @@
 | path-with-maximum-gold | Path with Maximum Gold | Medium | c | [Problem](https://leetcode.com/problems/path-with-maximum-gold/) | [Solution](./solutions/Medium/1219-path-with-maximum-gold/solution.c) |
 | perfect-squares | Perfect Squares | Medium | c | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.c) |
 | permutation-sequence | Permutation Sequence | Hard | c | [Problem](https://leetcode.com/problems/permutation-sequence/) | [Solution](./solutions/Hard/0060-permutation-sequence/solution.c) |
-| permutations-ii | Permutations II | Medium | c | [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution](./solutions/Medium/0047-permutations-ii/solution.c) |
 | positions-of-large-groups | Positions of Large Groups | Easy | c | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.c) |
 | prefix-and-suffix-search | Prefix and Suffix Search | Hard | c | [Problem](https://leetcode.com/problems/prefix-and-suffix-search/) | [Solution](./solutions/Hard/0745-prefix-and-suffix-search/solution.c) |
 | push-dominoes | Push Dominoes | Medium | c | [Problem](https://leetcode.com/problems/push-dominoes/) | [Solution](./solutions/Medium/0838-push-dominoes/solution.c) |
@@ -124,6 +126,7 @@
 | random-point-in-non-overlapping-rectangles | Random Point in Non-overlapping Rectangles | Medium | c | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.c) |
 | rank-transform-of-a-matrix | Rank Transform of a Matrix | Hard | c | [Problem](https://leetcode.com/problems/rank-transform-of-a-matrix/) | [Solution](./solutions/Hard/1632-rank-transform-of-a-matrix/solution.c) |
 | rectangle-area-ii | Rectangle Area II | Hard | c | [Problem](https://leetcode.com/problems/rectangle-area-ii/) | [Solution](./solutions/Hard/0850-rectangle-area-ii/solution.c) |
+| rectangle-overlap | 836. Rectangle Overlap | Easy | c | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.c) |
 | remove-nodes-from-linked-list | Remove Nodes From Linked List | Medium | c | [Problem](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [Solution](./solutions/Medium/2487-remove-nodes-from-linked-list/solution.c) |
 | remove-nth-node-from-end-of-list | Remove Nth Node From End of List | Medium | c | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solutions/Medium/0019-remove-nth-node-from-end-of-list/solution.c) |
 | replace-elements-with-greatest-element-on-right-side | Replace Elements with Greatest Element on Right Side | Easy | c | [Problem](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Solution](./solutions/Easy/1299-replace-elements-with-greatest-element-on-right-side/solution.c) |
@@ -173,6 +176,7 @@
 | find-minimum-in-rotated-sorted-array-ii | 154. Find Minimum In Rotated Sorted Array Ii | Hard | c | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.c) |
 | find-peak-element | 162. Find Peak Element | Medium | java | [Problem](https://leetcode.com/problems/find-peak-element/) | [Solution](./solutions/Medium/0162-find-peak-element/solution.java) |
 | maximum-gap | 164. Maximum Gap | Medium | c | [Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](./solutions/Medium/0164-maximum-gap/solution.c) |
+| happy-number | 202. Happy Number | Easy | cpp | [Problem](https://leetcode.com/problems/happy-number/) | [Solution](./solutions/Easy/0202-happy-number/solution.cpp) |
 | course-schedule | 207. Course Schedule | Medium | c | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.c) |
 | implement-trie-prefix-tree | 208. Implement Trie Prefix Tree | Medium | c | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](./solutions/Medium/0208-implement-trie-prefix-tree/solution.c) |
 | count-complete-tree-nodes | 222. Count Complete Tree Nodes | Medium | java | [Problem](https://leetcode.com/problems/count-complete-tree-nodes/) | [Solution](./solutions/Medium/0222-count-complete-tree-nodes/solution.java) |
@@ -180,15 +184,9 @@
 | kth-smallest-element-in-a-bst | 230. Kth Smallest Element In A Bst | Medium | java | [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./solutions/Medium/0230-kth-smallest-element-in-a-bst/solution.java) |
 | lowest-common-ancestor-of-a-binary-search-tree | 235. Lowest Common Ancestor Of A Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.java) |
 | expression-add-operators | 282. Expression Add Operators | Hard | c | [Problem](https://leetcode.com/problems/expression-add-operators/) | [Solution](./solutions/Hard/0282-expression-add-operators/solution.c) |
+| guess-number-higher-or-lower | 374. Guess Number Higher Or Lower | Easy | c | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](./solutions/Easy/0374-guess-number-higher-or-lower/solution.c) |
 | insert-delete-getrandom-o1-duplicates-allowed | 381. Insert Delete Getrandom O1 Duplicates Allowed | Hard | cpp | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Solution](./solutions/Hard/0381-insert-delete-getrandom-o1-duplicates-allowed/solution.cpp) |
-| split-array-largest-sum | 410. Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
 | find-right-interval | 436. Find Right Interval | Medium | c | [Problem](https://leetcode.com/problems/find-right-interval/) | [Solution](./solutions/Medium/0436-find-right-interval/solution.c) |
-| arranging-coins | 441. Arranging Coins | Easy | c | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.c) |
-| basic-calculator | Basic Calculator | Hard | c | [Problem](https://leetcode.com/problems/basic-calculator/) | [Solution](./solutions/Hard/0224-basic-calculator/solution.c) |
-| escape-a-large-maze | Escape a Large Maze | Hard | c | [Problem](https://leetcode.com/problems/escape-a-large-maze/) | [Solution](./solutions/Hard/1036-escape-a-large-maze/solution.c) |
-| freedom-trail | 514. Freedom Trail | Hard | c | [Problem](https://leetcode.com/problems/freedom-trail/) | [Solution](./solutions/Hard/0514-freedom-trail/solution.c) |
-| grumpy-bookstore-owner | Grumpy Bookstore Owner | Medium | c | [Problem](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Solution](./solutions/Medium/1052-grumpy-bookstore-owner/solution.c) |
-| happy-number | 202. Happy Number | Easy | cpp | [Problem](https://leetcode.com/problems/happy-number/) | [Solution](./solutions/Easy/0202-happy-number/solution.cpp) |
 | interval-list-intersections | Interval List Intersections | Medium | c | [Problem](https://leetcode.com/problems/interval-list-intersections/) | [Solution](./solutions/Medium/0986-interval-list-intersections/solution.c) |
 | jump-game-vii | Jump Game VII | Medium | c | [Problem](https://leetcode.com/problems/jump-game-vii/) | [Solution](./solutions/Medium/1871-jump-game-vii/solution.c) |
 | largest-triangle-area | Largest Triangle Area | Easy | c | [Problem](https://leetcode.com/problems/largest-triangle-area/) | [Solution](./solutions/Easy/0812-largest-triangle-area/solution.c) |
@@ -196,9 +194,8 @@
 | make-lexicographically-smallest-array-by-swapping-elements | Make Lexicographically Smallest Array by Swapping Elements | Medium | c | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.c) |
 | maximum-walls-destroyed-by-robots | Maximum Walls Destroyed by Robots | Hard | c | [Problem](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [Solution](./solutions/Hard/3661-maximum-walls-destroyed-by-robots/solution.c) |
 | merge-two-sorted-lists | 21. Merge Two Sorted Lists | Easy | java | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/Easy/0021-merge-two-sorted-lists/solution.java) |
-| minimum-common-value | Minimum Common Value | Easy | c | [Problem](https://leetcode.com/problems/minimum-common-value/) | [Solution](./solutions/Easy/2540-minimum-common-value/solution.c) |
-| minimum-depth-of-binary-tree | 111. Minimum Depth Of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0111-minimum-depth-of-binary-tree/solution.java) |
-| guess-number-higher-or-lower | 374. Guess Number Higher Or Lower | Easy | c | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](./solutions/Easy/0374-guess-number-higher-or-lower/solution.c) |
+| split-array-largest-sum | 410. Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
+| freedom-trail | 514. Freedom Trail | Hard | c | [Problem](https://leetcode.com/problems/freedom-trail/) | [Solution](./solutions/Hard/0514-freedom-trail/solution.c) |
 | super-washing-machines | 517. Super Washing Machines | Hard | c | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.c) |
 | random-pick-with-weight | 528. Random Pick With Weight | Medium | java | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.java) |
 | minimum-absolute-difference-in-bst | 530. Minimum Absolute Difference In Bst | Easy | java | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.java) |
@@ -206,6 +203,9 @@
 | encode-and-decode-tinyurl | 535. Encode And Decode Tinyurl | Medium | java | [Problem](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Solution](./solutions/Medium/0535-encode-and-decode-tinyurl/solution.java) |
 | complex-number-multiplication | 537. Complex Number Multiplication | Medium | java | [Problem](https://leetcode.com/problems/complex-number-multiplication/) | [Solution](./solutions/Medium/0537-complex-number-multiplication/solution.java) |
 | convert-bst-to-greater-tree | 538. Convert Bst To Greater Tree | Medium | java | [Problem](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](./solutions/Medium/0538-convert-bst-to-greater-tree/solution.java) |
+| minimum-common-value | Minimum Common Value | Easy | c | [Problem](https://leetcode.com/problems/minimum-common-value/) | [Solution](./solutions/Easy/2540-minimum-common-value/solution.c) |
+| minimum-depth-of-binary-tree | 111. Minimum Depth Of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution](./solutions/Easy/0111-minimum-depth-of-binary-tree/solution.java) |
+| arranging-coins | 441. Arranging Coins | Easy | c | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.c) |
 | minimum-time-difference | 539. Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
 | single-element-in-a-sorted-array | 540. Single Element In A Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./solutions/Medium/0540-single-element-in-a-sorted-array/solution.java) |
 | 01-matrix | 542. 01 Matrix | Medium | java | [Problem](https://leetcode.com/problems/01-matrix/) | [Solution](./solutions/Medium/0542-01-matrix/solution.java) |
@@ -216,11 +216,11 @@
 | beautiful-arrangement-ii | 667. Beautiful Arrangement Ii | Medium | java | [Problem](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Solution](./solutions/Medium/0667-beautiful-arrangement-ii/solution.java) |
 | trim-a-binary-search-tree | 669. Trim A Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Solution](./solutions/Medium/0669-trim-a-binary-search-tree/solution.java) |
 | bulb-switcher-ii | 672. Bulb Switcher Ii | Medium | java | [Problem](https://leetcode.com/problems/bulb-switcher-ii/) | [Solution](./solutions/Medium/0672-bulb-switcher-ii/solution.java) |
-| baseball-game | 682. Baseball Game | Easy | c | [Problem](https://leetcode.com/problems/baseball-game/) | [Solution](./solutions/Easy/0682-baseball-game/solution.c) |
 | repeated-string-match | 686. Repeated String Match | Medium | c | [Problem](https://leetcode.com/problems/repeated-string-match/) | [Solution](./solutions/Medium/0686-repeated-string-match/solution.c) |
 | knight-probability-in-chessboard | 688. Knight Probability In Chessboard | Medium | c | [Problem](https://leetcode.com/problems/knight-probability-in-chessboard/) | [Solution](./solutions/Medium/0688-knight-probability-in-chessboard/solution.c) |
 | maximum-sum-of-3-non-overlapping-subarrays | 689. Maximum Sum Of 3 Non Overlapping Subarrays | Hard | c | [Problem](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Solution](./solutions/Hard/0689-maximum-sum-of-3-non-overlapping-subarrays/solution.c) |
 | falling-squares | 699. Falling Squares | Hard | c | [Problem](https://leetcode.com/problems/falling-squares/) | [Solution](./solutions/Hard/0699-falling-squares/solution.c) |
+| kth-largest-element-in-a-stream | 703. Kth Largest Element In A Stream | Easy | c | [Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution](./solutions/Easy/0703-kth-largest-element-in-a-stream/solution.c) |
 | design-hashset | 705. Design Hashset | Easy | c | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.c) |
 | design-hashmap | 706. Design Hashmap | Easy | c | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.c) |
 | design-linked-list | 707. Design Linked List | Medium | c | [Problem](https://leetcode.com/problems/design-linked-list/) | [Solution](./solutions/Medium/0707-design-linked-list/solution.c) |
@@ -231,6 +231,7 @@
 | my-calendar-ii | 731. My Calendar Ii | Medium | cpp | [Problem](https://leetcode.com/problems/my-calendar-ii/) | [Solution](./solutions/Medium/0731-my-calendar-ii/solution.cpp) |
 | max-chunks-to-make-sorted | 769. Max Chunks To Make Sorted | Medium | c | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Solution](./solutions/Medium/0769-max-chunks-to-make-sorted/solution.c) |
 | number-of-enclaves | Number of Enclaves | Medium | c | [Problem](https://leetcode.com/problems/number-of-enclaves/) | [Solution](./solutions/Medium/1020-number-of-enclaves/solution.c) |
+| permutations-ii | Permutations II | Medium | c | [Problem](https://leetcode.com/problems/permutations-ii/) | [Solution](./solutions/Medium/0047-permutations-ii/solution.c) |
 | previous-permutation-with-one-swap | Previous Permutation With One Swap | Medium | c | [Problem](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [Solution](./solutions/Medium/1053-previous-permutation-with-one-swap/solution.c) |
 | removing-minimum-and-maximum-from-array | Removing Minimum and Maximum From Array | Medium | c | [Problem](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Solution](./solutions/Medium/2091-removing-minimum-and-maximum-from-array/solution.c) |
 | reverse-words-in-a-string-iii | 557. Reverse Words In A String Iii | Easy | c | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./solutions/Easy/0557-reverse-words-in-a-string-iii/solution.c) |
@@ -238,7 +239,7 @@
 | n-ary-tree-preorder-traversal | 589. N Ary Tree Preorder Traversal | Easy | c | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.c) |
 | satisfiability-of-equality-equations | Satisfiability of Equality Equations | Medium | c | [Problem](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Solution](./solutions/Medium/0990-satisfiability-of-equality-equations/solution.c) |
 | second-minimum-node-in-a-binary-tree | 671. Second Minimum Node In A Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Solution](./solutions/Easy/0671-second-minimum-node-in-a-binary-tree/solution.java) |
-| kth-largest-element-in-a-stream | 703. Kth Largest Element In A Stream | Easy | c | [Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution](./solutions/Easy/0703-kth-largest-element-in-a-stream/solution.c) |
+| baseball-game | 682. Baseball Game | Easy | c | [Problem](https://leetcode.com/problems/baseball-game/) | [Solution](./solutions/Easy/0682-baseball-game/solution.c) |
 | shortest-distance-to-target-string-in-a-circular-array | Shortest Distance to Target String in a Circular Array | Easy | c | [Problem](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Solution](./solutions/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/solution.c) |
 | sum-of-even-numbers-after-queries | Sum of Even Numbers After Queries | Medium | cpp | [Problem](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Solution](./solutions/Medium/0985-sum-of-even-numbers-after-queries/solution.cpp) |
 | swim-in-rising-water | 778. Swim In Rising Water | Hard | cpp | [Problem](https://leetcode.com/problems/swim-in-rising-water/) | [Solution](./solutions/Hard/0778-swim-in-rising-water/solution.cpp) |
@@ -289,7 +290,6 @@
 | unique-morse-code-words | 804. Unique Morse Code Words | Easy | c | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.c) |
 | goat-latin | 824. Goat Latin | Easy | c | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.c) |
 | flipping-an-image | 832. Flipping An Image | Easy | cpp | [Problem](https://leetcode.com/problems/flipping-an-image/) | [Solution](./solutions/Easy/0832-flipping-an-image/solution.cpp) |
-| rectangle-overlap | 836. Rectangle Overlap | Easy | c | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.c) |
 | backspace-string-compare | 844. Backspace String Compare | Easy | c | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](./solutions/Easy/0844-backspace-string-compare/solution.c) |
 | buddy-strings | 859. Buddy Strings | Easy | c | [Problem](https://leetcode.com/problems/buddy-strings/) | [Solution](./solutions/Easy/0859-buddy-strings/solution.c) |
 | lemonade-change | 860. Lemonade Change | Easy | c | [Problem](https://leetcode.com/problems/lemonade-change/) | [Solution](./solutions/Easy/0860-lemonade-change/solution.c) |

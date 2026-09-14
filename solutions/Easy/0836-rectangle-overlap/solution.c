@@ -4,7 +4,7 @@
 // Tags     : Math, Geometry
 // Link     : https://leetcode.com/problems/rectangle-overlap/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 8656000 (beats 15%)
+// Memory   : 8516000 (beats 54%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
