@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search, Sorting
 // Link     : https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8604000 (beats 0%)
+// Runtime  : 10 ms (beats 20%)
+// Memory   : 9620000 (beats 20%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
