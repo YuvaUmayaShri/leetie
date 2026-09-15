@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 315 Solved
+## Progress Summary: 316 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -79,6 +79,7 @@
 | maximum-length-of-a-concatenated-string-with-unique-characters | Maximum Length of a Concatenated String with Unique Characters | Medium | c | [Problem](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Solution](./solutions/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters/solution.c) |
 | maximum-number-of-achievable-transfer-requests | Maximum Number of Achievable Transfer Requests | Hard | c | [Problem](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [Solution](./solutions/Hard/1601-maximum-number-of-achievable-transfer-requests/solution.c) |
 | maximum-number-of-balloons | Maximum Number of Balloons | Easy | c | [Problem](https://leetcode.com/problems/maximum-number-of-balloons/) | [Solution](./solutions/Easy/1189-maximum-number-of-balloons/solution.c) |
+| maximum-number-of-non-overlapping-palindrome-substrings | Maximum Number of Non-overlapping Palindrome Substrings | Hard | c | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.c) |
 | maximum-product-difference-between-two-pairs | Maximum Product Difference Between Two Pairs | Easy | c | [Problem](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Solution](./solutions/Easy/1913-maximum-product-difference-between-two-pairs/solution.c) |
 | maximum-profit-in-job-scheduling | Maximum Profit in Job Scheduling | Hard | c | [Problem](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Solution](./solutions/Hard/1235-maximum-profit-in-job-scheduling/solution.c) |
 | maximum-score-of-non-overlapping-intervals | Maximum Score of Non-overlapping Intervals | Hard | c | [Problem](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Solution](./solutions/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.c) |
