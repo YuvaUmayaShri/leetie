@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Stack, Monotonic Stack
 // Link     : https://leetcode.com/problems/daily-temperatures/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42820000 (beats 0%)
+// Runtime  : 80 ms (beats 8%)
+// Memory   : 102684000 (beats 96%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
