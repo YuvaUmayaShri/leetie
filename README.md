@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 323 Solved
+## Progress Summary: 324 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -160,6 +160,7 @@
 | path-crossing | Path Crossing | Easy | c | [Problem](https://leetcode.com/problems/path-crossing/) | [Solution](./solutions/Easy/1496-path-crossing/solution.c) |
 | path-sum-ii | Path Sum II | Medium | c | [Problem](https://leetcode.com/problems/path-sum-ii/) | [Solution](./solutions/Medium/0113-path-sum-ii/solution.c) |
 | path-with-maximum-gold | Path with Maximum Gold | Medium | c | [Problem](https://leetcode.com/problems/path-with-maximum-gold/) | [Solution](./solutions/Medium/1219-path-with-maximum-gold/solution.c) |
+| perfect-number | Perfect Number | Easy | java | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.java) |
 | perfect-squares | Perfect Squares | Medium | c | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.c) |
 | permutation-sequence | Permutation Sequence | Hard | c | [Problem](https://leetcode.com/problems/permutation-sequence/) | [Solution](./solutions/Hard/0060-permutation-sequence/solution.c) |
 | positions-of-large-groups | Positions of Large Groups | Easy | c | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.c) |
