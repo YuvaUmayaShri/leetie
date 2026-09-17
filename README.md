@@ -2,11 +2,12 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 321 Solved
+## Progress Summary: 322 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 1-bit-and-2-bit-characters | 1-bit and 2-bit Characters | Easy | c | [Problem](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [Solution](./solutions/Easy/0717-1-bit-and-2-bit-characters/solution.c) |
+| 3sum | 3Sum | Medium | java | [Problem](https://leetcode.com/problems/3sum/) | [Solution](./solutions/Medium/0015-3sum/solution.java) |
 | 3sum-closest | 3Sum Closest | Medium | c | [Problem](https://leetcode.com/problems/3sum-closest/) | [Solution](./solutions/Medium/0016-3sum-closest/solution.c) |
 | 4sum | 4Sum | Medium | c | [Problem](https://leetcode.com/problems/4sum/) | [Solution](./solutions/Medium/0018-4sum/solution.c) |
 | accounts-merge | Accounts Merge | Medium | c | [Problem](https://leetcode.com/problems/accounts-merge/) | [Solution](./solutions/Medium/0721-accounts-merge/solution.c) |
