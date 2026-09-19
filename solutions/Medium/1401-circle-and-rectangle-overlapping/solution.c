@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Geometry
 // Link     : https://leetcode.com/problems/circle-and-rectangle-overlapping/
-// Runtime  : 0 ms (beats 100%)
-// Memory   : 8364000 (beats 94%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 8628000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
