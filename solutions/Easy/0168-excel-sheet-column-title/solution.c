@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math, String
 // Link     : https://leetcode.com/problems/excel-sheet-column-title/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8560000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 8500000 (beats 61%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
