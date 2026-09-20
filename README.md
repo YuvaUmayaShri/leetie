@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 327 Solved
+## Progress Summary: 328 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -152,6 +152,7 @@
 | remove-nodes-from-linked-list | Remove Nodes From Linked List | Medium | c | [Problem](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [Solution](./solutions/Medium/2487-remove-nodes-from-linked-list/solution.c) |
 | remove-nth-node-from-end-of-list | Remove Nth Node From End of List | Medium | c | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solutions/Medium/0019-remove-nth-node-from-end-of-list/solution.c) |
 | replace-elements-with-greatest-element-on-right-side | Replace Elements with Greatest Element on Right Side | Easy | c | [Problem](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Solution](./solutions/Easy/1299-replace-elements-with-greatest-element-on-right-side/solution.c) |
+| reverse-degree-of-a-string | Reverse Degree of a String | Easy | c | [Problem](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Solution](./solutions/Easy/3498-reverse-degree-of-a-string/solution.c) |
 | reverse-linked-list-ii | Reverse Linked List II | Medium | c | [Problem](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](./solutions/Medium/0092-reverse-linked-list-ii/solution.c) |
 | reverse-nodes-in-k-group | Reverse Nodes in k-Group | Hard | c | [Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./solutions/Hard/0025-reverse-nodes-in-k-group/solution.c) |
 | scramble-string | Scramble String | Hard | c | [Problem](https://leetcode.com/problems/scramble-string/) | [Solution](./solutions/Hard/0087-scramble-string/solution.c) |
