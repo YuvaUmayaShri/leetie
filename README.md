@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 329 Solved
+## Progress Summary: 330 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -46,6 +46,7 @@
 | distinct-subsequences | Distinct Subsequences | Hard | cpp | [Problem](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./solutions/Hard/0115-distinct-subsequences/solution.cpp) |
 | distinct-subsequences-ii | Distinct Subsequences II | Hard | c | [Problem](https://leetcode.com/problems/distinct-subsequences-ii/) | [Solution](./solutions/Hard/0940-distinct-subsequences-ii/solution.c) |
 | escape-a-large-maze | Escape a Large Maze | Hard | c | [Problem](https://leetcode.com/problems/escape-a-large-maze/) | [Solution](./solutions/Hard/1036-escape-a-large-maze/solution.c) |
+| excel-sheet-column-title | Excel Sheet Column Title | Easy | c | [Problem](https://leetcode.com/problems/excel-sheet-column-title/) | [Solution](./solutions/Easy/0168-excel-sheet-column-title/solution.c) |
 | fair-candy-swap | Fair Candy Swap | Easy | c | [Problem](https://leetcode.com/problems/fair-candy-swap/) | [Solution](./solutions/Easy/0888-fair-candy-swap/solution.c) |
 | find-a-peak-element-ii | Find a Peak Element II | Medium | java | [Problem](https://leetcode.com/problems/find-a-peak-element-ii/) | [Solution](./solutions/Medium/1901-find-a-peak-element-ii/solution.java) |
 | find-all-anagrams-in-a-string | Find All Anagrams in a String | Medium | c | [Problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](./solutions/Medium/0438-find-all-anagrams-in-a-string/solution.c) |
