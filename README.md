@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 330 Solved
+## Progress Summary: 331 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -22,6 +22,7 @@
 | binary-tree-preorder-traversal | Binary Tree Preorder Traversal | Easy | c | [Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0144-binary-tree-preorder-traversal/solution.c) |
 | bitwise-ors-of-subarrays | Bitwise ORs of Subarrays | Medium | c | [Problem](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | [Solution](./solutions/Medium/0898-bitwise-ors-of-subarrays/solution.c) |
 | brace-expansion-ii | Brace Expansion II | Hard | c | [Problem](https://leetcode.com/problems/brace-expansion-ii/) | [Solution](./solutions/Hard/1096-brace-expansion-ii/solution.c) |
+| bulb-switcher | Bulb Switcher | Medium | c | [Problem](https://leetcode.com/problems/bulb-switcher/) | [Solution](./solutions/Medium/0319-bulb-switcher/solution.c) |
 | champagne-tower | Champagne Tower | Medium | c | [Problem](https://leetcode.com/problems/champagne-tower/) | [Solution](./solutions/Medium/0799-champagne-tower/solution.c) |
 | circle-and-rectangle-overlapping | Circle and Rectangle Overlapping | Medium | c | [Problem](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Solution](./solutions/Medium/1401-circle-and-rectangle-overlapping/solution.c) |
 | circular-permutation-in-binary-representation | Circular Permutation in Binary Representation | Medium | c | [Problem](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | [Solution](./solutions/Medium/1238-circular-permutation-in-binary-representation/solution.c) |
@@ -64,7 +65,6 @@
 | get-equal-substrings-within-budget | Get Equal Substrings Within Budget | Medium | c | [Problem](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [Solution](./solutions/Medium/1208-get-equal-substrings-within-budget/solution.c) |
 | group-anagrams | Group Anagrams | Medium | java | [Problem](https://leetcode.com/problems/group-anagrams/) | [Solution](./solutions/Medium/0049-group-anagrams/solution.java) |
 | grumpy-bookstore-owner | Grumpy Bookstore Owner | Medium | c | [Problem](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Solution](./solutions/Medium/1052-grumpy-bookstore-owner/solution.c) |
-| happy-number | 202. Happy Number | Easy | cpp | [Problem](https://leetcode.com/problems/happy-number/) | [Solution](./solutions/Easy/0202-happy-number/solution.cpp) |
 | image-overlap | Image Overlap | Medium | c | [Problem](https://leetcode.com/problems/image-overlap/) | [Solution](./solutions/Medium/0835-image-overlap/solution.c) |
 | insert-delete-getrandom-o1 | Insert Delete GetRandom O(1) | Medium | c | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./solutions/Medium/0380-insert-delete-getrandom-o1/solution.c) |
 | insert-interval | Insert Interval | Medium | c | [Problem](https://leetcode.com/problems/insert-interval/) | [Solution](./solutions/Medium/0057-insert-interval/solution.c) |
@@ -203,6 +203,7 @@
 | find-minimum-in-rotated-sorted-array-ii | 154. Find Minimum In Rotated Sorted Array Ii | Hard | c | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.c) |
 | find-peak-element | 162. Find Peak Element | Medium | java | [Problem](https://leetcode.com/problems/find-peak-element/) | [Solution](./solutions/Medium/0162-find-peak-element/solution.java) |
 | maximum-gap | 164. Maximum Gap | Medium | c | [Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](./solutions/Medium/0164-maximum-gap/solution.c) |
+| happy-number | 202. Happy Number | Easy | cpp | [Problem](https://leetcode.com/problems/happy-number/) | [Solution](./solutions/Easy/0202-happy-number/solution.cpp) |
 | course-schedule | 207. Course Schedule | Medium | c | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.c) |
 | implement-trie-prefix-tree | 208. Implement Trie Prefix Tree | Medium | c | [Problem](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](./solutions/Medium/0208-implement-trie-prefix-tree/solution.c) |
 | count-complete-tree-nodes | 222. Count Complete Tree Nodes | Medium | java | [Problem](https://leetcode.com/problems/count-complete-tree-nodes/) | [Solution](./solutions/Medium/0222-count-complete-tree-nodes/solution.java) |
