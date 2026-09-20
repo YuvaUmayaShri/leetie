@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 331 Solved
+## Progress Summary: 332 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -65,6 +65,7 @@
 | get-equal-substrings-within-budget | Get Equal Substrings Within Budget | Medium | c | [Problem](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [Solution](./solutions/Medium/1208-get-equal-substrings-within-budget/solution.c) |
 | group-anagrams | Group Anagrams | Medium | java | [Problem](https://leetcode.com/problems/group-anagrams/) | [Solution](./solutions/Medium/0049-group-anagrams/solution.java) |
 | grumpy-bookstore-owner | Grumpy Bookstore Owner | Medium | c | [Problem](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Solution](./solutions/Medium/1052-grumpy-bookstore-owner/solution.c) |
+| hexadecimal-and-hexatrigesimal-conversion | Hexadecimal and Hexatrigesimal Conversion | Easy | c | [Problem](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/) | [Solution](./solutions/Easy/3602-hexadecimal-and-hexatrigesimal-conversion/solution.c) |
 | image-overlap | Image Overlap | Medium | c | [Problem](https://leetcode.com/problems/image-overlap/) | [Solution](./solutions/Medium/0835-image-overlap/solution.c) |
 | insert-delete-getrandom-o1 | Insert Delete GetRandom O(1) | Medium | c | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./solutions/Medium/0380-insert-delete-getrandom-o1/solution.c) |
 | insert-interval | Insert Interval | Medium | c | [Problem](https://leetcode.com/problems/insert-interval/) | [Solution](./solutions/Medium/0057-insert-interval/solution.c) |
