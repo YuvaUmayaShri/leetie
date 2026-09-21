@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 334 Solved
+## Progress Summary: 335 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,6 +14,7 @@
 | actors-and-directors-who-cooperated-at-least-three-times | Actors and Directors Who Cooperated At Least Three Times | Easy | mysql | [Problem](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [Solution](./solutions/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/solution.sql) |
 | add-strings | Add Strings | Easy | c | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.c) |
 | all-paths-from-source-to-target | All Paths From Source to Target | Medium | c | [Problem](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution](./solutions/Medium/0797-all-paths-from-source-to-target/solution.c) |
+| arithmetic-slices | Arithmetic Slices | Medium | c | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.c) |
 | arithmetic-subarrays | Arithmetic Subarrays | Medium | c | [Problem](https://leetcode.com/problems/arithmetic-subarrays/) | [Solution](./solutions/Medium/1630-arithmetic-subarrays/solution.c) |
 | basic-calculator | Basic Calculator | Hard | c | [Problem](https://leetcode.com/problems/basic-calculator/) | [Solution](./solutions/Hard/0224-basic-calculator/solution.c) |
 | binary-search | Binary Search | Easy | java | [Problem](https://leetcode.com/problems/binary-search/) | [Solution](./solutions/Easy/0704-binary-search/solution.java) |
