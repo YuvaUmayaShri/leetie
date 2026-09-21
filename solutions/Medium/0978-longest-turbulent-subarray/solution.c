@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Sliding Window
 // Link     : https://leetcode.com/problems/longest-turbulent-subarray/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8372000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 11836000 (beats 33%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
