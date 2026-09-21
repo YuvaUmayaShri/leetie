@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Sliding Window
 // Link     : https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8544000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 14484000 (beats 71%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
