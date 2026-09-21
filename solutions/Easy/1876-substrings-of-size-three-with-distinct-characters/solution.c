@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Hash Table, String, Sliding Window, Counting
 // Link     : https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8536000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 8596000 (beats 79%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
