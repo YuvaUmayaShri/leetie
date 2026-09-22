@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 351 Solved
+## Progress Summary: 352 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -143,6 +143,7 @@
 | non-decreasing-array | Non-decreasing Array | Medium | c | [Problem](https://leetcode.com/problems/non-decreasing-array/) | [Solution](./solutions/Medium/0665-non-decreasing-array/solution.c) |
 | nth-magical-number | Nth Magical Number | Hard | c | [Problem](https://leetcode.com/problems/nth-magical-number/) | [Solution](./solutions/Hard/0878-nth-magical-number/solution.c) |
 | number-of-boomerangs | Number of Boomerangs | Medium | c | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.c) |
+| number-of-longest-increasing-subsequence | Number of Longest Increasing Subsequence | Medium | c | [Problem](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Solution](./solutions/Medium/0673-number-of-longest-increasing-subsequence/solution.c) |
 | number-of-music-playlists | Number of Music Playlists | Hard | c | [Problem](https://leetcode.com/problems/number-of-music-playlists/) | [Solution](./solutions/Hard/0920-number-of-music-playlists/solution.c) |
 | number-of-sets-of-k-non-overlapping-line-segments | Number of Sets of K Non-Overlapping Line Segments | Medium | c | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.c) |
 | number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Medium | c | [Problem](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [Solution](./solutions/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/solution.c) |
