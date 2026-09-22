@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 345 Solved
+## Progress Summary: 346 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -81,6 +81,7 @@
 | jump-game-vii | Jump Game VII | Medium | c | [Problem](https://leetcode.com/problems/jump-game-vii/) | [Solution](./solutions/Medium/1871-jump-game-vii/solution.c) |
 | k-similar-strings | K-Similar Strings | Hard | c | [Problem](https://leetcode.com/problems/k-similar-strings/) | [Solution](./solutions/Hard/0854-k-similar-strings/solution.c) |
 | koko-eating-bananas | 875. Koko Eating Bananas | Medium | java | [Problem](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./solutions/Medium/0875-koko-eating-bananas/solution.java) |
+| largest-divisible-subset | Largest Divisible Subset | Medium | c | [Problem](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](./solutions/Medium/0368-largest-divisible-subset/solution.c) |
 | largest-number-after-digit-swaps-by-parity | Largest Number After Digit Swaps by Parity | Easy | c | [Problem](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | [Solution](./solutions/Easy/2231-largest-number-after-digit-swaps-by-parity/solution.c) |
 | largest-number-at-least-twice-of-others | Largest Number At Least Twice of Others | Easy | c | [Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Solution](./solutions/Easy/0747-largest-number-at-least-twice-of-others/solution.c) |
 | largest-perimeter-triangle | Largest Perimeter Triangle | Easy | c | [Problem](https://leetcode.com/problems/largest-perimeter-triangle/) | [Solution](./solutions/Easy/0976-largest-perimeter-triangle/solution.c) |
