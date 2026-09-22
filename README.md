@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 342 Solved
+## Progress Summary: 343 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -63,6 +63,7 @@
 | find-the-minimum-and-maximum-number-of-nodes-between-critical-points | Find the Minimum and Maximum Number of Nodes Between Critical Points | Medium | c | [Problem](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Solution](./solutions/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/solution.c) |
 | find-two-non-overlapping-sub-arrays-each-with-target-sum | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | c | [Problem](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./solutions/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.c) |
 | find-x-value-of-array-i | Find X Value of Array I | Medium | c | [Problem](https://leetcode.com/problems/find-x-value-of-array-i/) | [Solution](./solutions/Medium/3524-find-x-value-of-array-i/solution.c) |
+| find-x-value-of-array-ii | Find X Value of Array II | Hard | c | [Problem](https://leetcode.com/problems/find-x-value-of-array-ii/) | [Solution](./solutions/Hard/3525-find-x-value-of-array-ii/solution.c) |
 | flatten-nested-list-iterator | Flatten Nested List Iterator | Medium | c | [Problem](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](./solutions/Medium/0341-flatten-nested-list-iterator/solution.c) |
 | fraction-to-recurring-decimal | Fraction to Recurring Decimal | Medium | c | [Problem](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./solutions/Medium/0166-fraction-to-recurring-decimal/solution.c) |
 | generate-parentheses | Generate Parentheses | Medium | c | [Problem](https://leetcode.com/problems/generate-parentheses/) | [Solution](./solutions/Medium/0022-generate-parentheses/solution.c) |
@@ -159,51 +160,6 @@
 | random-point-in-non-overlapping-rectangles | Random Point in Non-overlapping Rectangles | Medium | c | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.c) |
 | rank-transform-of-a-matrix | Rank Transform of a Matrix | Hard | c | [Problem](https://leetcode.com/problems/rank-transform-of-a-matrix/) | [Solution](./solutions/Hard/1632-rank-transform-of-a-matrix/solution.c) |
 | rectangle-area-ii | Rectangle Area II | Hard | c | [Problem](https://leetcode.com/problems/rectangle-area-ii/) | [Solution](./solutions/Hard/0850-rectangle-area-ii/solution.c) |
-| rectangle-overlap | 836. Rectangle Overlap | Easy | c | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.c) |
-| remove-nodes-from-linked-list | Remove Nodes From Linked List | Medium | c | [Problem](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [Solution](./solutions/Medium/2487-remove-nodes-from-linked-list/solution.c) |
-| remove-nth-node-from-end-of-list | Remove Nth Node From End of List | Medium | c | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solutions/Medium/0019-remove-nth-node-from-end-of-list/solution.c) |
-| repeated-dna-sequences | Repeated DNA Sequences | Medium | c | [Problem](https://leetcode.com/problems/repeated-dna-sequences/) | [Solution](./solutions/Medium/0187-repeated-dna-sequences/solution.c) |
-| replace-elements-with-greatest-element-on-right-side | Replace Elements with Greatest Element on Right Side | Easy | c | [Problem](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Solution](./solutions/Easy/1299-replace-elements-with-greatest-element-on-right-side/solution.c) |
-| reverse-degree-of-a-string | Reverse Degree of a String | Easy | c | [Problem](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Solution](./solutions/Easy/3498-reverse-degree-of-a-string/solution.c) |
-| reverse-linked-list-ii | Reverse Linked List II | Medium | c | [Problem](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](./solutions/Medium/0092-reverse-linked-list-ii/solution.c) |
-| reverse-nodes-in-k-group | Reverse Nodes in k-Group | Hard | c | [Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./solutions/Hard/0025-reverse-nodes-in-k-group/solution.c) |
-| scramble-string | Scramble String | Hard | c | [Problem](https://leetcode.com/problems/scramble-string/) | [Solution](./solutions/Hard/0087-scramble-string/solution.c) |
-| search-a-2d-matrix | Search a 2D Matrix | Medium | c | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./solutions/Medium/0074-search-a-2d-matrix/solution.c) |
-| search-a-2d-matrix-ii | Search a 2D Matrix II | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.java) |
-| shortest-completing-word | Shortest Completing Word | Easy | c | [Problem](https://leetcode.com/problems/shortest-completing-word/) | [Solution](./solutions/Easy/0748-shortest-completing-word/solution.c) |
-| shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | c | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.c) |
-| sliding-window-median | Sliding Window Median | Hard | c | [Problem](https://leetcode.com/problems/sliding-window-median/) | [Solution](./solutions/Hard/0480-sliding-window-median/solution.c) |
-| smallest-stable-index-i | Smallest Stable Index I | Easy | c | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.c) |
-| smallest-stable-index-ii | Smallest Stable Index II | Medium | c | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.c) |
-| sort-array-by-increasing-frequency | Sort Array by Increasing Frequency | Easy | c | [Problem](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Solution](./solutions/Easy/1636-sort-array-by-increasing-frequency/solution.c) |
-| split-array-with-same-average | Split Array With Same Average | Hard | c | [Problem](https://leetcode.com/problems/split-array-with-same-average/) | [Solution](./solutions/Hard/0805-split-array-with-same-average/solution.c) |
-| student-attendance-record-ii | Student Attendance Record II | Hard | c | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.c) |
-| subarray-product-less-than-k | Subarray Product Less Than K | Medium | c | [Problem](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution](./solutions/Medium/0713-subarray-product-less-than-k/solution.c) |
-| subsequence-with-the-minimum-score | Subsequence With the Minimum Score | Hard | c | [Problem](https://leetcode.com/problems/subsequence-with-the-minimum-score/) | [Solution](./solutions/Hard/2565-subsequence-with-the-minimum-score/solution.c) |
-| substring-with-concatenation-of-all-words | Substring with Concatenation of All Words | Hard | c | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.c) |
-| substrings-of-size-three-with-distinct-characters | Substrings of Size Three with Distinct Characters | Easy | c | [Problem](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Solution](./solutions/Easy/1876-substrings-of-size-three-with-distinct-characters/solution.c) |
-| sum-of-all-subset-xor-totals | Sum of All Subset XOR Totals | Easy | c | [Problem](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Solution](./solutions/Easy/1863-sum-of-all-subset-xor-totals/solution.c) |
-| sum-of-distances-in-tree | Sum of Distances in Tree | Hard | c | [Problem](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution](./solutions/Hard/0834-sum-of-distances-in-tree/solution.c) |
-| sum-of-mutated-array-closest-to-target | Sum of Mutated Array Closest to Target | Medium | c | [Problem](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | [Solution](./solutions/Medium/1300-sum-of-mutated-array-closest-to-target/solution.c) |
-| summary-ranges | Summary Ranges | Easy | c | [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution](./solutions/Easy/0228-summary-ranges/solution.c) |
-| super-egg-drop | Super Egg Drop | Hard | c | [Problem](https://leetcode.com/problems/super-egg-drop/) | [Solution](./solutions/Hard/0887-super-egg-drop/solution.c) |
-| swap-nodes-in-pairs | Swap Nodes in Pairs | Medium | c | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.c) |
-| swapping-nodes-in-a-linked-list | Swapping Nodes in a Linked List | Medium | c | [Problem](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Solution](./solutions/Medium/1721-swapping-nodes-in-a-linked-list/solution.c) |
-| the-k-weakest-rows-in-a-matrix | The K Weakest Rows in a Matrix | Easy | c | [Problem](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [Solution](./solutions/Easy/1337-the-k-weakest-rows-in-a-matrix/solution.c) |
-| the-skyline-problem | The Skyline Problem | Hard | c | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.c) |
-| transpose-matrix | Transpose Matrix | Easy | c | [Problem](https://leetcode.com/problems/transpose-matrix/) | [Solution](./solutions/Easy/0867-transpose-matrix/solution.c) |
-| two-sum | Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
-| ugly-number-iii | Ugly Number III | Medium | c | [Problem](https://leetcode.com/problems/ugly-number-iii/) | [Solution](./solutions/Medium/1201-ugly-number-iii/solution.c) |
-| uncommon-words-from-two-sentences | Uncommon Words from Two Sentences | Easy | c | [Problem](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Solution](./solutions/Easy/0884-uncommon-words-from-two-sentences/solution.c) |
-| valid-anagram | Valid Anagram | Easy | c | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.c) |
-| valid-palindrome-ii | Valid Palindrome II | Easy | c | [Problem](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](./solutions/Easy/0680-valid-palindrome-ii/solution.c) |
-| valid-triangle-number | Valid Triangle Number | Medium | c | [Problem](https://leetcode.com/problems/valid-triangle-number/) | [Solution](./solutions/Medium/0611-valid-triangle-number/solution.c) |
-| widest-vertical-area-between-two-points-containing-no-points | Widest Vertical Area Between Two Points Containing No Points | Easy | c | [Problem](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Solution](./solutions/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/solution.c) |
-| wiggle-subsequence | Wiggle Subsequence | Medium | c | [Problem](https://leetcode.com/problems/wiggle-subsequence/) | [Solution](./solutions/Medium/0376-wiggle-subsequence/solution.c) |
-| wildcard-matching | Wildcard Matching | Hard | c | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.c) |
-| word-break-ii | Word Break II | Hard | c | [Problem](https://leetcode.com/problems/word-break-ii/) | [Solution](./solutions/Hard/0140-word-break-ii/solution.c) |
-| word-ladder | Word Ladder | Hard | c | [Problem](https://leetcode.com/problems/word-ladder/) | [Solution](./solutions/Hard/0127-word-ladder/solution.c) |
-| word-ladder-ii | Word Ladder II | Hard | c | [Problem](https://leetcode.com/problems/word-ladder-ii/) | [Solution](./solutions/Hard/0126-word-ladder-ii/solution.c) |
 | zigzag-conversion | 6. Zigzag Conversion | Medium | python3 | [Problem](https://leetcode.com/problems/zigzag-conversion/) | [Solution](./solutions/Medium/0006-zigzag-conversion/solution.py) |
 | merge-two-sorted-lists | 21. Merge Two Sorted Lists | Easy | java | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/Easy/0021-merge-two-sorted-lists/solution.java) |
 | minimum-common-value | Minimum Common Value | Easy | c | [Problem](https://leetcode.com/problems/minimum-common-value/) | [Solution](./solutions/Easy/2540-minimum-common-value/solution.c) |
@@ -281,6 +237,19 @@
 | rotate-string | 796. Rotate String | Easy | c | [Problem](https://leetcode.com/problems/rotate-string/) | [Solution](./solutions/Easy/0796-rotate-string/solution.c) |
 | smallest-rotation-with-highest-score | 798. Smallest Rotation With Highest Score | Hard | c | [Problem](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [Solution](./solutions/Hard/0798-smallest-rotation-with-highest-score/solution.c) |
 | count-unique-characters-of-all-substrings-of-a-given-string | 828. Count Unique Characters Of All Substrings Of A Given String | Hard | c | [Problem](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [Solution](./solutions/Hard/0828-count-unique-characters-of-all-substrings-of-a-given-string/solution.c) |
+| rectangle-overlap | 836. Rectangle Overlap | Easy | c | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.c) |
+| remove-nodes-from-linked-list | Remove Nodes From Linked List | Medium | c | [Problem](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [Solution](./solutions/Medium/2487-remove-nodes-from-linked-list/solution.c) |
+| remove-nth-node-from-end-of-list | Remove Nth Node From End of List | Medium | c | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solutions/Medium/0019-remove-nth-node-from-end-of-list/solution.c) |
+| repeated-dna-sequences | Repeated DNA Sequences | Medium | c | [Problem](https://leetcode.com/problems/repeated-dna-sequences/) | [Solution](./solutions/Medium/0187-repeated-dna-sequences/solution.c) |
+| replace-elements-with-greatest-element-on-right-side | Replace Elements with Greatest Element on Right Side | Easy | c | [Problem](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Solution](./solutions/Easy/1299-replace-elements-with-greatest-element-on-right-side/solution.c) |
+| reverse-degree-of-a-string | Reverse Degree of a String | Easy | c | [Problem](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Solution](./solutions/Easy/3498-reverse-degree-of-a-string/solution.c) |
+| reverse-linked-list-ii | Reverse Linked List II | Medium | c | [Problem](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](./solutions/Medium/0092-reverse-linked-list-ii/solution.c) |
+| reverse-nodes-in-k-group | Reverse Nodes in k-Group | Hard | c | [Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](./solutions/Hard/0025-reverse-nodes-in-k-group/solution.c) |
+| scramble-string | Scramble String | Hard | c | [Problem](https://leetcode.com/problems/scramble-string/) | [Solution](./solutions/Hard/0087-scramble-string/solution.c) |
+| search-a-2d-matrix | Search a 2D Matrix | Medium | c | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./solutions/Medium/0074-search-a-2d-matrix/solution.c) |
+| search-a-2d-matrix-ii | Search a 2D Matrix II | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.java) |
+| shortest-completing-word | Shortest Completing Word | Easy | c | [Problem](https://leetcode.com/problems/shortest-completing-word/) | [Solution](./solutions/Easy/0748-shortest-completing-word/solution.c) |
+| shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | c | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.c) |
 | similar-string-groups | 839. Similar String Groups | Hard | c | [Problem](https://leetcode.com/problems/similar-string-groups/) | [Solution](./solutions/Hard/0839-similar-string-groups/solution.c) |
 | backspace-string-compare | 844. Backspace String Compare | Easy | c | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](./solutions/Easy/0844-backspace-string-compare/solution.c) |
 | exam-room | 855. Exam Room | Medium | c | [Problem](https://leetcode.com/problems/exam-room/) | [Solution](./solutions/Medium/0855-exam-room/solution.c) |
@@ -297,6 +266,23 @@
 | reveal-cards-in-increasing-order | 950. Reveal Cards In Increasing Order | Medium | c | [Problem](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Solution](./solutions/Medium/0950-reveal-cards-in-increasing-order/solution.c) |
 | flip-equivalent-binary-trees | 951. Flip Equivalent Binary Trees | Medium | c | [Problem](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [Solution](./solutions/Medium/0951-flip-equivalent-binary-trees/solution.c) |
 | largest-component-size-by-common-factor | 952. Largest Component Size By Common Factor | Hard | c | [Problem](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Solution](./solutions/Hard/0952-largest-component-size-by-common-factor/solution.c) |
+| sliding-window-median | Sliding Window Median | Hard | c | [Problem](https://leetcode.com/problems/sliding-window-median/) | [Solution](./solutions/Hard/0480-sliding-window-median/solution.c) |
+| smallest-stable-index-i | Smallest Stable Index I | Easy | c | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.c) |
+| smallest-stable-index-ii | Smallest Stable Index II | Medium | c | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.c) |
+| sort-array-by-increasing-frequency | Sort Array by Increasing Frequency | Easy | c | [Problem](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Solution](./solutions/Easy/1636-sort-array-by-increasing-frequency/solution.c) |
+| split-array-with-same-average | Split Array With Same Average | Hard | c | [Problem](https://leetcode.com/problems/split-array-with-same-average/) | [Solution](./solutions/Hard/0805-split-array-with-same-average/solution.c) |
+| student-attendance-record-ii | Student Attendance Record II | Hard | c | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.c) |
+| subarray-product-less-than-k | Subarray Product Less Than K | Medium | c | [Problem](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution](./solutions/Medium/0713-subarray-product-less-than-k/solution.c) |
+| subsequence-with-the-minimum-score | Subsequence With the Minimum Score | Hard | c | [Problem](https://leetcode.com/problems/subsequence-with-the-minimum-score/) | [Solution](./solutions/Hard/2565-subsequence-with-the-minimum-score/solution.c) |
+| substring-with-concatenation-of-all-words | Substring with Concatenation of All Words | Hard | c | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.c) |
+| substrings-of-size-three-with-distinct-characters | Substrings of Size Three with Distinct Characters | Easy | c | [Problem](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Solution](./solutions/Easy/1876-substrings-of-size-three-with-distinct-characters/solution.c) |
+| sum-of-all-subset-xor-totals | Sum of All Subset XOR Totals | Easy | c | [Problem](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Solution](./solutions/Easy/1863-sum-of-all-subset-xor-totals/solution.c) |
+| sum-of-distances-in-tree | Sum of Distances in Tree | Hard | c | [Problem](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution](./solutions/Hard/0834-sum-of-distances-in-tree/solution.c) |
+| sum-of-mutated-array-closest-to-target | Sum of Mutated Array Closest to Target | Medium | c | [Problem](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | [Solution](./solutions/Medium/1300-sum-of-mutated-array-closest-to-target/solution.c) |
+| summary-ranges | Summary Ranges | Easy | c | [Problem](https://leetcode.com/problems/summary-ranges/) | [Solution](./solutions/Easy/0228-summary-ranges/solution.c) |
+| super-egg-drop | Super Egg Drop | Hard | c | [Problem](https://leetcode.com/problems/super-egg-drop/) | [Solution](./solutions/Hard/0887-super-egg-drop/solution.c) |
+| swap-nodes-in-pairs | Swap Nodes in Pairs | Medium | c | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./solutions/Medium/0024-swap-nodes-in-pairs/solution.c) |
+| swapping-nodes-in-a-linked-list | Swapping Nodes in a Linked List | Medium | c | [Problem](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Solution](./solutions/Medium/1721-swapping-nodes-in-a-linked-list/solution.c) |
 | tallest-billboard | 956. Tallest Billboard | Hard | c | [Problem](https://leetcode.com/problems/tallest-billboard/) | [Solution](./solutions/Hard/0956-tallest-billboard/solution.c) |
 | n-repeated-element-in-size-2n-array | 961. N Repeated Element In Size 2n Array | Easy | c | [Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](./solutions/Easy/0961-n-repeated-element-in-size-2n-array/solution.c) |
 | pancake-sorting | 969. Pancake Sorting | Medium | c | [Problem](https://leetcode.com/problems/pancake-sorting/) | [Solution](./solutions/Medium/0969-pancake-sorting/solution.c) |
@@ -341,10 +327,25 @@
 | goat-latin | 824. Goat Latin | Easy | c | [Problem](https://leetcode.com/problems/goat-latin/) | [Solution](./solutions/Easy/0824-goat-latin/solution.c) |
 | flipping-an-image | 832. Flipping An Image | Easy | cpp | [Problem](https://leetcode.com/problems/flipping-an-image/) | [Solution](./solutions/Easy/0832-flipping-an-image/solution.cpp) |
 | leaf-similar-trees | 872. Leaf Similar Trees | Easy | c | [Problem](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](./solutions/Easy/0872-leaf-similar-trees/solution.c) |
+| the-k-weakest-rows-in-a-matrix | The K Weakest Rows in a Matrix | Easy | c | [Problem](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [Solution](./solutions/Easy/1337-the-k-weakest-rows-in-a-matrix/solution.c) |
+| the-skyline-problem | The Skyline Problem | Hard | c | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.c) |
+| transpose-matrix | Transpose Matrix | Easy | c | [Problem](https://leetcode.com/problems/transpose-matrix/) | [Solution](./solutions/Easy/0867-transpose-matrix/solution.c) |
+| two-sum | Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
+| ugly-number-iii | Ugly Number III | Medium | c | [Problem](https://leetcode.com/problems/ugly-number-iii/) | [Solution](./solutions/Medium/1201-ugly-number-iii/solution.c) |
+| uncommon-words-from-two-sentences | Uncommon Words from Two Sentences | Easy | c | [Problem](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Solution](./solutions/Easy/0884-uncommon-words-from-two-sentences/solution.c) |
 | univalued-binary-tree | 965. Univalued Binary Tree | Easy | c | [Problem](https://leetcode.com/problems/univalued-binary-tree/) | [Solution](./solutions/Easy/0965-univalued-binary-tree/solution.c) |
 | count-good-triplets | 1534. Count Good Triplets | Easy | c | [Problem](https://leetcode.com/problems/count-good-triplets/) | [Solution](./solutions/Easy/1534-count-good-triplets/solution.c) |
 | three-consecutive-odds | 1550. Three Consecutive Odds | Easy | c | [Problem](https://leetcode.com/problems/three-consecutive-odds/) | [Solution](./solutions/Easy/1550-three-consecutive-odds/solution.c) |
 | two-city-scheduling | Two City Scheduling | Medium | c | [Problem](https://leetcode.com/problems/two-city-scheduling/) | [Solution](./solutions/Medium/1029-two-city-scheduling/solution.c) |
 | uncrossed-lines | Uncrossed Lines | Medium | c | [Problem](https://leetcode.com/problems/uncrossed-lines/) | [Solution](./solutions/Medium/1035-uncrossed-lines/solution.c) |
+| valid-anagram | Valid Anagram | Easy | c | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.c) |
+| valid-palindrome-ii | Valid Palindrome II | Easy | c | [Problem](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](./solutions/Easy/0680-valid-palindrome-ii/solution.c) |
+| valid-triangle-number | Valid Triangle Number | Medium | c | [Problem](https://leetcode.com/problems/valid-triangle-number/) | [Solution](./solutions/Medium/0611-valid-triangle-number/solution.c) |
 | vertical-order-traversal-of-a-binary-tree | Vertical Order Traversal of a Binary Tree | Hard | c | [Problem](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution](./solutions/Hard/0987-vertical-order-traversal-of-a-binary-tree/solution.c) |
+| widest-vertical-area-between-two-points-containing-no-points | Widest Vertical Area Between Two Points Containing No Points | Easy | c | [Problem](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Solution](./solutions/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/solution.c) |
+| wiggle-subsequence | Wiggle Subsequence | Medium | c | [Problem](https://leetcode.com/problems/wiggle-subsequence/) | [Solution](./solutions/Medium/0376-wiggle-subsequence/solution.c) |
+| wildcard-matching | Wildcard Matching | Hard | c | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.c) |
+| word-break-ii | Word Break II | Hard | c | [Problem](https://leetcode.com/problems/word-break-ii/) | [Solution](./solutions/Hard/0140-word-break-ii/solution.c) |
+| word-ladder | Word Ladder | Hard | c | [Problem](https://leetcode.com/problems/word-ladder/) | [Solution](./solutions/Hard/0127-word-ladder/solution.c) |
+| word-ladder-ii | Word Ladder II | Hard | c | [Problem](https://leetcode.com/problems/word-ladder-ii/) | [Solution](./solutions/Hard/0126-word-ladder-ii/solution.c) |
 | xor-after-range-multiplication-queries-i | XOR After Range Multiplication Queries I | Medium | c | [Problem](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/) | [Solution](./solutions/Medium/3653-xor-after-range-multiplication-queries-i/solution.c) |
