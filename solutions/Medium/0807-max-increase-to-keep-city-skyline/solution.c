@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Greedy, Matrix
 // Link     : https://leetcode.com/problems/max-increase-to-keep-city-skyline/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8236000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9800000 (beats 21%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
