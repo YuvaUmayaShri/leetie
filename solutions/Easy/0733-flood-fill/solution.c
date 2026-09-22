@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Depth-First Search, Breadth-First Search, Matrix
 // Link     : https://leetcode.com/problems/flood-fill/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8628000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 14192000 (beats 14%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
