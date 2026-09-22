@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 350 Solved
+## Progress Summary: 351 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -140,6 +140,7 @@
 | n-queens-ii | N-Queens II | Hard | c | [Problem](https://leetcode.com/problems/n-queens-ii/) | [Solution](./solutions/Hard/0052-n-queens-ii/solution.c) |
 | next-greater-element-i | Next Greater Element I | Easy | java | [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./solutions/Easy/0496-next-greater-element-i/solution.java) |
 | next-greater-element-ii | Next Greater Element II | Medium | java | [Problem](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](./solutions/Medium/0503-next-greater-element-ii/solution.java) |
+| non-decreasing-array | Non-decreasing Array | Medium | c | [Problem](https://leetcode.com/problems/non-decreasing-array/) | [Solution](./solutions/Medium/0665-non-decreasing-array/solution.c) |
 | nth-magical-number | Nth Magical Number | Hard | c | [Problem](https://leetcode.com/problems/nth-magical-number/) | [Solution](./solutions/Hard/0878-nth-magical-number/solution.c) |
 | number-of-boomerangs | Number of Boomerangs | Medium | c | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.c) |
 | number-of-music-playlists | Number of Music Playlists | Hard | c | [Problem](https://leetcode.com/problems/number-of-music-playlists/) | [Solution](./solutions/Hard/0920-number-of-music-playlists/solution.c) |
@@ -176,7 +177,6 @@
 | search-a-2d-matrix | Search a 2D Matrix | Medium | c | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./solutions/Medium/0074-search-a-2d-matrix/solution.c) |
 | search-a-2d-matrix-ii | Search a 2D Matrix II | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.java) |
 | shortest-completing-word | Shortest Completing Word | Easy | c | [Problem](https://leetcode.com/problems/shortest-completing-word/) | [Solution](./solutions/Easy/0748-shortest-completing-word/solution.c) |
-| shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | c | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.c) |
 | sliding-window-median | Sliding Window Median | Hard | c | [Problem](https://leetcode.com/problems/sliding-window-median/) | [Solution](./solutions/Hard/0480-sliding-window-median/solution.c) |
 | smallest-stable-index-i | Smallest Stable Index I | Easy | c | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.c) |
 | smallest-stable-index-ii | Smallest Stable Index II | Medium | c | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.c) |
@@ -328,6 +328,7 @@
 | number-of-valid-words-in-a-sentence | 2047. Number Of Valid Words In A Sentence | Easy | c | [Problem](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/) | [Solution](./solutions/Easy/2047-number-of-valid-words-in-a-sentence/solution.c) |
 | check-whether-two-strings-are-almost-equivalent | 2068. Check Whether Two Strings Are Almost Equivalent | Easy | c | [Problem](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | [Solution](./solutions/Easy/2068-check-whether-two-strings-are-almost-equivalent/solution.c) |
 | shortest-distance-to-target-string-in-a-circular-array | Shortest Distance to Target String in a Circular Array | Easy | c | [Problem](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Solution](./solutions/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/solution.c) |
+| shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | c | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.c) |
 | smallest-value-of-the-rearranged-number | Smallest Value of the Rearranged Number | Medium | c | [Problem](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Solution](./solutions/Medium/2165-smallest-value-of-the-rearranged-number/solution.c) |
 | sort-array-by-parity-ii | Sort Array By Parity II | Easy | c | [Problem](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](./solutions/Easy/0922-sort-array-by-parity-ii/solution.c) |
 | sort-even-and-odd-indices-independently | Sort Even and Odd Indices Independently | Easy | c | [Problem](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) | [Solution](./solutions/Easy/2164-sort-even-and-odd-indices-independently/solution.c) |
