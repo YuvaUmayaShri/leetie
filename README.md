@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 346 Solved
+## Progress Summary: 347 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -138,6 +138,7 @@
 | next-greater-element-i | Next Greater Element I | Easy | java | [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./solutions/Easy/0496-next-greater-element-i/solution.java) |
 | next-greater-element-ii | Next Greater Element II | Medium | java | [Problem](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](./solutions/Medium/0503-next-greater-element-ii/solution.java) |
 | nth-magical-number | Nth Magical Number | Hard | c | [Problem](https://leetcode.com/problems/nth-magical-number/) | [Solution](./solutions/Hard/0878-nth-magical-number/solution.c) |
+| number-of-boomerangs | Number of Boomerangs | Medium | c | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.c) |
 | number-of-lines-to-write-string | Number of Lines To Write String | Easy | c | [Problem](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Solution](./solutions/Easy/0806-number-of-lines-to-write-string/solution.c) |
 | number-of-music-playlists | Number of Music Playlists | Hard | c | [Problem](https://leetcode.com/problems/number-of-music-playlists/) | [Solution](./solutions/Hard/0920-number-of-music-playlists/solution.c) |
 | number-of-sets-of-k-non-overlapping-line-segments | Number of Sets of K Non-Overlapping Line Segments | Medium | c | [Problem](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Solution](./solutions/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/solution.c) |
@@ -277,7 +278,6 @@
 | find-pivot-index | 724. Find Pivot Index | Easy | c | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.c) |
 | my-calendar-ii | 731. My Calendar Ii | Medium | cpp | [Problem](https://leetcode.com/problems/my-calendar-ii/) | [Solution](./solutions/Medium/0731-my-calendar-ii/solution.cpp) |
 | max-chunks-to-make-sorted | 769. Max Chunks To Make Sorted | Medium | c | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Solution](./solutions/Medium/0769-max-chunks-to-make-sorted/solution.c) |
-| jewels-and-stones | 771. Jewels And Stones | Easy | c | [Problem](https://leetcode.com/problems/jewels-and-stones/) | [Solution](./solutions/Easy/0771-jewels-and-stones/solution.c) |
 | swim-in-rising-water | 778. Swim In Rising Water | Hard | cpp | [Problem](https://leetcode.com/problems/swim-in-rising-water/) | [Solution](./solutions/Hard/0778-swim-in-rising-water/solution.cpp) |
 | minimum-distance-between-bst-nodes | 783. Minimum Distance Between Bst Nodes | Easy | c | [Problem](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Solution](./solutions/Easy/0783-minimum-distance-between-bst-nodes/solution.c) |
 | domino-and-tromino-tiling | 790. Domino And Tromino Tiling | Medium | c | [Problem](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Solution](./solutions/Medium/0790-domino-and-tromino-tiling/solution.c) |
@@ -290,7 +290,6 @@
 | similar-string-groups | 839. Similar String Groups | Hard | c | [Problem](https://leetcode.com/problems/similar-string-groups/) | [Solution](./solutions/Hard/0839-similar-string-groups/solution.c) |
 | backspace-string-compare | 844. Backspace String Compare | Easy | c | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](./solutions/Easy/0844-backspace-string-compare/solution.c) |
 | exam-room | 855. Exam Room | Medium | c | [Problem](https://leetcode.com/problems/exam-room/) | [Solution](./solutions/Medium/0855-exam-room/solution.c) |
-| buddy-strings | 859. Buddy Strings | Easy | c | [Problem](https://leetcode.com/problems/buddy-strings/) | [Solution](./solutions/Easy/0859-buddy-strings/solution.c) |
 | lemonade-change | 860. Lemonade Change | Easy | c | [Problem](https://leetcode.com/problems/lemonade-change/) | [Solution](./solutions/Easy/0860-lemonade-change/solution.c) |
 | prime-palindrome | 866. Prime Palindrome | Medium | c | [Problem](https://leetcode.com/problems/prime-palindrome/) | [Solution](./solutions/Medium/0866-prime-palindrome/solution.c) |
 | leaf-similar-trees | 872. Leaf Similar Trees | Easy | c | [Problem](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](./solutions/Easy/0872-leaf-similar-trees/solution.c) |
@@ -305,7 +304,6 @@
 | flip-equivalent-binary-trees | 951. Flip Equivalent Binary Trees | Medium | c | [Problem](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [Solution](./solutions/Medium/0951-flip-equivalent-binary-trees/solution.c) |
 | largest-component-size-by-common-factor | 952. Largest Component Size By Common Factor | Hard | c | [Problem](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Solution](./solutions/Hard/0952-largest-component-size-by-common-factor/solution.c) |
 | tallest-billboard | 956. Tallest Billboard | Hard | c | [Problem](https://leetcode.com/problems/tallest-billboard/) | [Solution](./solutions/Hard/0956-tallest-billboard/solution.c) |
-| n-repeated-element-in-size-2n-array | 961. N Repeated Element In Size 2n Array | Easy | c | [Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](./solutions/Easy/0961-n-repeated-element-in-size-2n-array/solution.c) |
 | pancake-sorting | 969. Pancake Sorting | Medium | c | [Problem](https://leetcode.com/problems/pancake-sorting/) | [Solution](./solutions/Medium/0969-pancake-sorting/solution.c) |
 | find-the-town-judge | 997. Find The Town Judge | Easy | c | [Problem](https://leetcode.com/problems/find-the-town-judge/) | [Solution](./solutions/Easy/0997-find-the-town-judge/solution.c) |
 | complement-of-base-10-integer | 1009. Complement Of Base 10 Integer | Easy | c | [Problem](https://leetcode.com/problems/complement-of-base-10-integer/) | [Solution](./solutions/Easy/1009-complement-of-base-10-integer/solution.c) |
@@ -319,26 +317,29 @@
 | count-good-triplets | 1534. Count Good Triplets | Easy | c | [Problem](https://leetcode.com/problems/count-good-triplets/) | [Solution](./solutions/Easy/1534-count-good-triplets/solution.c) |
 | kth-missing-positive-number | 1539. Kth Missing Positive Number | Easy | c | [Problem](https://leetcode.com/problems/kth-missing-positive-number/) | [Solution](./solutions/Easy/1539-kth-missing-positive-number/solution.c) |
 | ways-to-split-array-into-three-subarrays | 1712. Ways To Split Array Into Three Subarrays | Medium | c | [Problem](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [Solution](./solutions/Medium/1712-ways-to-split-array-into-three-subarrays/solution.c) |
+| count-number-of-pairs-with-absolute-difference-k | 2006. Count Number Of Pairs With Absolute Difference K | Easy | java | [Problem](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [Solution](./solutions/Easy/2006-count-number-of-pairs-with-absolute-difference-k/solution.java) |
 | kth-smallest-product-of-two-sorted-arrays | 2040. Kth Smallest Product Of Two Sorted Arrays | Hard | java | [Problem](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/) | [Solution](./solutions/Hard/2040-kth-smallest-product-of-two-sorted-arrays/solution.java) |
 | check-if-numbers-are-ascending-in-a-sentence | 2042. Check If Numbers Are Ascending In A Sentence | Easy | c | [Problem](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [Solution](./solutions/Easy/2042-check-if-numbers-are-ascending-in-a-sentence/solution.c) |
 | simple-bank-system | 2043. Simple Bank System | Medium | c | [Problem](https://leetcode.com/problems/simple-bank-system/) | [Solution](./solutions/Medium/2043-simple-bank-system/solution.c) |
 | count-number-of-maximum-bitwise-or-subsets | 2044. Count Number Of Maximum Bitwise Or Subsets | Medium | c | [Problem](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Solution](./solutions/Medium/2044-count-number-of-maximum-bitwise-or-subsets/solution.c) |
 | second-minimum-time-to-reach-destination | 2045. Second Minimum Time To Reach Destination | Hard | c | [Problem](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | [Solution](./solutions/Hard/2045-second-minimum-time-to-reach-destination/solution.c) |
 | number-of-valid-words-in-a-sentence | 2047. Number Of Valid Words In A Sentence | Easy | c | [Problem](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/) | [Solution](./solutions/Easy/2047-number-of-valid-words-in-a-sentence/solution.c) |
-| check-whether-two-strings-are-almost-equivalent | 2068. Check Whether Two Strings Are Almost Equivalent | Easy | c | [Problem](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | [Solution](./solutions/Easy/2068-check-whether-two-strings-are-almost-equivalent/solution.c) |
+| sum-of-even-numbers-after-queries | Sum of Even Numbers After Queries | Medium | cpp | [Problem](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Solution](./solutions/Medium/0985-sum-of-even-numbers-after-queries/solution.cpp) |
+| time-based-key-value-store | Time Based Key-Value Store | Medium | cpp | [Problem](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./solutions/Medium/0981-time-based-key-value-store/solution.cpp) |
+| toeplitz-matrix | 766. Toeplitz Matrix | Easy | c | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.c) |
+| jewels-and-stones | 771. Jewels And Stones | Easy | c | [Problem](https://leetcode.com/problems/jewels-and-stones/) | [Solution](./solutions/Easy/0771-jewels-and-stones/solution.c) |
+| unique-morse-code-words | 804. Unique Morse Code Words | Easy | c | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.c) |
+| buddy-strings | 859. Buddy Strings | Easy | c | [Problem](https://leetcode.com/problems/buddy-strings/) | [Solution](./solutions/Easy/0859-buddy-strings/solution.c) |
+| n-repeated-element-in-size-2n-array | 961. N Repeated Element In Size 2n Array | Easy | c | [Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](./solutions/Easy/0961-n-repeated-element-in-size-2n-array/solution.c) |
 | shortest-distance-to-target-string-in-a-circular-array | Shortest Distance to Target String in a Circular Array | Easy | c | [Problem](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Solution](./solutions/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/solution.c) |
 | smallest-value-of-the-rearranged-number | Smallest Value of the Rearranged Number | Medium | c | [Problem](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Solution](./solutions/Medium/2165-smallest-value-of-the-rearranged-number/solution.c) |
 | sort-array-by-parity-ii | Sort Array By Parity II | Easy | c | [Problem](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](./solutions/Easy/0922-sort-array-by-parity-ii/solution.c) |
 | sort-even-and-odd-indices-independently | Sort Even and Odd Indices Independently | Easy | c | [Problem](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) | [Solution](./solutions/Easy/2164-sort-even-and-odd-indices-independently/solution.c) |
-| sum-of-even-numbers-after-queries | Sum of Even Numbers After Queries | Medium | cpp | [Problem](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Solution](./solutions/Medium/0985-sum-of-even-numbers-after-queries/solution.cpp) |
-| three-consecutive-odds | 1550. Three Consecutive Odds | Easy | c | [Problem](https://leetcode.com/problems/three-consecutive-odds/) | [Solution](./solutions/Easy/1550-three-consecutive-odds/solution.c) |
-| time-based-key-value-store | Time Based Key-Value Store | Medium | cpp | [Problem](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./solutions/Medium/0981-time-based-key-value-store/solution.cpp) |
-| toeplitz-matrix | 766. Toeplitz Matrix | Easy | c | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.c) |
 | two-city-scheduling | Two City Scheduling | Medium | c | [Problem](https://leetcode.com/problems/two-city-scheduling/) | [Solution](./solutions/Medium/1029-two-city-scheduling/solution.c) |
 | uncrossed-lines | Uncrossed Lines | Medium | c | [Problem](https://leetcode.com/problems/uncrossed-lines/) | [Solution](./solutions/Medium/1035-uncrossed-lines/solution.c) |
-| unique-morse-code-words | 804. Unique Morse Code Words | Easy | c | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.c) |
 | univalued-binary-tree | 965. Univalued Binary Tree | Easy | c | [Problem](https://leetcode.com/problems/univalued-binary-tree/) | [Solution](./solutions/Easy/0965-univalued-binary-tree/solution.c) |
-| count-number-of-pairs-with-absolute-difference-k | 2006. Count Number Of Pairs With Absolute Difference K | Easy | java | [Problem](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [Solution](./solutions/Easy/2006-count-number-of-pairs-with-absolute-difference-k/solution.java) |
+| three-consecutive-odds | 1550. Three Consecutive Odds | Easy | c | [Problem](https://leetcode.com/problems/three-consecutive-odds/) | [Solution](./solutions/Easy/1550-three-consecutive-odds/solution.c) |
+| check-whether-two-strings-are-almost-equivalent | 2068. Check Whether Two Strings Are Almost Equivalent | Easy | c | [Problem](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | [Solution](./solutions/Easy/2068-check-whether-two-strings-are-almost-equivalent/solution.c) |
 | vertical-order-traversal-of-a-binary-tree | Vertical Order Traversal of a Binary Tree | Hard | c | [Problem](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution](./solutions/Hard/0987-vertical-order-traversal-of-a-binary-tree/solution.c) |
 | walking-robot-simulation-ii | 2069. Walking Robot Simulation Ii | Medium | c | [Problem](https://leetcode.com/problems/walking-robot-simulation-ii/) | [Solution](./solutions/Medium/2069-walking-robot-simulation-ii/solution.c) |
 | maximum-size-of-a-set-after-removals | 3002. Maximum Size Of A Set After Removals | Medium | c | [Problem](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/) | [Solution](./solutions/Medium/3002-maximum-size-of-a-set-after-removals/solution.c) |
