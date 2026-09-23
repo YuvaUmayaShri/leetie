@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 355 Solved
+## Progress Summary: 356 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -170,6 +170,7 @@
 | rank-transform-of-a-matrix | Rank Transform of a Matrix | Hard | c | [Problem](https://leetcode.com/problems/rank-transform-of-a-matrix/) | [Solution](./solutions/Hard/1632-rank-transform-of-a-matrix/solution.c) |
 | rectangle-area-ii | Rectangle Area II | Hard | c | [Problem](https://leetcode.com/problems/rectangle-area-ii/) | [Solution](./solutions/Hard/0850-rectangle-area-ii/solution.c) |
 | rectangle-overlap | 836. Rectangle Overlap | Easy | c | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.c) |
+| remove-duplicates-from-sorted-list-ii | Remove Duplicates from Sorted List II | Medium | c | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](./solutions/Medium/0082-remove-duplicates-from-sorted-list-ii/solution.c) |
 | remove-nodes-from-linked-list | Remove Nodes From Linked List | Medium | c | [Problem](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [Solution](./solutions/Medium/2487-remove-nodes-from-linked-list/solution.c) |
 | remove-nth-node-from-end-of-list | Remove Nth Node From End of List | Medium | c | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./solutions/Medium/0019-remove-nth-node-from-end-of-list/solution.c) |
 | repeated-dna-sequences | Repeated DNA Sequences | Medium | c | [Problem](https://leetcode.com/problems/repeated-dna-sequences/) | [Solution](./solutions/Medium/0187-repeated-dna-sequences/solution.c) |
