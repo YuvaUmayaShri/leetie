@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 364 Solved
+## Progress Summary: 365 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -93,6 +93,7 @@
 | largest-number-at-least-twice-of-others | Largest Number At Least Twice of Others | Easy | c | [Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Solution](./solutions/Easy/0747-largest-number-at-least-twice-of-others/solution.c) |
 | largest-perimeter-triangle | Largest Perimeter Triangle | Easy | c | [Problem](https://leetcode.com/problems/largest-perimeter-triangle/) | [Solution](./solutions/Easy/0976-largest-perimeter-triangle/solution.c) |
 | largest-triangle-area | Largest Triangle Area | Easy | c | [Problem](https://leetcode.com/problems/largest-triangle-area/) | [Solution](./solutions/Easy/0812-largest-triangle-area/solution.c) |
+| last-day-where-you-can-still-cross | Last Day Where You Can Still Cross | Hard | c | [Problem](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [Solution](./solutions/Hard/1970-last-day-where-you-can-still-cross/solution.c) |
 | last-stone-weight | Last Stone Weight | Easy | c | [Problem](https://leetcode.com/problems/last-stone-weight/) | [Solution](./solutions/Easy/1046-last-stone-weight/solution.c) |
 | linked-list-cycle | Linked List Cycle | Easy | c | [Problem](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./solutions/Easy/0141-linked-list-cycle/solution.c) |
 | longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium | c | [Problem](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Solution](./solutions/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/solution.c) |
