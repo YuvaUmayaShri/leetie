@@ -3,129 +3,199 @@
 // Difficulty: Hard
 // Tags     : Hash Table, String, Backtracking, Stack, Breadth-First Search, Sorting
 // Link     : https://leetcode.com/problems/brace-expansion-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8888000 (beats 0%)
+// Runtime  : 47 ms (beats 10%)
+// Memory   : 14832000 (beats 81%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
-int compareStrings(const void* a, const void* b) {
-    return strcmp(*(const char**)a, *(const char**)b);
-}
-
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
 typedef struct {
     char** data;
     int size;
     int capacity;
-} Set;
+} StringSet;
 
-Set* createSet() {
-    Set* set = (Set*)malloc(sizeof(Set));
-    set->capacity = 8;
-    set->size = 0;
-    set->data = (char**)malloc(set->capacity * sizeof(char*));
-    return set;
+char* copyString(const char* s) {
+    char* result = (char*)malloc(strlen(s) + 1);
+    strcpy(result, s);
+    return result;
 }
 
-void addToSet(Set* set, const char* str) {
+void initSet(StringSet* set) {
+    set->size = 0;
+    set->capacity = 16;
+    set->data = (char**)malloc(set->capacity * sizeof(char*));
+}
+
+int contains(StringSet* set, const char* s) {
     for (int i = 0; i < set->size; i++) {
-        if (strcmp(set->data[i], str) == 0) return;
+        if (strcmp(set->data[i], s) == 0) {
+            return 1;
+        }
     }
+
+    return 0;
+}
+
+void addSet(StringSet* set, const char* s) {
+    if (contains(set, s)) {
+        return;
+    }
+
     if (set->size == set->capacity) {
         set->capacity *= 2;
-        set->data = (char**)realloc(set->data, set->capacity * sizeof(char*));
+        set->data = (char**)realloc(
+            set->data,
+            set->capacity * sizeof(char*)
+        );
     }
-    set->data[set->size++] = strdup(str);
+
+    set->data[set->size++] = copyString(s);
 }
 
-void freeSet(Set* set) {
+void freeSet(StringSet* set) {
     for (int i = 0; i < set->size; i++) {
         free(set->data[i]);
     }
+
     free(set->data);
-    free(set);
 }
 
-Set* parseExpr(const char* expr, int* index);
+char* concat(const char* a, const char* b) {
+    int lenA = strlen(a);
+    int lenB = strlen(b);
 
-Set* parseGroup(const char* expr, int* index) {
-    Set* groupSet = createSet();
+    char* result = (char*)malloc(lenA + lenB + 1);
 
-    while (expr[*index] && expr[*index] != '}' && expr[*index] != ',') {
-        Set* nextSet;
-        if (expr[*index] == '{') {
-            (*index)++;
-            nextSet = parseExpr(expr, index);
-            if (expr[*index] == '}') (*index)++;
-        } else {
-            int start = *index;
-            while (expr[*index] >= 'a' && expr[*index] <= 'z') {
-                (*index)++;
+    strcpy(result, a);
+    strcat(result, b);
+
+    return result;
+}
+
+StringSet build(char* s, int start, int end) {
+    StringSet parts;
+    StringSet curr;
+
+    initSet(&parts);
+    initSet(&curr);
+
+    addSet(&curr, "");
+
+    int i = start;
+
+    while (i < end) {
+        if (s[i] == '{') {
+            int j = i;
+            int depth = 0;
+
+            while (1) {
+                if (s[j] == '{') {
+                    depth--;
+                } else if (s[j] == '}') {
+                    depth++;
+                }
+
+                if (depth == 0) {
+                    break;
+                }
+
+                j++;
             }
-            int len = *index - start;
-            char* word = (char*)malloc(len + 1);
-            strncpy(word, expr + start, len);
-            word[len] = '\0';
 
-            nextSet = createSet();
-            addToSet(nextSet, word);
-            free(word);
-        }
+            StringSet options = build(s, i + 1, j);
+            StringSet next;
 
-        if (groupSet->size == 0) {
-            for (int i = 0; i < nextSet->size; i++) {
-                addToSet(groupSet, nextSet->data[i]);
-            }
-        } else {
-            Set* temp = createSet();
-            for (int i = 0; i < groupSet->size; i++) {
-                for (int j = 0; j < nextSet->size; j++) {
-                    char concatenated[128];
-                    snprintf(concatenated, sizeof(concatenated), "%s%s", groupSet->data[i], nextSet->data[j]);
-                    addToSet(temp, concatenated);
+            initSet(&next);
+
+            for (int a = 0; a < curr.size; a++) {
+                for (int b = 0; b < options.size; b++) {
+                    char* temp = concat(
+                        curr.data[a],
+                        options.data[b]
+                    );
+
+                    addSet(&next, temp);
+                    free(temp);
                 }
             }
-            freeSet(groupSet);
-            groupSet = temp;
+
+            freeSet(&curr);
+            freeSet(&options);
+
+            curr = next;
+            i = j + 1;
         }
-        freeSet(nextSet);
+
+        else if (s[i] == ',') {
+            for (int j = 0; j < curr.size; j++) {
+                addSet(&parts, curr.data[j]);
+            }
+
+            freeSet(&curr);
+            initSet(&curr);
+            addSet(&curr, "");
+
+            i++;
+        }
+
+        else {
+            StringSet next;
+            initSet(&next);
+
+            char ch[2];
+            ch[0] = s[i];
+            ch[1] = '\0';
+
+            for (int j = 0; j < curr.size; j++) {
+                char* temp = concat(curr.data[j], ch);
+
+                addSet(&next, temp);
+                free(temp);
+            }
+
+            freeSet(&curr);
+            curr = next;
+
+            i++;
+        }
     }
 
-    return groupSet;
+    for (int i = 0; i < curr.size; i++) {
+        addSet(&parts, curr.data[i]);
+    }
+
+    freeSet(&curr);
+
+    return parts;
 }
 
-Set* parseExpr(const char* expr, int* index) {
-    Set* resultSet = createSet();
+int compareStrings(const void* a, const void* b) {
+    const char* x = *(const char**)a;
+    const char* y = *(const char**)b;
 
-    while (expr[*index] && expr[*index] != '}') {
-        Set* groupSet = parseGroup(expr, index);
-        for (int i = 0; i < groupSet->size; i++) {
-            addToSet(resultSet, groupSet->data[i]);
-        }
-        freeSet(groupSet);
-
-        if (expr[*index] == ',') {
-            (*index)++;
-        }
-    }
-
-    return resultSet;
+    return strcmp(x, y);
 }
 
 char** braceExpansionII(char* expression, int* returnSize) {
-    int index = 0;
-    Set* resultSet = parseExpr(expression, &index);
+    StringSet result = build(
+        expression,
+        0,
+        strlen(expression)
+    );
 
-    qsort(resultSet->data, resultSet->size, sizeof(char*), compareStrings);
+    qsort(
+        result.data,
+        result.size,
+        sizeof(char*),
+        compareStrings
+    );
 
-    *returnSize = resultSet->size;
-    char** result = resultSet->data;
+    *returnSize = result.size;
 
-    free(resultSet);
-    return result;
+    return result.data;
 }
