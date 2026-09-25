@@ -4,7 +4,7 @@
 // Tags     : Math, Binary Search, Greedy
 // Link     : https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 8704000 (beats 100%)
+// Memory   : 8652000 (beats 100%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
