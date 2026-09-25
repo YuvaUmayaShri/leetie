@@ -4,14 +4,30 @@
 // Tags     : Array, Hash Table, Two Pointers, Binary Search, Graph Theory, Sorting, Counting
 // Link     : https://leetcode.com/problems/count-pairs-of-nodes/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 8596000 (beats 0%)
+// Memory   : 8688000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
 #include <stdlib.h>
-#include <string.h>
+
+typedef struct {
+    int u;
+    int v;
+    int count;
+} UniqueEdge;
+
+int compareEdges(const void* a, const void* b) {
+    int* edgeA = *(int**)a;
+    int* edgeB = *(int**)b;
+    int uA = edgeA[0] < edgeA[1] ? edgeA[0] : edgeA[1];
+    int vA = edgeA[0] < edgeA[1] ? edgeA[1] : edgeA[0];
+    int uB = edgeB[0] < edgeB[1] ? edgeB[0] : edgeB[1];
+    int vB = edgeB[0] < edgeB[1] ? edgeB[1] : edgeB[0];
+    if (uA != uB) return uA - uB;
+    return vA - vB;
+}
 
 int compareInts(const void* a, const void* b) {
     return (*(int*)a - *(int*)b);
@@ -21,8 +37,10 @@ int* countPairs(int n, int** edges, int edgesSize, int* edgesColSize, int* queri
     int* deg = (int*)calloc(n + 1, sizeof(int));
     int* sortedDeg = (int*)malloc((n + 1) * sizeof(int));
 
-    int edgeCount = edgesSize;
-    long long* edgeKeys = (long long*)malloc(edgeCount * sizeof(long long));
+    qsort(edges, edgesSize, sizeof(int*), compareEdges);
+
+    UniqueEdge* uniqueEdges = (UniqueEdge*)malloc(edgesSize * sizeof(UniqueEdge));
+    int uniqueCount = 0;
 
     for (int i = 0; i < edgesSize; i++) {
         int u = edges[i][0];
@@ -30,20 +48,23 @@ int* countPairs(int n, int** edges, int edgesSize, int* edgesColSize, int* queri
         deg[u]++;
         deg[v]++;
 
-        if (u > v) {
-            int temp = u;
-            u = v;
-            v = temp;
+        int su = u < v ? u : v;
+        int sv = u < v ? v : u;
+
+        if (uniqueCount > 0 && uniqueEdges[uniqueCount - 1].u == su && uniqueEdges[uniqueCount - 1].v == sv) {
+            uniqueEdges[uniqueCount - 1].count++;
+        } else {
+            uniqueEdges[uniqueCount].u = su;
+            uniqueEdges[uniqueCount].v = sv;
+            uniqueEdges[uniqueCount].count = 1;
+            uniqueCount++;
         }
-        edgeKeys[i] = ((long long)u << 32) | (unsigned int)v;
     }
 
     for (int i = 1; i <= n; i++) {
         sortedDeg[i] = deg[i];
     }
     qsort(sortedDeg + 1, n, sizeof(int), compareInts);
-
-    qsort(edgeKeys, edgeCount, sizeof(long long), compareInts);
 
     int* ans = (int*)malloc(queriesSize * sizeof(int));
 
@@ -61,22 +82,14 @@ int* countPairs(int n, int** edges, int edgesSize, int* edgesColSize, int* queri
             }
         }
 
-        int i = 0;
-        while (i < edgeCount) {
-            int j = i;
-            while (j < edgeCount && edgeKeys[j] == edgeKeys[i]) {
-                j++;
-            }
-
-            int count = j - i;
-            int u = (int)(edgeKeys[i] >> 32);
-            int v = (int)(edgeKeys[i] & 0xFFFFFFFF);
+        for (int i = 0; i < uniqueCount; i++) {
+            int u = uniqueEdges[i].u;
+            int v = uniqueEdges[i].v;
+            int count = uniqueEdges[i].count;
 
             if (deg[u] + deg[v] > limit && deg[u] + deg[v] - count <= limit) {
                 totalPairs--;
             }
-
-            i = j;
         }
 
         ans[q] = (int)totalPairs;
@@ -84,7 +97,7 @@ int* countPairs(int n, int** edges, int edgesSize, int* edgesColSize, int* queri
 
     free(deg);
     free(sortedDeg);
-    free(edgeKeys);
+    free(uniqueEdges);
 
     *returnSize = queriesSize;
     return ans;
