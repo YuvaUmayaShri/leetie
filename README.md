@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 363 Solved
+## Progress Summary: 364 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -131,6 +131,7 @@
 | longest-palindromic-substring | 5. Longest Palindromic Substring | Medium | java | [Problem](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./solutions/Medium/0005-longest-palindromic-substring/solution.java) |
 | merge-nodes-in-between-zeros | Merge Nodes in Between Zeros | Medium | c | [Problem](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Solution](./solutions/Medium/2181-merge-nodes-in-between-zeros/solution.c) |
 | middle-of-the-linked-list | Middle of the Linked List | Easy | c | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.c) |
+| minimum-absolute-sum-difference | Minimum Absolute Sum Difference | Medium | c | [Problem](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [Solution](./solutions/Medium/1818-minimum-absolute-sum-difference/solution.c) |
 | minimum-ascii-delete-sum-for-two-strings | Minimum ASCII Delete Sum for Two Strings | Medium | c | [Problem](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Solution](./solutions/Medium/0712-minimum-ascii-delete-sum-for-two-strings/solution.c) |
 | minimum-limit-of-balls-in-a-bag | Minimum Limit of Balls in a Bag | Medium | c | [Problem](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [Solution](./solutions/Medium/1760-minimum-limit-of-balls-in-a-bag/solution.c) |
 | minimum-moves-to-clean-the-classroom | Minimum Moves to Clean the Classroom | Medium | c | [Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Solution](./solutions/Medium/3568-minimum-moves-to-clean-the-classroom/solution.c) |
