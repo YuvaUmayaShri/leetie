@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8532000 (beats 0%)
+// Runtime  : 32 ms (beats 19%)
+// Memory   : 16820000 (beats 24%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
