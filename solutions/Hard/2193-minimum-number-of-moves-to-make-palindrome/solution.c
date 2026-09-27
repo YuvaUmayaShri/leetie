@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Two Pointers, String, Greedy, Binary Indexed Tree
 // Link     : https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8528000 (beats 0%)
+// Runtime  : 15 ms (beats 100%)
+// Memory   : 9048000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
