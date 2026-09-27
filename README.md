@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 369 Solved
+## Progress Summary: 370 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -53,6 +53,7 @@
 | find-a-peak-element-ii | Find a Peak Element II | Medium | java | [Problem](https://leetcode.com/problems/find-a-peak-element-ii/) | [Solution](./solutions/Medium/1901-find-a-peak-element-ii/solution.java) |
 | find-all-anagrams-in-a-string | Find All Anagrams in a String | Medium | c | [Problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](./solutions/Medium/0438-find-all-anagrams-in-a-string/solution.c) |
 | find-all-duplicates-in-an-array | Find All Duplicates in an Array | Medium | c | [Problem](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution](./solutions/Medium/0442-find-all-duplicates-in-an-array/solution.c) |
+| find-all-k-distant-indices-in-an-array | Find All K-Distant Indices in an Array | Easy | c | [Problem](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [Solution](./solutions/Easy/2200-find-all-k-distant-indices-in-an-array/solution.c) |
 | find-k-closest-elements | Find K Closest Elements | Medium | c | [Problem](https://leetcode.com/problems/find-k-closest-elements/) | [Solution](./solutions/Medium/0658-find-k-closest-elements/solution.c) |
 | find-k-pairs-with-smallest-sums | Find K Pairs with Smallest Sums | Medium | c | [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Solution](./solutions/Medium/0373-find-k-pairs-with-smallest-sums/solution.c) |
 | find-largest-value-in-each-tree-row | Find Largest Value in Each Tree Row | Medium | c | [Problem](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Solution](./solutions/Medium/0515-find-largest-value-in-each-tree-row/solution.c) |
