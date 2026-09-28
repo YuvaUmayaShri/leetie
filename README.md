@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 371 Solved
+## Progress Summary: 372 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -115,6 +115,7 @@
 | maximum-consecutive-floors-without-special-floors | Maximum Consecutive Floors Without Special Floors | Medium | c | [Problem](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [Solution](./solutions/Medium/2274-maximum-consecutive-floors-without-special-floors/solution.c) |
 | maximum-height-by-stacking-cuboids | Maximum Height by Stacking Cuboids | Hard | c | [Problem](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [Solution](./solutions/Hard/1691-maximum-height-by-stacking-cuboids/solution.c) |
 | maximum-length-of-a-concatenated-string-with-unique-characters | Maximum Length of a Concatenated String with Unique Characters | Medium | c | [Problem](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Solution](./solutions/Medium/1239-maximum-length-of-a-concatenated-string-with-unique-characters/solution.c) |
+| maximum-nesting-depth-of-the-parentheses | Maximum Nesting Depth of the Parentheses | Easy | c | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Solution](./solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/solution.c) |
 | maximum-number-of-achievable-transfer-requests | Maximum Number of Achievable Transfer Requests | Hard | c | [Problem](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [Solution](./solutions/Hard/1601-maximum-number-of-achievable-transfer-requests/solution.c) |
 | maximum-number-of-balloons | Maximum Number of Balloons | Easy | c | [Problem](https://leetcode.com/problems/maximum-number-of-balloons/) | [Solution](./solutions/Easy/1189-maximum-number-of-balloons/solution.c) |
 | maximum-number-of-events-that-can-be-attended-ii | Maximum Number of Events That Can Be Attended II | Hard | c | [Problem](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [Solution](./solutions/Hard/1751-maximum-number-of-events-that-can-be-attended-ii/solution.c) |
