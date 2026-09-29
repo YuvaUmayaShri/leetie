@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/find-peak-element/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42528000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43800000 (beats 97%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
