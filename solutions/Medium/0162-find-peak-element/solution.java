@@ -3,10 +3,10 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/find-peak-element/
-// Runtime  : N/A (beats 0%)
-// Memory   : N/A (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 44040000 (beats 75%)
 // Language : java
-// Copyright: (c) 2026 Shreeprasandh K. All rights reserved.
+// Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
@@ -31,7 +31,7 @@ class Solution{
         int ans=0;
         while(low<=high){
             mid=(low+high)/2;
-            if(nums[mid] >nums[mid+1] && nums[mid] >nums[mid+1]){
+            if(nums[mid] >nums[mid+1] && nums[mid] >nums[mid-1]){
                 ans=mid;
             }
             if(nums[mid]<nums[mid+1]){
