@@ -4,7 +4,7 @@
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/find-peak-element/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 43800000 (beats 97%)
+// Memory   : 44176000 (beats 57%)
 // Language : java
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
@@ -14,7 +14,7 @@
 class Solution{
     public int findPeakElement(int[] nums){
         int n= nums.length;
-        int low =1;
+        int low =0;
         int high=n-1;
         int mid;
         if(n==1){
