@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 372 Solved
+## Progress Summary: 373 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -26,6 +26,7 @@
 | brace-expansion-ii | Brace Expansion II | Hard | c | [Problem](https://leetcode.com/problems/brace-expansion-ii/) | [Solution](./solutions/Hard/1096-brace-expansion-ii/solution.c) |
 | bulb-switcher | Bulb Switcher | Medium | c | [Problem](https://leetcode.com/problems/bulb-switcher/) | [Solution](./solutions/Medium/0319-bulb-switcher/solution.c) |
 | champagne-tower | Champagne Tower | Medium | c | [Problem](https://leetcode.com/problems/champagne-tower/) | [Solution](./solutions/Medium/0799-champagne-tower/solution.c) |
+| check-if-there-is-a-valid-parentheses-string-path | Check if There Is a Valid Parentheses String Path | Hard | c | [Problem](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [Solution](./solutions/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/solution.c) |
 | circle-and-rectangle-overlapping | Circle and Rectangle Overlapping | Medium | c | [Problem](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [Solution](./solutions/Medium/1401-circle-and-rectangle-overlapping/solution.c) |
 | circular-permutation-in-binary-representation | Circular Permutation in Binary Representation | Medium | c | [Problem](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | [Solution](./solutions/Medium/1238-circular-permutation-in-binary-representation/solution.c) |
 | coin-change | Coin Change | Medium | c | [Problem](https://leetcode.com/problems/coin-change/) | [Solution](./solutions/Medium/0322-coin-change/solution.c) |
@@ -198,7 +199,6 @@
 | smallest-stable-index-ii | Smallest Stable Index II | Medium | c | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.c) |
 | sort-array-by-increasing-frequency | Sort Array by Increasing Frequency | Easy | c | [Problem](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Solution](./solutions/Easy/1636-sort-array-by-increasing-frequency/solution.c) |
 | split-array-with-same-average | Split Array With Same Average | Hard | c | [Problem](https://leetcode.com/problems/split-array-with-same-average/) | [Solution](./solutions/Hard/0805-split-array-with-same-average/solution.c) |
-| student-attendance-record-ii | Student Attendance Record II | Hard | c | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.c) |
 | subarray-product-less-than-k | Subarray Product Less Than K | Medium | c | [Problem](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution](./solutions/Medium/0713-subarray-product-less-than-k/solution.c) |
 | subsequence-with-the-minimum-score | Subsequence With the Minimum Score | Hard | c | [Problem](https://leetcode.com/problems/subsequence-with-the-minimum-score/) | [Solution](./solutions/Hard/2565-subsequence-with-the-minimum-score/solution.c) |
 | substring-with-concatenation-of-all-words | Substring with Concatenation of All Words | Hard | c | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Solution](./solutions/Hard/0030-substring-with-concatenation-of-all-words/solution.c) |
@@ -344,7 +344,9 @@
 | smallest-value-of-the-rearranged-number | Smallest Value of the Rearranged Number | Medium | c | [Problem](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Solution](./solutions/Medium/2165-smallest-value-of-the-rearranged-number/solution.c) |
 | sort-array-by-parity-ii | Sort Array By Parity II | Easy | c | [Problem](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](./solutions/Easy/0922-sort-array-by-parity-ii/solution.c) |
 | sort-even-and-odd-indices-independently | Sort Even and Odd Indices Independently | Easy | c | [Problem](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) | [Solution](./solutions/Easy/2164-sort-even-and-odd-indices-independently/solution.c) |
+| student-attendance-record-ii | Student Attendance Record II | Hard | c | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.c) |
 | sum-of-even-numbers-after-queries | Sum of Even Numbers After Queries | Medium | cpp | [Problem](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Solution](./solutions/Medium/0985-sum-of-even-numbers-after-queries/solution.cpp) |
+| three-consecutive-odds | 1550. Three Consecutive Odds | Easy | c | [Problem](https://leetcode.com/problems/three-consecutive-odds/) | [Solution](./solutions/Easy/1550-three-consecutive-odds/solution.c) |
 | time-based-key-value-store | Time Based Key-Value Store | Medium | cpp | [Problem](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./solutions/Medium/0981-time-based-key-value-store/solution.cpp) |
 | toeplitz-matrix | 766. Toeplitz Matrix | Easy | c | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.c) |
 | jewels-and-stones | 771. Jewels And Stones | Easy | c | [Problem](https://leetcode.com/problems/jewels-and-stones/) | [Solution](./solutions/Easy/0771-jewels-and-stones/solution.c) |
@@ -355,7 +357,6 @@
 | unique-morse-code-words | 804. Unique Morse Code Words | Easy | c | [Problem](https://leetcode.com/problems/unique-morse-code-words/) | [Solution](./solutions/Easy/0804-unique-morse-code-words/solution.c) |
 | projection-area-of-3d-shapes | 883. Projection Area Of 3d Shapes | Easy | c | [Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Solution](./solutions/Easy/0883-projection-area-of-3d-shapes/solution.c) |
 | univalued-binary-tree | 965. Univalued Binary Tree | Easy | c | [Problem](https://leetcode.com/problems/univalued-binary-tree/) | [Solution](./solutions/Easy/0965-univalued-binary-tree/solution.c) |
-| three-consecutive-odds | 1550. Three Consecutive Odds | Easy | c | [Problem](https://leetcode.com/problems/three-consecutive-odds/) | [Solution](./solutions/Easy/1550-three-consecutive-odds/solution.c) |
 | vertical-order-traversal-of-a-binary-tree | Vertical Order Traversal of a Binary Tree | Hard | c | [Problem](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution](./solutions/Hard/0987-vertical-order-traversal-of-a-binary-tree/solution.c) |
 | ways-to-split-array-into-three-subarrays | 1712. Ways To Split Array Into Three Subarrays | Medium | c | [Problem](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [Solution](./solutions/Medium/1712-ways-to-split-array-into-three-subarrays/solution.c) |
 | count-number-of-pairs-with-absolute-difference-k | 2006. Count Number Of Pairs With Absolute Difference K | Easy | java | [Problem](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [Solution](./solutions/Easy/2006-count-number-of-pairs-with-absolute-difference-k/solution.java) |
