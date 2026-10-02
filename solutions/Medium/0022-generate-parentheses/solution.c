@@ -4,7 +4,7 @@
 // Tags     : String, Dynamic Programming, Backtracking, Bracket Sequences
 // Link     : https://leetcode.com/problems/generate-parentheses/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 10052000 (beats 50%)
+// Memory   : 10056000 (beats 46%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
