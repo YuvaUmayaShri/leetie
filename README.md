@@ -19,6 +19,7 @@
 | basic-calculator | Basic Calculator | Hard | c | [Problem](https://leetcode.com/problems/basic-calculator/) | [Solution](./solutions/Hard/0224-basic-calculator/solution.c) |
 | binary-tree-preorder-traversal | Binary Tree Preorder Traversal | Easy | c | [Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0144-binary-tree-preorder-traversal/solution.c) |
 | count-binary-substrings | Count Binary Substrings | Easy | c | [Problem](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./solutions/Easy/0696-count-binary-substrings/solution.c) |
+| delete-and-earn | Delete and Earn | Medium | c | [Problem](https://leetcode.com/problems/delete-and-earn/) | [Solution](./solutions/Medium/0740-delete-and-earn/solution.c) |
 | escape-a-large-maze | Escape a Large Maze | Hard | c | [Problem](https://leetcode.com/problems/escape-a-large-maze/) | [Solution](./solutions/Hard/1036-escape-a-large-maze/solution.c) |
 | fair-candy-swap | Fair Candy Swap | Easy | c | [Problem](https://leetcode.com/problems/fair-candy-swap/) | [Solution](./solutions/Easy/0888-fair-candy-swap/solution.c) |
 | find-largest-value-in-each-tree-row | Find Largest Value in Each Tree Row | Medium | c | [Problem](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Solution](./solutions/Medium/0515-find-largest-value-in-each-tree-row/solution.c) |
@@ -42,7 +43,6 @@
 | largest-triangle-area | Largest Triangle Area | Easy | c | [Problem](https://leetcode.com/problems/largest-triangle-area/) | [Solution](./solutions/Easy/0812-largest-triangle-area/solution.c) |
 | last-stone-weight | Last Stone Weight | Easy | c | [Problem](https://leetcode.com/problems/last-stone-weight/) | [Solution](./solutions/Easy/1046-last-stone-weight/solution.c) |
 | longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | c | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.c) |
-| longest-valid-parentheses | Longest Valid Parentheses | Hard | c | [Problem](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](./solutions/Hard/0032-longest-valid-parentheses/solution.c) |
 | make-lexicographically-smallest-array-by-swapping-elements | Make Lexicographically Smallest Array by Swapping Elements | Medium | c | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.c) |
 | max-chunks-to-make-sorted-ii | Max Chunks To Make Sorted II | Hard | c | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [Solution](./solutions/Hard/0768-max-chunks-to-make-sorted-ii/solution.c) |
 | maximal-square | Maximal Square | Medium | c | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.c) |
@@ -161,7 +161,6 @@
 | daily-temperatures | Daily Temperatures | Medium | java | [Problem](https://leetcode.com/problems/daily-temperatures/) | [Solution](./solutions/Medium/0739-daily-temperatures/solution.java) |
 | decode-ways | Decode Ways | Medium | c | [Problem](https://leetcode.com/problems/decode-ways/) | [Solution](./solutions/Medium/0091-decode-ways/solution.c) |
 | defuse-the-bomb | Defuse the Bomb | Easy | c | [Problem](https://leetcode.com/problems/defuse-the-bomb/) | [Solution](./solutions/Easy/1652-defuse-the-bomb/solution.c) |
-| delete-and-earn | Delete and Earn | Medium | c | [Problem](https://leetcode.com/problems/delete-and-earn/) | [Solution](./solutions/Medium/0740-delete-and-earn/solution.c) |
 | delete-nodes-from-linked-list-present-in-array | Delete Nodes From Linked List Present in Array | Medium | c | [Problem](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [Solution](./solutions/Medium/3217-delete-nodes-from-linked-list-present-in-array/solution.c) |
 | design-a-text-editor | Design a Text Editor | Hard | c | [Problem](https://leetcode.com/problems/design-a-text-editor/) | [Solution](./solutions/Hard/2296-design-a-text-editor/solution.c) |
 | design-front-middle-back-queue | Design Front Middle Back Queue | Medium | c | [Problem](https://leetcode.com/problems/design-front-middle-back-queue/) | [Solution](./solutions/Medium/1670-design-front-middle-back-queue/solution.c) |
@@ -207,6 +206,7 @@
 | longest-non-decreasing-subarray-from-two-arrays | Longest Non-decreasing Subarray From Two Arrays | Medium | c | [Problem](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | [Solution](./solutions/Medium/2771-longest-non-decreasing-subarray-from-two-arrays/solution.c) |
 | longest-repeating-character-replacement | Longest Repeating Character Replacement | Medium | c | [Problem](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](./solutions/Medium/0424-longest-repeating-character-replacement/solution.c) |
 | longest-turbulent-subarray | Longest Turbulent Subarray | Medium | c | [Problem](https://leetcode.com/problems/longest-turbulent-subarray/) | [Solution](./solutions/Medium/0978-longest-turbulent-subarray/solution.c) |
+| longest-valid-parentheses | Longest Valid Parentheses | Hard | c | [Problem](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](./solutions/Hard/0032-longest-valid-parentheses/solution.c) |
 | longest-word-in-dictionary-through-deleting | Longest Word in Dictionary through Deleting | Medium | c | [Problem](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Solution](./solutions/Medium/0524-longest-word-in-dictionary-through-deleting/solution.c) |
 | majority-element-ii | Majority Element II | Medium | c | [Problem](https://leetcode.com/problems/majority-element-ii/) | [Solution](./solutions/Medium/0229-majority-element-ii/solution.c) |
 | make-array-strictly-increasing | Make Array Strictly Increasing | Hard | c | [Problem](https://leetcode.com/problems/make-array-strictly-increasing/) | [Solution](./solutions/Hard/1187-make-array-strictly-increasing/solution.c) |
