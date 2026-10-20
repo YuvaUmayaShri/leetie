@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Math, Sorting, Enumeration
 // Link     : https://leetcode.com/problems/sum-of-sortable-integers/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 8148000 (beats 0%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 8104000 (beats 0%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
@@ -16,43 +16,44 @@
 long long sortableIntegers(int* nums, int numsSize) {
     long long total_sum = 0;
     
-    int* sorted_nums = (int*)malloc(numsSize * sizeof(int));
+    int* pref_max = (int*)malloc((numsSize + 1) * sizeof(int));
+    int* suff_min = (int*)malloc((numsSize + 1) * sizeof(int));
+    int* pref_drop = (int*)malloc((numsSize + 1) * sizeof(int));
+    
+    pref_max[0] = 0;
     for (int i = 0; i < numsSize; i++) {
-        sorted_nums[i] = nums[i];
+        pref_max[i + 1] = (pref_max[i] > nums[i]) ? pref_max[i] : nums[i];
     }
     
-    for (int i = 0; i < numsSize - 1; i++) {
-        for (int j = i + 1; j < numsSize; j++) {
-            if (sorted_nums[i] > sorted_nums[j]) {
-                int temp = sorted_nums[i];
-                sorted_nums[i] = sorted_nums[j];
-                sorted_nums[j] = temp;
-            }
-        }
+    suff_min[numsSize] = 2000000000;
+    for (int i = numsSize - 1; i >= 0; i--) {
+        suff_min[i] = (nums[i] < suff_min[i + 1]) ? nums[i] : suff_min[i + 1];
+    }
+    
+    pref_drop[0] = 0;
+    for (int i = 1; i < numsSize; i++) {
+        pref_drop[i] = pref_drop[i - 1] + (nums[i - 1] > nums[i] ? 1 : 0);
     }
     
     for (int k = 1; k <= numsSize; k++) {
         if (numsSize % k != 0) continue;
         
         int possible = 1;
+        
         for (int i = 0; i < numsSize; i += k) {
-            int block_valid = 0;
+            int start = i;
+            int end = i + k - 1;
             
-            for (int rot = 0; rot < k; rot++) {
-                int match = 1;
-                for (int j = 0; j < k; j++) {
-                    if (nums[i + (j + rot) % k] != sorted_nums[i + j]) {
-                        match = 0;
-                        break;
-                    }
-                }
-                if (match) {
-                    block_valid = 1;
+            if (end + 1 < numsSize) {
+                if (pref_max[end + 1] > suff_min[end + 1]) {
+                    possible = 0;
                     break;
                 }
             }
             
-            if (!block_valid) {
+            int internal_drops = pref_drop[end] - pref_drop[start];
+            int circular_drop = (nums[end] > nums[start]) ? 1 : 0;
+            if (internal_drops + circular_drop > 1) {
                 possible = 0;
                 break;
             }
@@ -63,6 +64,9 @@ long long sortableIntegers(int* nums, int numsSize) {
         }
     }
     
-    free(sorted_nums);
+    free(pref_max);
+    free(suff_min);
+    free(pref_drop);
+    
     return total_sum;
 }
