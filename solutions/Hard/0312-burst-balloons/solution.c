@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming
 // Link     : https://leetcode.com/problems/burst-balloons/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8384000 (beats 0%)
+// Runtime  : 138 ms (beats 10%)
+// Memory   : 10792000 (beats 42%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
