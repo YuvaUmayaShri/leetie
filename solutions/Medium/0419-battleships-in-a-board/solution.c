@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Depth-First Search, Matrix
 // Link     : https://leetcode.com/problems/battleships-in-a-board/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8376000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9488000 (beats 100%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
