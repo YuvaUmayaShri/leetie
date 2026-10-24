@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap
 // Link     : https://leetcode.com/problems/reverse-pairs/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8428000 (beats 0%)
+// Runtime  : 61 ms (beats 73%)
+// Memory   : 14572000 (beats 84%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
