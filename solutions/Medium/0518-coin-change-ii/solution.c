@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Knapsack Problem, Complete Knapsack
 // Link     : https://leetcode.com/problems/coin-change-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8220000 (beats 0%)
+// Runtime  : 61 ms (beats 7%)
+// Memory   : 35168000 (beats 13%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
