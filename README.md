@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 417 Solved
+## Progress Summary: 418 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -45,6 +45,7 @@
 | count-commas-in-range | Count Commas in Range | Easy | c | [Problem](https://leetcode.com/problems/count-commas-in-range/) | [Solution](./solutions/Easy/3870-count-commas-in-range/solution.c) |
 | count-commas-in-range-ii | Count Commas in Range II | Medium | c | [Problem](https://leetcode.com/problems/count-commas-in-range-ii/) | [Solution](./solutions/Medium/3871-count-commas-in-range-ii/solution.c) |
 | count-days-spent-together | Count Days Spent Together | Easy | c | [Problem](https://leetcode.com/problems/count-days-spent-together/) | [Solution](./solutions/Easy/2409-count-days-spent-together/solution.c) |
+| count-islands-with-total-value-divisible-by-k | Count Islands With Total Value Divisible by K | Medium | c | [Problem](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Solution](./solutions/Medium/3619-count-islands-with-total-value-divisible-by-k/solution.c) |
 | count-nodes-equal-to-average-of-subtree | Count Nodes Equal to Average of Subtree | Medium | c | [Problem](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution](./solutions/Medium/2265-count-nodes-equal-to-average-of-subtree/solution.c) |
 | count-pairs-of-nodes | Count Pairs Of Nodes | Hard | c | [Problem](https://leetcode.com/problems/count-pairs-of-nodes/) | [Solution](./solutions/Hard/1782-count-pairs-of-nodes/solution.c) |
 | create-maximum-number | Create Maximum Number | Hard | c | [Problem](https://leetcode.com/problems/create-maximum-number/) | [Solution](./solutions/Hard/0321-create-maximum-number/solution.c) |
