@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 423 Solved
+## Progress Summary: 424 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -285,6 +285,7 @@
 | largest-divisible-subset | Largest Divisible Subset | Medium | c | [Problem](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](./solutions/Medium/0368-largest-divisible-subset/solution.c) |
 | last-day-where-you-can-still-cross | Last Day Where You Can Still Cross | Hard | c | [Problem](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [Solution](./solutions/Hard/1970-last-day-where-you-can-still-cross/solution.c) |
 | letter-combinations-of-a-phone-number | Letter Combinations of a Phone Number | Medium | c | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./solutions/Medium/0017-letter-combinations-of-a-phone-number/solution.c) |
+| longest-consecutive-sequence | Longest Consecutive Sequence | Medium | cpp | [Problem](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./solutions/Medium/0128-longest-consecutive-sequence/solution.cpp) |
 | longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Medium | c | [Problem](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Solution](./solutions/Medium/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/solution.c) |
 | longest-increasing-path-in-a-matrix | Longest Increasing Path in a Matrix | Hard | c | [Problem](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](./solutions/Hard/0329-longest-increasing-path-in-a-matrix/solution.c) |
 | longest-nice-substring | Longest Nice Substring | Easy | c | [Problem](https://leetcode.com/problems/longest-nice-substring/) | [Solution](./solutions/Easy/1763-longest-nice-substring/solution.c) |
