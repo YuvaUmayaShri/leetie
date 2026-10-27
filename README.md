@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 419 Solved
+## Progress Summary: 420 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -300,6 +300,7 @@
 | maximum-units-on-a-truck | Maximum Units on a Truck | Easy | c | [Problem](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Solution](./solutions/Easy/1710-maximum-units-on-a-truck/solution.c) |
 | maximum-value-at-a-given-index-in-a-bounded-array | Maximum Value at a Given Index in a Bounded Array | Medium | c | [Problem](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [Solution](./solutions/Medium/1802-maximum-value-at-a-given-index-in-a-bounded-array/solution.c) |
 | maximum-width-ramp | Maximum Width Ramp | Medium | c | [Problem](https://leetcode.com/problems/maximum-width-ramp/) | [Solution](./solutions/Medium/0962-maximum-width-ramp/solution.c) |
+| merge-intervals | Merge Intervals | Medium | cpp | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.cpp) |
 | merge-nodes-in-between-zeros | Merge Nodes in Between Zeros | Medium | c | [Problem](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Solution](./solutions/Medium/2181-merge-nodes-in-between-zeros/solution.c) |
 | middle-of-the-linked-list | Middle of the Linked List | Easy | c | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.c) |
 | minimum-absolute-sum-difference | Minimum Absolute Sum Difference | Medium | c | [Problem](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [Solution](./solutions/Medium/1818-minimum-absolute-sum-difference/solution.c) |
