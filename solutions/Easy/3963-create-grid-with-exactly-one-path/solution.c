@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/create-grid-with-exactly-one-path/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8592000 (beats 0%)
+// Runtime  : 1 ms (beats 50%)
+// Memory   : 11720000 (beats 100%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
