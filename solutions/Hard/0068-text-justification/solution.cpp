@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, String, Simulation
 // Link     : https://leetcode.com/problems/text-justification/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8484000 (beats 0%)
+// Runtime  : 1 ms (beats 10%)
+// Memory   : 10588000 (beats 93%)
 // Language : cpp
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
