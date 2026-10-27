@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Union-Find
 // Link     : https://leetcode.com/problems/longest-consecutive-sequence/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8340000 (beats 0%)
+// Runtime  : 96 ms (beats 19%)
+// Memory   : 88712000 (beats 77%)
 // Language : cpp
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
