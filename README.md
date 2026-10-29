@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 425 Solved
+## Progress Summary: 426 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -356,6 +356,7 @@
 | number-of-valid-words-for-each-puzzle | Number of Valid Words for Each Puzzle | Hard | c | [Problem](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [Solution](./solutions/Hard/1178-number-of-valid-words-for-each-puzzle/solution.c) |
 | palindrome-partitioning | Palindrome Partitioning | Medium | c | [Problem](https://leetcode.com/problems/palindrome-partitioning/) | [Solution](./solutions/Medium/0131-palindrome-partitioning/solution.c) |
 | palindrome-partitioning-ii | Palindrome Partitioning II | Hard | c | [Problem](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Solution](./solutions/Hard/0132-palindrome-partitioning-ii/solution.c) |
+| palindromic-path-queries-in-a-tree | Palindromic Path Queries in a Tree | Hard | cpp | [Problem](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Solution](./solutions/Hard/3841-palindromic-path-queries-in-a-tree/solution.cpp) |
 | partition-equal-subset-sum | Partition Equal Subset Sum | Medium | c | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.c) |
 | partition-to-k-equal-sum-subsets | Partition to K Equal Sum Subsets | Medium | c | [Problem](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [Solution](./solutions/Medium/0698-partition-to-k-equal-sum-subsets/solution.c) |
 | patching-array | Patching Array | Hard | c | [Problem](https://leetcode.com/problems/patching-array/) | [Solution](./solutions/Hard/0330-patching-array/solution.c) |
