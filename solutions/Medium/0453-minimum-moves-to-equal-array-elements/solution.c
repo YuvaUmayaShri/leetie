@@ -4,7 +4,7 @@
 // Tags     : Array, Math
 // Link     : https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 10012000 (beats 86%)
+// Memory   : 9856000 (beats 95%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
