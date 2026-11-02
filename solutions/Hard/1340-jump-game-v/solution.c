@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming, Sorting
 // Link     : https://leetcode.com/problems/jump-game-v/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8368000 (beats 0%)
+// Runtime  : 161 ms (beats 8%)
+// Memory   : 205276000 (beats 8%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
