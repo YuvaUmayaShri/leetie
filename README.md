@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 431 Solved
+## Progress Summary: 432 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -384,6 +384,7 @@
 | reverse-degree-of-a-string | Reverse Degree of a String | Easy | c | [Problem](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Solution](./solutions/Easy/3498-reverse-degree-of-a-string/solution.c) |
 | reverse-linked-list-ii | Reverse Linked List II | Medium | c | [Problem](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](./solutions/Medium/0092-reverse-linked-list-ii/solution.c) |
 | reverse-pairs | Reverse Pairs | Hard | c | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.c) |
+| reverse-subarray-to-maximize-array-value | Reverse Subarray To Maximize Array Value | Hard | cpp | [Problem](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/) | [Solution](./solutions/Hard/1330-reverse-subarray-to-maximize-array-value/solution.cpp) |
 | reverse-substrings-between-each-pair-of-parentheses | Reverse Substrings Between Each Pair of Parentheses | Medium | c | [Problem](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Solution](./solutions/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/solution.c) |
 | russian-doll-envelopes | Russian Doll Envelopes | Hard | c | [Problem](https://leetcode.com/problems/russian-doll-envelopes/) | [Solution](./solutions/Hard/0354-russian-doll-envelopes/solution.c) |
 | score-of-parentheses | Score of Parentheses | Medium | c | [Problem](https://leetcode.com/problems/score-of-parentheses/) | [Solution](./solutions/Medium/0856-score-of-parentheses/solution.c) |
