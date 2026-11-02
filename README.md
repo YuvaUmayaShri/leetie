@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 433 Solved
+## Progress Summary: 434 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -284,6 +284,7 @@
 | ipo | IPO | Hard | c | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.c) |
 | is-subsequence | Is Subsequence | Easy | c | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.c) |
 | jump-game | Jump Game | Medium | c | [Problem](https://leetcode.com/problems/jump-game/) | [Solution](./solutions/Medium/0055-jump-game/solution.c) |
+| jump-game-v | Jump Game V | Hard | c | [Problem](https://leetcode.com/problems/jump-game-v/) | [Solution](./solutions/Hard/1340-jump-game-v/solution.c) |
 | koko-eating-bananas | 875. Koko Eating Bananas | Medium | java | [Problem](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./solutions/Medium/0875-koko-eating-bananas/solution.java) |
 | largest-divisible-subset | Largest Divisible Subset | Medium | c | [Problem](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](./solutions/Medium/0368-largest-divisible-subset/solution.c) |
 | last-day-where-you-can-still-cross | Last Day Where You Can Still Cross | Hard | c | [Problem](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [Solution](./solutions/Hard/1970-last-day-where-you-can-still-cross/solution.c) |
