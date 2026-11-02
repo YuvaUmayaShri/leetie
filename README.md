@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 427 Solved
+## Progress Summary: 428 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -158,6 +158,7 @@
 | longest-word-in-dictionary-through-deleting | Longest Word in Dictionary through Deleting | Medium | c | [Problem](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Solution](./solutions/Medium/0524-longest-word-in-dictionary-through-deleting/solution.c) |
 | majority-element-ii | Majority Element II | Medium | c | [Problem](https://leetcode.com/problems/majority-element-ii/) | [Solution](./solutions/Medium/0229-majority-element-ii/solution.c) |
 | make-array-strictly-increasing | Make Array Strictly Increasing | Hard | c | [Problem](https://leetcode.com/problems/make-array-strictly-increasing/) | [Solution](./solutions/Hard/1187-make-array-strictly-increasing/solution.c) |
+| matrix-block-sum | Matrix Block Sum | Medium | cpp | [Problem](https://leetcode.com/problems/matrix-block-sum/) | [Solution](./solutions/Medium/1314-matrix-block-sum/solution.cpp) |
 | max-increase-to-keep-city-skyline | Max Increase to Keep City Skyline | Medium | c | [Problem](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Solution](./solutions/Medium/0807-max-increase-to-keep-city-skyline/solution.c) |
 | max-points-on-a-line | Max Points on a Line | Hard | c | [Problem](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](./solutions/Hard/0149-max-points-on-a-line/solution.c) |
 | maximize-sum-of-squares-of-digits | Maximize Sum of Squares of Digits | Medium | c | [Problem](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | [Solution](./solutions/Medium/3723-maximize-sum-of-squares-of-digits/solution.c) |
