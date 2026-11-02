@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming, Greedy
 // Link     : https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8336000 (beats 0%)
+// Runtime  : 26 ms (beats 19%)
+// Memory   : 20964000 (beats 25%)
 // Language : cpp
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
