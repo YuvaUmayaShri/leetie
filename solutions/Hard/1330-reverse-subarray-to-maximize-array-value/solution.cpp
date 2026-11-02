@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Math, Greedy
 // Link     : https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8196000 (beats 0%)
+// Runtime  : 5 ms (beats 22%)
+// Memory   : 43792000 (beats 100%)
 // Language : cpp
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
