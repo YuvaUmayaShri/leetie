@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Matrix, Prefix Sum
 // Link     : https://leetcode.com/problems/matrix-block-sum/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8576000 (beats 0%)
+// Runtime  : 1 ms (beats 52%)
+// Memory   : 13708000 (beats 62%)
 // Language : cpp
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
