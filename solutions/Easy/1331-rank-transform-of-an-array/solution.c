@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Sorting
 // Link     : https://leetcode.com/problems/rank-transform-of-an-array/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8324000 (beats 0%)
+// Runtime  : 37 ms (beats 28%)
+// Memory   : 32128000 (beats 78%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
