@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Sorting
 // Link     : https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
-// Runtime  : 3 ms (beats 58%)
-// Memory   : 9632000 (beats 47%)
+// Runtime  : 1 ms (beats 66%)
+// Memory   : 9352000 (beats 88%)
 // Language : c
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
