@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 435 Solved
+## Progress Summary: 436 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -330,6 +330,7 @@
 | minimum-number-of-arrows-to-burst-balloons | Minimum Number of Arrows to Burst Balloons | Medium | c | [Problem](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Solution](./solutions/Medium/0452-minimum-number-of-arrows-to-burst-balloons/solution.c) |
 | minimum-number-of-moves-to-make-palindrome | Minimum Number of Moves to Make Palindrome | Hard | c | [Problem](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/) | [Solution](./solutions/Hard/2193-minimum-number-of-moves-to-make-palindrome/solution.c) |
 | minimum-number-of-taps-to-open-to-water-a-garden | Minimum Number of Taps to Open to Water a Garden | Hard | cpp | [Problem](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [Solution](./solutions/Hard/1326-minimum-number-of-taps-to-open-to-water-a-garden/solution.cpp) |
+| minimum-operations-to-make-elements-within-k-subarrays-equal | Minimum Operations to Make Elements Within K Subarrays Equal | Hard | cpp | [Problem](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [Solution](./solutions/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/solution.cpp) |
 | minimum-operations-to-reduce-x-to-zero | Minimum Operations to Reduce X to Zero | Medium | c | [Problem](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](./solutions/Medium/1658-minimum-operations-to-reduce-x-to-zero/solution.c) |
 | minimum-operations-to-sort-a-permutation | Minimum Operations to Sort a Permutation | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Solution](./solutions/Medium/3942-minimum-operations-to-sort-a-permutation/solution.cpp) |
 | minimum-operations-to-sort-a-string | Minimum Operations to Sort a String | Medium | c | [Problem](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Solution](./solutions/Medium/3863-minimum-operations-to-sort-a-string/solution.c) |
