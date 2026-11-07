@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 438 Solved
+## Progress Summary: 439 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -192,6 +192,7 @@
 | shortest-completing-word | Shortest Completing Word | Easy | c | [Problem](https://leetcode.com/problems/shortest-completing-word/) | [Solution](./solutions/Easy/0748-shortest-completing-word/solution.c) |
 | shortest-distance-to-target-string-in-a-circular-array | Shortest Distance to Target String in a Circular Array | Easy | c | [Problem](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Solution](./solutions/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/solution.c) |
 | shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | c | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.c) |
+| smallest-stable-index-i | Smallest Stable Index I | Easy | c | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.c) |
 | smallest-value-of-the-rearranged-number | Smallest Value of the Rearranged Number | Medium | c | [Problem](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Solution](./solutions/Medium/2165-smallest-value-of-the-rearranged-number/solution.c) |
 | sort-array-by-increasing-frequency | Sort Array by Increasing Frequency | Easy | c | [Problem](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Solution](./solutions/Easy/1636-sort-array-by-increasing-frequency/solution.c) |
 | sort-array-by-parity-ii | Sort Array By Parity II | Easy | c | [Problem](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](./solutions/Easy/0922-sort-array-by-parity-ii/solution.c) |
@@ -378,6 +379,7 @@
 | permutation-in-string | Permutation in String | Medium | c | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](./solutions/Medium/0567-permutation-in-string/solution.c) |
 | permutation-sequence | Permutation Sequence | Hard | c | [Problem](https://leetcode.com/problems/permutation-sequence/) | [Solution](./solutions/Hard/0060-permutation-sequence/solution.c) |
 | print-words-vertically | Print Words Vertically | Medium | cpp | [Problem](https://leetcode.com/problems/print-words-vertically/) | [Solution](./solutions/Medium/1324-print-words-vertically/solution.cpp) |
+| process-tasks-using-servers | Process Tasks Using Servers | Medium | python3 | [Problem](https://leetcode.com/problems/process-tasks-using-servers/) | [Solution](./solutions/Medium/1882-process-tasks-using-servers/solution.py) |
 | random-point-in-non-overlapping-rectangles | Random Point in Non-overlapping Rectangles | Medium | c | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.c) |
 | range-sum-query-mutable | Range Sum Query - Mutable | Medium | c | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.c) |
 | rank-transform-of-an-array | Rank Transform of an Array | Easy | c | [Problem](https://leetcode.com/problems/rank-transform-of-an-array/) | [Solution](./solutions/Easy/1331-rank-transform-of-an-array/solution.c) |
@@ -402,7 +404,6 @@
 | single-number-iii | Single Number III | Medium | c | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.c) |
 | sliding-window-median | Sliding Window Median | Hard | c | [Problem](https://leetcode.com/problems/sliding-window-median/) | [Solution](./solutions/Hard/0480-sliding-window-median/solution.c) |
 | smallest-index-with-digit-sum-equal-to-index | Smallest Index With Digit Sum Equal to Index | Easy | cpp | [Problem](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Solution](./solutions/Easy/3550-smallest-index-with-digit-sum-equal-to-index/solution.cpp) |
-| smallest-stable-index-i | Smallest Stable Index I | Easy | c | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.c) |
 | smallest-stable-index-ii | Smallest Stable Index II | Medium | c | [Problem](https://leetcode.com/problems/smallest-stable-index-ii/) | [Solution](./solutions/Medium/3904-smallest-stable-index-ii/solution.c) |
 | sort-the-matrix-diagonally | Sort the Matrix Diagonally | Medium | cpp | [Problem](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Solution](./solutions/Medium/1329-sort-the-matrix-diagonally/solution.cpp) |
 | spiral-matrix-ii | Spiral Matrix II | Medium | c | [Problem](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./solutions/Medium/0059-spiral-matrix-ii/solution.c) |
