@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 439 Solved
+## Progress Summary: 440 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -48,6 +48,7 @@
 | count-islands-with-total-value-divisible-by-k | Count Islands With Total Value Divisible by K | Medium | c | [Problem](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Solution](./solutions/Medium/3619-count-islands-with-total-value-divisible-by-k/solution.c) |
 | count-nodes-equal-to-average-of-subtree | Count Nodes Equal to Average of Subtree | Medium | c | [Problem](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution](./solutions/Medium/2265-count-nodes-equal-to-average-of-subtree/solution.c) |
 | count-pairs-of-nodes | Count Pairs Of Nodes | Hard | c | [Problem](https://leetcode.com/problems/count-pairs-of-nodes/) | [Solution](./solutions/Hard/1782-count-pairs-of-nodes/solution.c) |
+| count-servers-that-communicate | Count Servers that Communicate | Medium | python3 | [Problem](https://leetcode.com/problems/count-servers-that-communicate/) | [Solution](./solutions/Medium/1267-count-servers-that-communicate/solution.py) |
 | count-zero-request-servers | Count Zero Request Servers | Medium | python3 | [Problem](https://leetcode.com/problems/count-zero-request-servers/) | [Solution](./solutions/Medium/2747-count-zero-request-servers/solution.py) |
 | create-grid-with-exactly-one-path | Create Grid With Exactly One Path | Easy | c | [Problem](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [Solution](./solutions/Easy/3963-create-grid-with-exactly-one-path/solution.c) |
 | create-maximum-number | Create Maximum Number | Hard | c | [Problem](https://leetcode.com/problems/create-maximum-number/) | [Solution](./solutions/Hard/0321-create-maximum-number/solution.c) |
