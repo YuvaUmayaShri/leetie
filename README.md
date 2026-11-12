@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 441 Solved
+## Progress Summary: 442 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -297,6 +297,7 @@
 | longest-increasing-path-in-a-matrix | Longest Increasing Path in a Matrix | Hard | c | [Problem](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](./solutions/Hard/0329-longest-increasing-path-in-a-matrix/solution.c) |
 | longest-nice-substring | Longest Nice Substring | Easy | c | [Problem](https://leetcode.com/problems/longest-nice-substring/) | [Solution](./solutions/Easy/1763-longest-nice-substring/solution.c) |
 | longest-repeating-character-replacement | Longest Repeating Character Replacement | Medium | c | [Problem](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](./solutions/Medium/0424-longest-repeating-character-replacement/solution.c) |
+| longest-strictly-increasing-or-strictly-decreasing-subarray | Longest Strictly Increasing or Strictly Decreasing Subarray | Easy | python3 | [Problem](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Solution](./solutions/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/solution.py) |
 | longest-turbulent-subarray | Longest Turbulent Subarray | Medium | c | [Problem](https://leetcode.com/problems/longest-turbulent-subarray/) | [Solution](./solutions/Medium/0978-longest-turbulent-subarray/solution.c) |
 | longest-valid-parentheses | Longest Valid Parentheses | Hard | c | [Problem](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](./solutions/Hard/0032-longest-valid-parentheses/solution.c) |
 | longest-word-in-dictionary-through-deleting | Longest Word in Dictionary through Deleting | Medium | c | [Problem](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Solution](./solutions/Medium/0524-longest-word-in-dictionary-through-deleting/solution.c) |
