@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 443 Solved
+## Progress Summary: 444 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -350,6 +350,7 @@
 | minimum-operations-to-sort-a-string | Minimum Operations to Sort a String | Medium | c | [Problem](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Solution](./solutions/Medium/3863-minimum-operations-to-sort-a-string/solution.c) |
 | minimum-pair-removal-to-sort-array-i | Minimum Pair Removal to Sort Array I | Easy | c | [Problem](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Solution](./solutions/Easy/3507-minimum-pair-removal-to-sort-array-i/solution.c) |
 | minimum-pair-removal-to-sort-array-ii | Minimum Pair Removal to Sort Array II | Hard | c | [Problem](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [Solution](./solutions/Hard/3510-minimum-pair-removal-to-sort-array-ii/solution.c) |
+| minimum-positive-sum-subarray | Minimum Positive Sum Subarray | Easy | cpp | [Problem](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [Solution](./solutions/Easy/3364-minimum-positive-sum-subarray/solution.cpp) |
 | minimum-size-subarray-sum | Minimum Size Subarray Sum | Medium | c | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](./solutions/Medium/0209-minimum-size-subarray-sum/solution.c) |
 | minimum-sum-of-squared-difference | Minimum Sum of Squared Difference | Medium | c | [Problem](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Solution](./solutions/Medium/2333-minimum-sum-of-squared-difference/solution.c) |
 | minimum-xor-path-in-a-grid | Minimum XOR Path in a Grid | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Solution](./solutions/Medium/3882-minimum-xor-path-in-a-grid/solution.cpp) |
