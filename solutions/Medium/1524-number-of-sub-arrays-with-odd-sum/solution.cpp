@@ -4,7 +4,7 @@
 // Tags     : Array, Math, Dynamic Programming, Prefix Sum
 // Link     : https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
 // Runtime  : 3 ms (beats 74%)
-// Memory   : 111824000 (beats 92%)
+// Memory   : 111960000 (beats 74%)
 // Language : cpp
 // Copyright: (c) 2026 YuvaUmayaShri. All rights reserved.
 // Synced by: leetie
